@@ -25,6 +25,7 @@ sudo ./install --update
 ```
 
 - update your current installation of the AWS CLI
-```
+```t
+update your current installation of the AWS CLI
 
 ```
