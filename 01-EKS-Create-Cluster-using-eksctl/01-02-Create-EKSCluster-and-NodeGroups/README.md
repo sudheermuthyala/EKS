@@ -18,7 +18,9 @@ It’s a managed service by AWS
 
 - **Fargate Profiles (Serverless) :** Instead of EC2 Instances, we run our Application workloads on Serverless Fargate profiles
 - **VPC :** With AWS VPC we follow secure networking standards which will allow us to run production workloads on EKS. 
-
+<p align="center">
+  <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-01-14-25-56.png" />
+    </p>
 
 
 
