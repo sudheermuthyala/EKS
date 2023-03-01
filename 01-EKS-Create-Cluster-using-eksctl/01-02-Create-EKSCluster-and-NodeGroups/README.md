@@ -17,7 +17,7 @@ Introduction
 EKS Cluster
 - **EKS Control Plane :** Contains Kubernetes Master components like **etcd**, **kube-apiserver**, **kube-controller**.
 It’s a managed service by AWS
-- Worker Nodes & Node Groups: Group of EC2 Instances where we run our Application workloads
+- **Worker Nodes & Node Groups :** Group of EC2 Instances where we run our Application workloads
 
 
 
