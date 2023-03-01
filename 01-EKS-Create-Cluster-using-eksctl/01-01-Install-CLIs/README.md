@@ -57,5 +57,7 @@ aws ec2 describe-vpcs
 - Reference: https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
 
 ```t
+## Download the kubectl binary 
+
 
 ```
