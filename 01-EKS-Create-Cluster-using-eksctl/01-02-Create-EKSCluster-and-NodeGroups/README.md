@@ -92,3 +92,5 @@ eksctl utils associate-iam-oidc-provider \
 - Create a new EC2 Keypair with name as `eks`
 - This keypair we will use it when creating the EKS NodeGroup
 - This will help us to login to the EKS Worker Nodes using Terminal
+
+## Create Node Group with additional Add-Ons in Public Subnets
