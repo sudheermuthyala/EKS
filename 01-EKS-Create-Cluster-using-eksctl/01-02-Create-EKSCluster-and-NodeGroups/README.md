@@ -37,6 +37,11 @@ It’s a managed service by AWS
         2. Be running the same AMI
         3. Use the same EKS worker node IAM role 
 - **Fargate Profiles :**
+AWS Fargate is a technology that provides on-demand, right-sized compute capacity for containers
+With Fargate, we no longer have to provision, configure, or scale groups of virtual machines to run containers. 
+Each pod running on Fargate has its own isolation boundary and does not share the underlying kernel, CPU resources, memory resources, or elastic network interface with another pod.
+AWS specially built Fargate controllers that recognizes the pods belonging to fargate and schedules them on Fargate profiles. 
+We will see more in our Fargate learning section.
 
 
 
