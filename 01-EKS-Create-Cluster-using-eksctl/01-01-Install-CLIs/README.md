@@ -31,3 +31,21 @@ sudo ./aws/install --update
 ```
 
 ## Configure AWS Command Line using Security Credentials
+- Go to AWS Management Console --> Services --> IAM
+- Select the IAM User: kalyan 
+- **Important Note:** Use only IAM user to generate **Security Credentials**. Never ever use Root User. (Highly not recommended)
+- Click on **Security credentials** tab
+- Click on **Create access key**
+- Copy Access ID and Secret access key
+- Go to command line and provide the required details
+```
+aws configure
+AWS Access Key ID [None]: ABCDEFGHIAZBERTUCNGG  (Replace your creds when prompted)
+AWS Secret Access Key [None]: uMe7fumK1IdDB094q2sGFhM5Bqt3HQRw3IHZzBDTm  (Replace your creds when prompted)
+Default region name [None]: us-east-1
+Default output format [None]: json
+```
+- Test if AWS CLI is working after configuring the above
+```
+aws ec2 describe-vpcs
+```
