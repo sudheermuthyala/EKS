@@ -77,6 +77,7 @@ Kustomize Version: v4.5.7
 ```
 ##  Install eksctl CLI On Linux
 - For windows and linux OS, you can refer below documentation link.
+- Reference: https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html#installing-eksctl
 
 ```t
 # Download and extract the latest release of eksctl with the following command.
