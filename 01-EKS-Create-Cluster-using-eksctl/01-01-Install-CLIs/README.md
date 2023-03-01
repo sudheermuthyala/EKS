@@ -18,4 +18,6 @@ aws --version
 aws-cli/2.10.3 Python/3.9.11 Linux/4.18.0-257.el8.x86_64 exe/x86_64.centos.8 prompt/off
 
 which aws
+
+sudo ./install --update
 ```
