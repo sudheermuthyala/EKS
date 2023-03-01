@@ -61,7 +61,8 @@ eksctl create cluster --name=msekscluster \
 # Get List of clusters
 eksctl get cluster       
 
-# kubectl get nodes
+# List Nodes in current kubernetes cluster 
+kubectl get nodes
 ```
 
 
