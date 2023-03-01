@@ -67,3 +67,4 @@ kubectl get nodes
 
 
 
+## Create & Associate IAM OIDC Provider for our EKS Cluster 
