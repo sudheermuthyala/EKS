@@ -29,3 +29,5 @@ which aws
 sudo ./aws/install --update
 
 ```
+
+## Configure AWS Command Line using Security Credentials
