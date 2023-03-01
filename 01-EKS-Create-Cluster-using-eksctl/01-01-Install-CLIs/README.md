@@ -77,6 +77,7 @@ Kustomize Version: v4.5.7
 ```
 ##  Install eksctl CLI On Linux
 
+
 ```t
 # Download and extract the latest release of eksctl with the following command.
 curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
