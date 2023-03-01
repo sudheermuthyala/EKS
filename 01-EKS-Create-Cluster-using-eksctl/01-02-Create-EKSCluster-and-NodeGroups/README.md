@@ -72,3 +72,8 @@ kubectl get nodes
 - To do so using `eksctl` we can use the below command.
 - using eksctl version (as on today the latest version is 0.131.0)
 
+```t
+# Template
+
+
+```
