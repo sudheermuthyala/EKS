@@ -14,3 +14,5 @@ Introduction
 - Verify Cluster, Node Groups, EC2 Instances, IAM Policies and Node Groups
 
 ## AWS EKS – Core Objects 
+EKS Cluster
+- 
