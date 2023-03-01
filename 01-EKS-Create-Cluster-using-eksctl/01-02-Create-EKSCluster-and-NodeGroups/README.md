@@ -10,3 +10,5 @@ Introduction
     </p>
 - Create EKS Cluster
 - Associate EKS Cluster to IAM OIDC Provider
+- Create EKS Node Groups
+- Verify Cluster, Node Groups, EC2 Instances, IAM Policies and Node Groups
