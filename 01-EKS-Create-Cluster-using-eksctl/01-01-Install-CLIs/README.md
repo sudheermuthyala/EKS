@@ -90,3 +90,5 @@ eksctl version
 ```
 
 ## Getting started with Amazon EKS – eksctl
+References:
+- https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
