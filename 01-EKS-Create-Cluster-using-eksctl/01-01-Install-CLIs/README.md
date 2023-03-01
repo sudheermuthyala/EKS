@@ -75,4 +75,5 @@ kubectl version  --client
 Client Version: v1.25.6-eks-48e63af
 Kustomize Version: v4.5.7
 ```
-##  Install eksctl CLI 
+##  Install eksctl CLI On Linux
+
