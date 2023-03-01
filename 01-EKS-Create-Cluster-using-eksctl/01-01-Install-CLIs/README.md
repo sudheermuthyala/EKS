@@ -13,3 +13,6 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 - Verify the installation
+```
+
+```
