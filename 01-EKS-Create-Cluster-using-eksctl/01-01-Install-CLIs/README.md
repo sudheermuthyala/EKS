@@ -88,3 +88,5 @@ sudo mv /tmp/eksctl /usr/local/bin
 eksctl version
 
 ```
+
+## Getting started with Amazon EKS – eksctl
