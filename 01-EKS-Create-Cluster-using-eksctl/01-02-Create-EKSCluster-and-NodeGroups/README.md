@@ -31,7 +31,7 @@ It’s a managed service by AWS
     1. Worker machines in Kubernetes are called nodes.  These are EC2 Instances
     2. EKS worker nodes run in our AWS account and connect to our cluster's control plane via the cluster API server endpoint. 
     3. A node group is one or more EC2 instances that are deployed in an EC2 Autoscaling group. 
-All instances in a node group must 
+    All instances in a node group must 
 Be the same instance type
 Be running the same AMI
 Use the same EKS worker node IAM role
