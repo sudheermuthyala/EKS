@@ -51,7 +51,7 @@ Default output format [None]: json
 aws ec2 describe-vpcs
 ```
 
-## Install kubectl CLI
+## Install kubectl CLI 
 - **IMPORTANT NOTE:** Kubectl binaries for EKS please prefer to use from Amazon (**Amazon EKS-vended kubectl binary**)
 - This will help us to get the exact Kubectl client version based on our EKS Cluster version. You can use the below documentation link to download the binary.
 - Reference: https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
