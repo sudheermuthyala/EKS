@@ -118,7 +118,7 @@ eksctl create nodegroup --cluster= <cluster-name>\
 
 
 # Create Public Node Group   
-## Replacing with cluster 
+## Replacing with --cluster
 eksctl create nodegroup --cluster=msekscluster \
                        --region=us-east-1 \
                        --name=msekscluster-ng-public1 \
