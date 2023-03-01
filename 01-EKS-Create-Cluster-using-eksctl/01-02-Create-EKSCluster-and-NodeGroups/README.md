@@ -50,6 +50,15 @@ It’s a managed service by AWS
 ## Create EKS Cluster using eksctl
 - It will take 15 to 20 minutes to create the Cluster Control Plane
 
+```t
+# Create Cluster
+eksctl create cluster --name=eksdemo1 \
+                      --region=us-east-1 \
+                      --zones=us-east-1a,us-east-1b \
+                      --without-nodegroup 
+
+# Get List of clusters
+eksctl get cluster                  
 ```
 
 
