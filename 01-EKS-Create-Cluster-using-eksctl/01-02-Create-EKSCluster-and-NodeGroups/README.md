@@ -6,7 +6,7 @@ Introduction
     - Fargate Profiles
     - VPC
 - Create EKS Cluster [Create cluster using eksctl](https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-02-Create-EKSCluster-and-NodeGroups#create-eks-cluster)
-- Associate EKS Cluster to IAM OIDC Provider [Open ID connect ]
+- Associate EKS Cluster to IAM OIDC Provider [Open ID connect Provider](https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-02-Create-EKSCluster-and-NodeGroups#create--associate-iam-open-id-connect-provider-oidc-provider-for-our-eks-cluster)
 - Create EC2 Keypair
 - Create EKS Node Groups
 - Verify Cluster, Node Groups, EC2 Instances, IAM Policies and Node Groups
