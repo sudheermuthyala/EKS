@@ -5,7 +5,7 @@ Introduction
     - Worker Nodes & Node Groups
     - Fargate Profiles
     - VPC
-- Create EKS Cluster [Create cluster](https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-02-Create-EKSCluster-and-NodeGroups#create-eks-cluster)
+- Create EKS Cluster [Create cluster using eksctl](https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-02-Create-EKSCluster-and-NodeGroups#create-eks-cluster)
 - Associate EKS Cluster to IAM OIDC Provider
 - Create EKS Node Groups
 - Verify Cluster, Node Groups, EC2 Instances, IAM Policies and Node Groups
