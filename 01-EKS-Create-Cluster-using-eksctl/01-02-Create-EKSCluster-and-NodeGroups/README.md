@@ -80,5 +80,6 @@ eksctl utils associate-iam-oidc-provider \
     --approve
 
 
-#
+# Replace with region & cluster name
+
 ```
