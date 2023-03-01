@@ -69,5 +69,6 @@ echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc
 
 # Verify the kubectl version
     kubectl version --short --client
+    
 
 ```
