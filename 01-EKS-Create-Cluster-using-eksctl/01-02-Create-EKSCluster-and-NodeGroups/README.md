@@ -15,4 +15,6 @@ Introduction
 
 ## AWS EKS – Core Objects 
 EKS Cluster
-- **EKS Control Plane :** 
+- **EKS Control Plane :** Contains Kubernetes Master components like etcd, kube-apiserver, kube-controller.
+It’s a managed service by AWS
+
