@@ -28,7 +28,7 @@ It’s a managed service by AWS
     2. This control plane consists of at least two API server nodes and three etcd nodes that run across three Availability Zones within a Region
     3. EKS automatically detects and replaces unhealthy control plane instances, restarting them across the Availability Zones within the Region as needed.
 - **Worker Nodes & Node Groups :**
-    Worker machines in Kubernetes are called nodes.  These are EC2 Instances
+    1. Worker machines in Kubernetes are called nodes.  These are EC2 Instances
 EKS worker nodes run in our AWS account and connect to our cluster's control plane via the cluster API server endpoint. 
 A node group is one or more EC2 instances that are deployed in an EC2 Autoscaling group. 
 All instances in a node group must 
