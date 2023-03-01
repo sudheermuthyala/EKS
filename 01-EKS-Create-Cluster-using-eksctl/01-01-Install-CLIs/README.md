@@ -49,3 +49,5 @@ Default output format [None]: json
 ```
 aws ec2 describe-vpcs
 ```
+
+## Install kubectl CLI
