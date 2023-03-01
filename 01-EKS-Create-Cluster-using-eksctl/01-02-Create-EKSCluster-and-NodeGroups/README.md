@@ -74,6 +74,9 @@ kubectl get nodes
 
 ```t
 # Template
-
+eksctl utils associate-iam-oidc-provider \
+    --region region-code \
+    --cluster <cluter-name> \
+    --approve
 
 ```
