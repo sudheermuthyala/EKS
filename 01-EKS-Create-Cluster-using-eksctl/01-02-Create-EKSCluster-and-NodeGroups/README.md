@@ -43,7 +43,7 @@ It’s a managed service by AWS
     4. AWS specially built Fargate controllers that recognizes the pods belonging to fargate and schedules them on Fargate profiles. 
 - **VPC :**
     1. EKS uses AWS VPC network policies to restrict traffic between control plane components to within a single cluster. 
-Control plane components for a EKS cluster cannot view or receive communication from other clusters or other AWS accounts, except as authorized with Kubernetes RBAC policies. 
+    2. Control plane components for a EKS cluster cannot view or receive communication from other clusters or other AWS accounts, except as authorized with Kubernetes RBAC policies. 
 This secure and highly-available configuration makes EKS reliable and recommended for production workloads.
 
 
