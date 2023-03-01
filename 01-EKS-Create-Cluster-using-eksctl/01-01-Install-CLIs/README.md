@@ -69,8 +69,8 @@ echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc
 
 # Verify the kubectl version
     kubectl version --short --client
-
-    Client Version: v1.25.6-eks-48e63af
+#
+Client Version: v1.25.6-eks-48e63af
 Kustomize Version: v4.5.7
 
 
