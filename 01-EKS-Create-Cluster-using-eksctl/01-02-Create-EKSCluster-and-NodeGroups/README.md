@@ -5,4 +5,11 @@ Introduction
     - Worker Nodes & Node Groups
     - Fargate Profiles
     - VPC
-\
+
+
+
+
+
+<p align="center">
+  <img src="" />
+    </p>
