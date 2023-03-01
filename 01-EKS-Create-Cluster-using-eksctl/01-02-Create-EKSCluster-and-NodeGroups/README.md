@@ -59,7 +59,9 @@ eksctl create cluster --name=msekscluster \
                       --without-nodegroup 
 
 # Get List of clusters
-eksctl get cluster                  
+eksctl get cluster       
+
+# kubectl get nodes
 ```
 
 
