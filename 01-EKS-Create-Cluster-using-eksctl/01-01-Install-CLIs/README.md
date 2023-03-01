@@ -76,7 +76,7 @@ Client Version: v1.25.6-eks-48e63af
 Kustomize Version: v4.5.7
 ```
 ##  Install eksctl CLI On Linux
-
+- For windows and linux OS, you can refer below documentation link.
 
 ```t
 # Download and extract the latest release of eksctl with the following command.
