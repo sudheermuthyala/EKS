@@ -87,3 +87,4 @@ eksctl utils associate-iam-oidc-provider \
     --approve
 
 ```
+## Create EC2 Keypair
