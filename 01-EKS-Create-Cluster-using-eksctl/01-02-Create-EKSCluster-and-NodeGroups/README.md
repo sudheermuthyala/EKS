@@ -1,6 +1,6 @@
 ## Create EKS Cluster & Node Groups
 Introduction
-- Understand about EKS Core Objects
+- Understand about EKS Core Objects (https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-02-Create-EKSCluster-and-NodeGroups#eks-cluster--core-objects-detailed)
     - Control Plane
     - Worker Nodes & Node Groups
     - Fargate Profiles
