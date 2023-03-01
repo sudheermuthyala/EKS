@@ -36,7 +36,8 @@ It’s a managed service by AWS
         1. Be the same instance type
         2. Be running the same AMI
         3. Use the same EKS worker node IAM role 
-- 
+- **Fargate Profiles**
+
 
 
 
