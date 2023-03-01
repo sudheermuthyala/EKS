@@ -68,7 +68,8 @@ mkdir -p $HOME/bin && cp ./kubectl $HOME/bin/kubectl && export PATH=$PATH:$HOME/
 echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc 
 
 # Verify the kubectl version
-    kubectl version --short --client
+kubectl version --short --client
+
 # Output: 
 Client Version: v1.25.6-eks-48e63af
 Kustomize Version: v4.5.7
