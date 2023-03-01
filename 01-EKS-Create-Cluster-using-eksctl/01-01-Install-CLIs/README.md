@@ -5,4 +5,4 @@
 - Install kubectl CLI
 - Install eksctl CLI
 
-## Install and configure AWS CLI
+## Install and configure AWS CLI 
