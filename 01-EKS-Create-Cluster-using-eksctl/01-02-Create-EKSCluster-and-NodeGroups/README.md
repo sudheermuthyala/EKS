@@ -23,6 +23,6 @@ It’s a managed service by AWS
     </p>
 
 ## EKS Cluster – Core Objects Detailed
-- **EKS Control Plane**
+- **EKS Control Plane :** 
 
 
