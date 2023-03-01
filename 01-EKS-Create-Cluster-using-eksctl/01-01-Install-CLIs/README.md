@@ -26,6 +26,6 @@ which aws
 
 - update your current installation of the AWS CLI
 ```t
-sudo ./install --update
+sudo ./aws/install --update
 
 ```
