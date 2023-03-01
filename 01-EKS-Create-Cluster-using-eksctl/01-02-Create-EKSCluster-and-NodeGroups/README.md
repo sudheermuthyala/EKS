@@ -27,8 +27,7 @@ It’s a managed service by AWS
     1. EKS runs a single tenant Kubernetes control plane for each cluster, and control plane infrastructure is not shared across clusters or AWS accounts.
     2. This control plane consists of at least two API server nodes and three etcd nodes that run across three Availability Zones within a Region
     3. EKS automatically detects and replaces unhealthy control plane instances, restarting them across the Availability Zones within the Region as needed.
-- **Worker Nodes & Node Groups
-**
+- **Worker Nodes & Node Groups:**
 
 
 
