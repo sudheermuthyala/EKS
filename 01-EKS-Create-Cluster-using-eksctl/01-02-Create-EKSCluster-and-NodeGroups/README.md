@@ -15,4 +15,4 @@ Introduction
 
 ## AWS EKS – Core Objects 
 EKS Cluster
-- 
+- EKS Control Plane
