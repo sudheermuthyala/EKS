@@ -7,4 +7,8 @@
 
 ## Linux - Install and configure AWS CLI 
 - Download the binary and install via command line using below two commands.
-
+```
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+```
