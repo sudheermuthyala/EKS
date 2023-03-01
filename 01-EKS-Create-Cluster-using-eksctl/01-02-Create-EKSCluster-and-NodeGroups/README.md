@@ -20,4 +20,8 @@ It’s a managed service by AWS
 - **Worker Nodes & Node Groups :** Group of EC2 Instances where we run our Application workloads
 
 - **Fargate Profiles (Serverless) :** Instead of EC2 Instances, we run our Application workloads on Serverless Fargate profiles
-- **VPC :** With AWS
+- **VPC :** With AWS VPC we follow secure networking standards which will allow us to run production workloads on EKS. 
+
+
+
+
