@@ -74,6 +74,4 @@ kubectl version  --client
 # Output: 
 Client Version: v1.25.6-eks-48e63af
 Kustomize Version: v4.5.7
-
-
 ```
