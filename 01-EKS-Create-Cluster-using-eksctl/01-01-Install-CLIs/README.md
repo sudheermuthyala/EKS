@@ -58,6 +58,7 @@ aws ec2 describe-vpcs
 
 ```t
 ## Download the kubectl binary 
+curl -O https://s3.us-west-2.amazonaws.com/amazon-eks/1.25.6/2023-01-30/bin/linux/amd64/kubectl
 
 
 ```
