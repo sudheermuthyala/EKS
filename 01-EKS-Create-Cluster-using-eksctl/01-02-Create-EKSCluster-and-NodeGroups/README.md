@@ -41,7 +41,7 @@ It’s a managed service by AWS
     2. With Fargate, we no longer have to provision, configure, or scale groups of virtual machines to run containers. 
     3. Each pod running on Fargate has its own isolation boundary and does not share the underlying kernel, CPU resources, memory resources, or elastic network interface with another pod.
     4. AWS specially built Fargate controllers that recognizes the pods belonging to fargate and schedules them on Fargate profiles. 
-- 
+- **VPC :**
 
 
 
