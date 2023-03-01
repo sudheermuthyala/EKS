@@ -44,7 +44,7 @@ It’s a managed service by AWS
 - **VPC :**
     1. EKS uses AWS VPC network policies to restrict traffic between control plane components to within a single cluster. 
     2. Control plane components for a EKS cluster cannot view or receive communication from other clusters or other AWS accounts, except as authorized with Kubernetes RBAC policies. 
-This secure and highly-available configuration makes EKS reliable and recommended for production workloads.
+    3. This secure and highly-available configuration makes EKS reliable and recommended for production workloads.
 
 
 
