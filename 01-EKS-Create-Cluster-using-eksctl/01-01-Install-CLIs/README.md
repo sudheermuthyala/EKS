@@ -15,7 +15,7 @@ sudo ./aws/install
 - Verify the installation
 ```
 aws --version
-aws-cli/2.0.7 Python/3.7.4 Darwin/19.4.0 botocore/2.0.0dev11
+aws-cli/2.10.3 Python/3.9.11 Linux/4.18.0-257.el8.x86_64 exe/x86_64.centos.8 prompt/off
 
 which aws
 ```
