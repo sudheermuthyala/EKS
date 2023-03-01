@@ -63,6 +63,7 @@ curl -O https://s3.us-west-2.amazonaws.com/amazon-eks/1.25.6/2023-01-30/bin/linu
 # Provide execute permissions
 chmod +x ./kubectl
 
+# Set the Path by copying to user Home Directory
 mkdir -p $HOME/bin && cp ./kubectl $HOME/bin/kubectl && export PATH=$PATH:$HOME/bin
 
 echo 'export PATH=$PATH:$HOME/bin' >> ~/.bashrc
