@@ -128,7 +128,7 @@ eksctl create nodegroup --cluster=msekscluster \
                        --nodes-max=4 \
                        --node-volume-size=20 \
                        --ssh-access \
-                       --ssh-public-key=kube-demo \
+                       --ssh-public-key=eks \
                        --managed \
                        --asg-access \
                        --external-dns-access \
