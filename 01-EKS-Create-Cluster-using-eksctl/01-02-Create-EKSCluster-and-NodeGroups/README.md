@@ -5,9 +5,6 @@ Introduction
     - Worker Nodes & Node Groups
     - Fargate Profiles
     - VPC
-<p align="center">
-  <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-01-14-25-56.png" />
-    </p>
 - Create EKS Cluster
 - Associate EKS Cluster to IAM OIDC Provider
 - Create EKS Node Groups
