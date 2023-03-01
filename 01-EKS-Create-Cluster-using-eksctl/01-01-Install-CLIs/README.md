@@ -6,4 +6,4 @@
 - Install eksctl CLI
 
 ## Linux - Install and configure AWS CLI 
-
+- Download the binary and install via command line using below two commands.
