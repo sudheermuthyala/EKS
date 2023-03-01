@@ -2,8 +2,8 @@
 
 ## Introduction
 - Install AWS CLI [Linux](https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-01-Install-CLIs#linux---install-and-configure-aws-cli)
-- Install kubectl CLI [Linux]()
-- Install eksctl CLI
+- Install kubectl CLI [Linux](https://github.com/sudheermuthyala/EKS/tree/main/01-EKS-Create-Cluster-using-eksctl/01-01-Install-CLIs#install-kubectl-cli)
+- Install eksctl CLI [Linux]
 
 ## Linux - Install and configure AWS CLI 
 - Download the binary and install via command line using below two commands.
