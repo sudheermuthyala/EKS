@@ -89,4 +89,4 @@ eksctl utils associate-iam-oidc-provider \
 
 ```
 ## Create EC2 Keypair
-- Create a new EC2 Keypair with name as ``
+- Create a new EC2 Keypair with name as `eks`
