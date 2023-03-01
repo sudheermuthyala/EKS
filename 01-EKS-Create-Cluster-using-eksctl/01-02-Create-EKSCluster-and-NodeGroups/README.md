@@ -94,3 +94,4 @@ eksctl utils associate-iam-oidc-provider \
 - This will help us to login to the EKS Worker Nodes using Terminal
 
 ## Create Node Group with additional Add-Ons in Public Subnets
+- These add-ons will create the respective IAM policies for us automatically within our Node Group role
