@@ -32,9 +32,9 @@ It’s a managed service by AWS
     2. EKS worker nodes run in our AWS account and connect to our cluster's control plane via the cluster API server endpoint. 
     3. A node group is one or more EC2 instances that are deployed in an EC2 Autoscaling group. 
     4. All instances in a node group must 
-      1. Be the same instance type
-      2. Be running the same AMI
-      3. Use the same EKS worker node IAM role
+        1. Be the same instance type
+        2. Be running the same AMI
+        3. Use the same EKS worker node IAM role
 
 
 
