@@ -163,3 +163,5 @@ kubectl config view --minify
 ```
 
 ## Verify Worker Node IAM Role and list of Policies
+- Go to Services -> EC2 -> Worker Nodes
+- Click on IAM Role associated to EC2 Worker Nodes
