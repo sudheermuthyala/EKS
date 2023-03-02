@@ -15,3 +15,4 @@ eksctl delete nodegroup --cluster=eksdemo1 --name=mseks-ng-public1
 ```
 
 ## Delete Cluster
+We can delete cluster using eksctl delete cluster
