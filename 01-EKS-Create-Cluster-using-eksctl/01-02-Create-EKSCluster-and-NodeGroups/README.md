@@ -138,4 +138,4 @@ eksctl create nodegroup --cluster=mseks \
 
 ```
 
-## Ve
+## Verify Cluster & Nodes
