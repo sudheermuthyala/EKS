@@ -22,3 +22,5 @@ We can delete cluster using eksctl delete cluster
 eksctl delete cluster <clusterName>
 eksctl delete cluster mseks
 ```
+
+## Important Notes
