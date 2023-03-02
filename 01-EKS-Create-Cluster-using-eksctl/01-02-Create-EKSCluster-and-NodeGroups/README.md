@@ -137,3 +137,5 @@ eksctl create nodegroup --cluster=mseks \
                        --alb-ingress-access 
 
 ```
+
+## Verify
