@@ -11,5 +11,5 @@ eksctl get nodegroup --cluster=mseks
 
 # Delete Node Group
 eksctl delete nodegroup --cluster=<clusterName> --name=<nodegroupName>
-eksctl delete nodegroup --cluster=eksdemo1 --name=eksdemo1-ng-pu
+eksctl delete nodegroup --cluster=eksdemo1 --name=
 ```
