@@ -162,3 +162,4 @@ kubectl get nodes -o wide
 kubectl config view --minify
 ```
 
+## Verify Worker Node IAM Role and list of Policies
