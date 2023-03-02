@@ -167,3 +167,5 @@ kubectl config view --minify
 - Click on **IAM Role associated to EC2 Worker Nodes**
 
 ## Verify Security Group Associated to Worker Nodes
+Go to Services -> EC2 -> Worker Nodes
+Click on Security Group associated to EC2 Instance which contains remote in the name.
