@@ -170,4 +170,5 @@ kubectl config view --minify
 - Go to Services -> EC2 -> Worker Nodes
 - Click on Security Group associated to EC2 Instance which contains remote in the name.
 ## Verify CloudFormation Stacks
-- 
+- Verify Control Plane Stack & Events
+- Verify NodeGroup Stack & Events
