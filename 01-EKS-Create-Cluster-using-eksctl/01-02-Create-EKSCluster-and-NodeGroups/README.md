@@ -146,3 +146,4 @@ Verify NodeGroup subnets to confirm EC2 Instances are in Public Subnet
     - Click on Route Table Tab.
     - We should see that internet route via Internet Gateway (0.0.0.0/0 -> igw-xxxxxxxx)
 
+## 
