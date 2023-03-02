@@ -181,3 +181,5 @@ For  Linux or Windows10
 ssh -i kube-demo.pem ec2-user@<Public-IP-of-Worker-Node>
 ```
 
+## Update Worker Nodes Security Group to allow all traffic
+
