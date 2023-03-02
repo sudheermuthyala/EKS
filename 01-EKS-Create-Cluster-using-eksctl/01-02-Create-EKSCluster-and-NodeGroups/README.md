@@ -54,7 +54,7 @@ It’s a managed service by AWS
 
 ```t
 # Create Cluster
-eksctl create cluster --name=mseks \
+eksctl create cluster --name=msekscluster \
                       --region=us-east-1 \
                       --zones=us-east-1a,us-east-1b \
                       --without-nodegroup 
