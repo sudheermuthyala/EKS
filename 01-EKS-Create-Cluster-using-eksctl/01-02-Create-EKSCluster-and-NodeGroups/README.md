@@ -144,3 +144,4 @@ Verify NodeGroup subnets to confirm EC2 Instances are in Public Subnet
     - Go to Services -> EKS -> mseks -> compute ->  in Node groups , `mseks-ng-public1` 
     - Click on Associated subnet in Details tab
     - Click on Route Table Tab.
+    - We should see that internet route via Internet Gateway (0.0.0.0/0 -> igw-xxxxxxxx)
