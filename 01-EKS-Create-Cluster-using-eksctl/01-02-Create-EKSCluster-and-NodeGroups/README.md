@@ -141,4 +141,4 @@ eksctl create nodegroup --cluster=mseks \
 ## Verify Cluster & Nodes
 Verify NodeGroup subnets to confirm EC2 Instances are in Public Subnet
 - Verify the node group subnet to ensure it created in public subnet
-    - 
+    - Go to Services -EKS
