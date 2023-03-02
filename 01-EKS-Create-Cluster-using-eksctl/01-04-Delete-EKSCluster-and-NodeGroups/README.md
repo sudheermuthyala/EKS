@@ -1,7 +1,7 @@
 ## Delete EKS Cluster & Node Groups
 Delete Node Group
 - We can delete a nodegroup separately using below `eksctl delete nodegroup`
-```
+```t
 # List EKS Clusters
 eksctl get clusters
 
@@ -13,3 +13,5 @@ eksctl get nodegroup --cluster=mseks
 eksctl delete nodegroup --cluster=<clusterName> --name=<nodegroupName>
 eksctl delete nodegroup --cluster=eksdemo1 --name=mseks-ng-public1
 ```
+
+$
