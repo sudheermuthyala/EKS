@@ -139,3 +139,4 @@ eksctl create nodegroup --cluster=mseks \
 ```
 
 ## Verify Cluster & Nodes
+Verify NodeGroup subnets to confirm EC2 Instances are in Public Subnet
