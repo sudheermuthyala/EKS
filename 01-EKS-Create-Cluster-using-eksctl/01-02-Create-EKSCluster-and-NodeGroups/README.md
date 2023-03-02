@@ -175,3 +175,4 @@ kubectl config view --minify
 - Verify NodeGroup Stack & Events
 
 ## Login to Worker Node using Keypai kube-demo
+- 
