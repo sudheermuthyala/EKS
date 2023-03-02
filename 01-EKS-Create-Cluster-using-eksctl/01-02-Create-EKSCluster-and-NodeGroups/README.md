@@ -161,3 +161,4 @@ kubectl get nodes -o wide
 # Our kubectl context should be automatically changed to new cluster
 kubectl config view --minify
 ```
+
