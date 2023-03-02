@@ -166,4 +166,4 @@ kubectl config view --minify
 - Go to Services -> EC2 -> Worker Nodes
 - Click on **IAM Role associated to EC2 Worker Nodes**
 
-## erify Security Group Associated to Worker Nodes
+## Verify Security Group Associated to Worker Nodes
