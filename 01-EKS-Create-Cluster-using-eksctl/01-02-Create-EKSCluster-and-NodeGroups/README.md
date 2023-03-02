@@ -177,7 +177,7 @@ kubectl config view --minify
 ## Login to Worker Node using Keypai kube-demo
 - Login to worker node 
 ```
-For  Linux or Windows10
+# For  Linux or Windows10
 ssh -i kube-demo.pem ec2-user@<Public-IP-of-Worker-Node>
 ```
 
