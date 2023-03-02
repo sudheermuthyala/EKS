@@ -3,3 +3,4 @@
 - Why do we need to use Docker?
 - What are advantages of using Docker?
 ## Docker Architecture
+### Understand Docker Architecture & Docker Terminology
