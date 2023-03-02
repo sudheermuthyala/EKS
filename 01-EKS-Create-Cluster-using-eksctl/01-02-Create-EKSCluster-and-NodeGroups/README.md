@@ -149,5 +149,15 @@ Verify NodeGroup subnets to confirm EC2 Instances are in Public Subnet
 ## List Worker Nodes
 
 ```t
+# List EKS clusters
+eksctl get cluster
 
+# List NodeGroups in a cluster
+eksctl get nodegroup --cluster=<clusterName>
+
+# List Nodes in current kubernetes cluster
+kubectl get nodes -o wide
+
+# Our kubectl context should be automatically changed to new cluster
+kubectl config view --minify
 ```
