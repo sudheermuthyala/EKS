@@ -148,3 +148,6 @@ Verify NodeGroup subnets to confirm EC2 Instances are in Public Subnet
 
 ## List Worker Nodes
 
+```t
+
+```
