@@ -84,7 +84,7 @@ eksctl utils associate-iam-oidc-provider \
 # Replace with region & cluster name
 eksctl utils associate-iam-oidc-provider \
     --region us-east-1 \
-    --cluster msekscluster \
+    --cluster mseks \
     --approve
 
 ```
@@ -119,9 +119,9 @@ eksctl create nodegroup --cluster= <cluster-name>\
 
 # Create Public Node Group   
 ## Replacing with --cluster & --name & --ssh-public-key
-eksctl create nodegroup --cluster=msekscluster \
+eksctl create nodegroup --cluster=mseks \
                        --region=us-east-1 \
-                       --name=msekscluster-ng-public1 \
+                       --name=mseks-ng-public1 \
                        --node-type=t3.medium \
                        --nodes=2 \
                        --nodes-min=2 \
