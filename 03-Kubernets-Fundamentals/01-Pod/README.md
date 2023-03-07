@@ -64,3 +64,4 @@ kubectl get pods
 # Describe the Pod
 kubectl describe pod <Pod-Name>
 kubectl describe pod my-first-pod 
+```
