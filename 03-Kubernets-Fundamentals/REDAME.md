@@ -21,5 +21,6 @@
     - **Worker Nodes**
         - **Container Runtime (Docker)**
         - **Kubelet**
+        - **Kube-Proxy**
 
 
