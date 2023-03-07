@@ -27,7 +27,6 @@ kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
 kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
 
 ```
-**Note :** 
-- we also have additional tag named --generator is called to run-pod/v1 So this is required to create pod as a pod instead of a deployment.if you are using K8s version lower than 1.16
+- **Note :** we also have additional tag named --generator is called to run-pod/v1 So this is required to create pod as a pod instead of a deployment.if you are using K8s version lower than 1.16
 
 
