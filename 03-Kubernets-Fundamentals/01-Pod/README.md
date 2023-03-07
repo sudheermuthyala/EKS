@@ -32,5 +32,5 @@ kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-p
 The below will suffice to create a Pod as a pod without creating deployment. We dont need to add --generator=run-pod/v1
 
 ```
-
+kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0
 ```
