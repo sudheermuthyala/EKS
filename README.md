@@ -4,4 +4,4 @@
 
 ## Doug
 
-Why services creating acrose the nodes
+- Why services creating acrose the nodes
