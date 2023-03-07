@@ -55,7 +55,7 @@ http://<node1-public-ip>:<Node-Port>
 kubectl expose pod msn-c-pod  --type=NodePort --port=81 --name=msn-nodeport-service2     
 
 # Expose Pod as a Service with Container Port (--taret-port)
-kubectl expose pod msn-c-pod  --type=NodePort --port=81 --target-port=80 --name=my-first-service3
+kubectl expose pod msn-c-pod  --type=NodePort --port=81 --target-port=80 --name=msn-nodeport-service3
 
 # Get Service Info
 kubectl get service
