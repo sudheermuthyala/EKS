@@ -49,8 +49,8 @@
 
         - **Kube-Proxy :**
             * It is a network proxy that runs on each node in your cluster.
-            * It maintains network rules on nodes
-In short, these network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
+            * It maintains network rules on nodes 
+            * In short, these network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
 
 
 
