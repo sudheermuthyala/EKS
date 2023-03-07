@@ -4,4 +4,4 @@
     * Service discovery and load balancing
     * Storage orchestration
     * Automated rollouts And rollbacks
-    * 
+    * Automat
