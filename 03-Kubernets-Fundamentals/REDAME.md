@@ -82,7 +82,7 @@
 ### Kubernetes - Imperative & Declarative
 
 <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/" />
+    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-12-36-09.png" />
       </p>
 
 
