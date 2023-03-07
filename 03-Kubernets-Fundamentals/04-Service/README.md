@@ -25,7 +25,7 @@
 
 # Create  a Pod
 kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
-kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
+kubectl run msn --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
 
 # Expose Pod as a Service
 kubectl expose pod <Pod-Name>  --type=NodePort --port=80 --name=<Service-Name>
