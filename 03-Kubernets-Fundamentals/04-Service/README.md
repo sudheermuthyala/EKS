@@ -21,7 +21,7 @@
 - **Ports**
   - **port (Service port):** Port on which node port service listens in Kubernetes cluster internally
   - **targetPort (container port):** We define container port here on which our application is running.
-  - **NodePort (Randamport):** Worker Node port on which we can access our application.
+  - **NodePort (Randam port Range 30000-32767):** Worker Node port on which we can access our application.
 ```t
 # Create  a Pod
 kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
