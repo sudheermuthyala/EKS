@@ -68,5 +68,6 @@
         * A POD is the smallest object, that you can create in Kubernetes. 
 
     * **ReplicaSet :**
+        *
     * **Deployment :** 
     * **Service :**
