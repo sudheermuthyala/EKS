@@ -1,2 +1,2 @@
 ## Kubernets Introduction
-* kubernets is a portable
+* kubernets is a portable, extensible,
