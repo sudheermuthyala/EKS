@@ -30,4 +30,3 @@ kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-p
 # Expose Pod as a Service
 kubectl expose pod <Pod-Name>  --type=NodePort --port=80 --name=<Service-Name>
 kubectl expose pod my-first-pod  --type=NodePort --port=80 --name=my-first-service
-msn-c-pod
