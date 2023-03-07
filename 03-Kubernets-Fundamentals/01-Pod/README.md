@@ -57,7 +57,7 @@ kubectl get pods -o wide
 ### Describe Pod
 - Describe the POD, primarily required during troubleshooting. 
 - Events shown will be of a great help during troubleshooting. 
-```
+```t
 # To get list of pod names
 kubectl get pods
 
