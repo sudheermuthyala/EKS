@@ -36,3 +36,10 @@ kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0
 
 ## List Pods
 * Get the list of pods
+```t
+# List Pods
+kubectl get pods
+
+# Alias name for pods is po
+kubectl get po
+```
