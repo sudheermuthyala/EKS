@@ -72,8 +72,8 @@
         * In short, it is often used to guarantee the availability of a specified number of identical Pods
 
     * **Deployment :** 
-        * A Deployment runs multiple replicas of your application and automatically replaces any instances that fail or become Unresponsive.
-            Rollout & rollback changes to applications. 
+        * A Deployment runs multiple replicas of your application and automatically replaces any instances that fail or become Unresponsive. Rollout & rollback changes to applications. 
+        
 Deployments are well-suited for stateless applications.
 
     * **Service :**
