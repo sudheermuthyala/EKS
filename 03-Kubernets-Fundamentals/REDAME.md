@@ -25,7 +25,7 @@
         - **Kube-ControlManager :**
             * Controllers are responsible for noticing and responding when `nodes`, `containers` or `endpoints` go down. They make decisions to bring up new containers in such cases. 
                 - **Node Controller :** Responsible for noticing and responding when nodes go down.
-                - **Replication Controller :**
+                - **Replication Controller :** Responsible for maintaining the correct number of pods for every replication 
                 - **Endpoints Controller    :**
                 - **Service Account & Token Controller :**
 
