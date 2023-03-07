@@ -48,4 +48,8 @@ kubectl get po
 ```
 kubectl get pods -o wide
 ```
-## What happened in the backgroup when above command is run?
+### What happened in the backgroup when above command is run?
+  1. Kubernetes created a pod
+  2. Pulled the docker image from docker hub
+  3. Created the container in the pod
+  4. Started the container present in the pod
