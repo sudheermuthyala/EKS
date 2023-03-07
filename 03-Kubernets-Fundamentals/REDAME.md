@@ -52,5 +52,3 @@
             * It maintains network rules on nodes 
             * In short, these network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
 
-
-
