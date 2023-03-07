@@ -31,7 +31,7 @@ kubectl run msn-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
 - **Important Note :** With Kubernetes 1.18 version, there is lot clean-up to kubectl run command. The below will suffice to create a Pod as a pod without creating deployment. We dont need to add --generator=run-pod/v1
 
 ```
-kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0
+kubectl run msn-pod --image stacksimplify/kubenginx:1.0.0
 ```
 
 ## List Pods
@@ -63,5 +63,5 @@ kubectl get pods
 
 # Describe the Pod
 kubectl describe pod <Pod-Name>
-kubectl describe pod my-first-pod 
+kubectl describe pod msn-pod 
 ```
