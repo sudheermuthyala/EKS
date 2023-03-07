@@ -9,5 +9,4 @@
     * Secret And Configuration management
 
 ##  Kubernetes - Architecture 
- 
-
+- 
