@@ -15,7 +15,7 @@
         - **Container Runtime (Docker) :** 
         - **Etcd :**
         - **Kube-Scheduler :**
-        - **Kube-Apiserver**
+        - **Kube-Apiserver :**
         - **KubeControlManager**
         - **CLoud ControlManager**
     - **Worker Nodes**
