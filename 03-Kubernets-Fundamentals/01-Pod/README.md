@@ -53,3 +53,14 @@ kubectl get pods -o wide
 2. Pulled the docker image from docker hub
 3. Created the container in the pod
 4. Started the container present in the pod
+
+### Describe Pod
+- Describe the POD, primarily required during troubleshooting. 
+- Events shown will be of a great help during troubleshooting. 
+```
+# To get list of pod names
+kubectl get pods
+
+# Describe the Pod
+kubectl describe pod <Pod-Name>
+kubectl describe pod my-first-pod 
