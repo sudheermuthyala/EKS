@@ -62,6 +62,7 @@
 
 
 ### Kubernetes Fundamentals Pod, ReplicaSet, Deployment & Service
+    
     * Pod
     * ReplicaSet
     * Deployment 
