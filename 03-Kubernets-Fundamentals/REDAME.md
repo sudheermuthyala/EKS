@@ -18,6 +18,6 @@
         - **Kube-Apiserver**
         - **KubeControlManager**
         - **CLoud ControlManager**
-    
+    - **Worker Nodes**
 
 
