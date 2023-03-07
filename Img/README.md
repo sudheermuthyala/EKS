@@ -5,4 +5,4 @@
 ## EKS Kubernetes - Architecture
 ![](2023-03-07-12-09-23.png)
 ## Kubernetes - Imperative & Declarative
-![](image.png.png)
+![](image.png)
