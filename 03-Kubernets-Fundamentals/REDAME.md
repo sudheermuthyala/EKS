@@ -53,7 +53,7 @@
             * In short, these network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
 
 
-AWS EKS Kubernetes -| DevOps, Microservices.
+
   <p align="center">
-    <img src="" />
+    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-11-30-41.png" />
       </p>
