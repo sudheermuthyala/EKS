@@ -16,7 +16,7 @@
         - **Etcd**
         - **Kube-Scheduler**
         - **Kube-Apiserver**
-        - **KubeControl**
+        - **KubeControlManager**
         - ****
 
 
