@@ -13,7 +13,8 @@
 - **Worker Nodes**
     * **Master Node :**
         - **Container Runtime (Docker) :** 
-        
+            - Container Runtime is the underlying software where we run all these Kubernetes components. 
+            - We are using Docker, but we have other runtime options like rkt, container-d etc.
         - **Etcd :**
             * Consistent and highly-available key value store used as Kubernetes’ backing store for all cluster data.
             * It stores all the masters and worker node information
