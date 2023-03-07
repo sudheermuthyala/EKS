@@ -28,7 +28,6 @@
                 - **Replication Controller :** Responsible for maintaining the correct number of pods for every replication controller object in the system.
                 - **Endpoints Controller    :** Populates the Endpoints object (that is, joins Services & Pods)
                 - **Service Account & Token Controller :** Creates default accounts and API Access for new namespaces. 
-
         - **CLoud ControlManager :**
     - **Worker Nodes**
         - **Container Runtime (Docker) :**
