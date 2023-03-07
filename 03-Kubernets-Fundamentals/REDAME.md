@@ -65,7 +65,7 @@
 - **k8s Fundamentals**
     * **Pod :**
         * A POD is a single instance of an Application. 
-A POD is the smallest object, that you can create in Kubernetes. 
+        * A POD is the smallest object, that you can create in Kubernetes. 
 
     * **ReplicaSet :**
     * **Deployment :** 
