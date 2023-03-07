@@ -37,7 +37,9 @@
             - **Service controller :** For creating, updating and deleting cloud provider load balancer
 
     - **Worker Nodes**
-        - **Container Runtime (Docker) :**
+        - **Container Runtime (Docker) :** Container Runtime is the underlying software where we run all these Kubernetes components. 
+We are using Docker, but we have other runtime options like rkt, container-d etc.
+
         - **Kubelet :**
         - **Kube-Proxy :**
 
