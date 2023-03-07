@@ -31,7 +31,7 @@
         - **CLoud ControlManager :**
             * A Kubernetes control plane component that embeds cloud-specific control logic. 
             * It only runs controllers that are specific to your cloud provider. 
-On-Premise Kubernetes clusters will not have this component. 
+            * On-Premise Kubernetes clusters will not have this component. 
 Node controller: For checking the cloud provider to determine if a node has been deleted in the cloud after it stops responding
 Route controller: For setting up routes in the underlying cloud infrastructure
 Service controller: For creating, updating and deleting cloud provider load balancer
