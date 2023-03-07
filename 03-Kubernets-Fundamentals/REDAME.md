@@ -6,4 +6,4 @@
     * Automated rollouts And rollbacks
     * Automatic bin Packing
     * self-healing
-    * Sec
+    * Secret And Configura
