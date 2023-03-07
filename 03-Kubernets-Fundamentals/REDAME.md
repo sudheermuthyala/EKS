@@ -3,4 +3,4 @@
 * **Out of the Box Features**
     * Service discovery and load balancing
     * Storage orchestration
-    * Automated rollouts And 
+    * Automated rollouts And rollbacks
