@@ -19,8 +19,8 @@
         - **KubeControlManager :**
         - **CLoud ControlManager :**
     - **Worker Nodes**
-        - **Container Runtime (Docker)**
-        - **Kubelet**
+        - **Container Runtime (Docker) :**
+        - **Kubelet :**
         - **Kube-Proxy**
 
 
