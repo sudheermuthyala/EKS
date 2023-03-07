@@ -23,7 +23,7 @@
             * It acts as front end for the Kubernetes control plane. It exposes the Kubernetes API.
             * Command line tools (like kubectl), Users and even Master components (scheduler, controller manager, etcd) and Worker node components like (Kubelet) everything talk with API Server. 
         - **Kube-ControlManager :**
-            * Controllers are responsible for noticing and responding when nodes, containers or endpoints go down. They make decisions to bring up new containers in such cases. 
+            * Controllers are responsible for noticing and responding when `nodes`, `containers` or endpoints go down. They make decisions to bring up new containers in such cases. 
 
         - **CLoud ControlManager :**
     - **Worker Nodes**
