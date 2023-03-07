@@ -11,9 +11,7 @@
   * Exposes the Service on each Worker Node's IP at a static port (nothing but NodePort). 
   * A ClusterIP Service, to which the NodePort Service routes, is automatically created. 
   * Port Range 30000-32767
-
-
-
+  
  <p align="center">
     <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-15-59-23.png" />
       </p>
