@@ -22,7 +22,7 @@
   - **port:** Port on which node port service listens in Kubernetes cluster internally
   - **targetPort:** We define container port here on which our application is running.
   - **NodePort:** Worker Node port on which we can access our application.
-
+```t
 # Create  a Pod
 kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
 kubectl run msn-c-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
@@ -30,3 +30,4 @@ kubectl run msn-c-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/
 # Expose Pod as a Service
 kubectl expose pod <Pod-Name>  --type=NodePort --port=80 --name=<Service-Name>
 kubectl expose pod msn-c-pod  --type=NodePort --port=80 --name=msn-nodeport-service
+```
