@@ -48,3 +48,4 @@ kubectl get po
 ```
 kubectl get pods -o wide
 ```
+## What happened in the backgroup when above command is run?
