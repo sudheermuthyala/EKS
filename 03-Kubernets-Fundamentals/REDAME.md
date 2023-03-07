@@ -23,6 +23,7 @@
             * It acts as front end for the Kubernetes control plane. It exposes the Kubernetes API.
             * Command line tools (like kubectl), Users and even Master components (scheduler, controller manager, etcd) and Worker node components like (Kubelet) everything talk with API Server. 
         - **Kube-ControlManager :**
+            
         - **CLoud ControlManager :**
     - **Worker Nodes**
         - **Container Runtime (Docker) :**
