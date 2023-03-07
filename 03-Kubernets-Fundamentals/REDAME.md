@@ -8,4 +8,4 @@
     * self-healing
     * Secret And Configuration management
 
-##  Kuber
+##  Kubernetes
