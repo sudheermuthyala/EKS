@@ -17,7 +17,8 @@
             * Consistent and highly-available key value store used as Kubernetes’ backing store for all cluster data.
             * It stores all the masters and worker node information
         - **Kube-Scheduler :**
-            * Scheduler is responsible for distributing containers across multiple nodes.It watches for newly created Pods with no assigned node, and selects a node for them to run on
+            * Scheduler is responsible for distributing containers across multiple nodes.
+            * It watches for newly created Pods with no assigned node, and selects a node for them to run on
         - **Kube-Apiserver :** 
             * It acts as front end for the Kubernetes control plane. It exposes the Kubernetes API.
             * Command line tools (like kubectl), Users and even Master components (scheduler, controller manager, etcd) and Worker node components like (Kubelet) everything talk with API Server. 
