@@ -14,3 +14,4 @@ kubectl get nodes
 # Get Worker Node Status with wide option
 kubectl get nodes -o wide
 ```
+
