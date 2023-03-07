@@ -15,7 +15,7 @@
         - **Container Runtime (Docker) :** 
         - **Etcd :**
             * Consistent and highly-available key value store used as Kubernetes’ backing store for all cluster data.
-It stores all the masters and worker node information
+            It stores all the masters and worker node information
         - **Kube-Scheduler :**
         - **Kube-Apiserver :** 
             * It acts as front end for the Kubernetes control plane. It exposes the Kubernetes API.
