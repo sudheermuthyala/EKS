@@ -7,3 +7,4 @@
 ## Kubernetes - Imperative & Declarative
 ![](2023-03-07-12-41-07.png)
 ## NodePort - Service
+![](2023-03-07-16-17-58.png)
