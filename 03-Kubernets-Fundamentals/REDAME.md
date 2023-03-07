@@ -5,4 +5,5 @@
     * Storage orchestration
     * Automated rollouts And rollbacks
     * Automatic bin Packing
-    * self-he
+    * self-healing
+    
