@@ -33,4 +33,11 @@ kubectl run msn-c-pod --image stacksimplify/kubenginx:1.0.0
 # Expose Pod as a Service
 kubectl expose pod <Pod-Name>  --type=NodePort --port=80 --name=<Service-Name>
 kubectl expose pod msn-c-pod  --type=NodePort --port=80 --name=msn-nodeport-service
+
+# Get Service Info
+kubectl get service
+kubectl get svc
+
+# Get Public IP of Worker Nodes
+kubectl get nodes -o wide
 ```
