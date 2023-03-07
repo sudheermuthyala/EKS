@@ -9,4 +9,5 @@
     * Secret And Configuration management
 
 ##  Kubernetes - Architecture 
-- Master Node
+- **Master Node**
+- ****
