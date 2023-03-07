@@ -26,7 +26,7 @@
             * Controllers are responsible for noticing and responding when `nodes`, `containers` or `endpoints` go down. They make decisions to bring up new containers in such cases. 
                 - **Node Controller :** Responsible for noticing and responding when nodes go down.
                 - **Replication Controller :** Responsible for maintaining the correct number of pods for every replication controller object in the system.
-                - **Endpoints Controller    :**
+                - **Endpoints Controller    :** Populates the Endpoints object (that is, joins Services & Pods)
                 - **Service Account & Token Controller :**
 
         - **CLoud ControlManager :**
