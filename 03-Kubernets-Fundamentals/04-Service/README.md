@@ -48,6 +48,7 @@ http://<node1-public-ip>:<Node-Port>
 ```
 
 - **Important Note about: target-port**
+
   -  If target-port is not defined, by default and for convenience, the **targetPort** is set to the same value as the **port** field.
 
 ```
