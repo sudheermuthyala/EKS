@@ -46,3 +46,21 @@ kubectl get nodes -o wide
 ```
 http://<node1-public-ip>:<Node-Port>
 ```
+
+- **Important Note about: target-port**
+  -  If target-port is not defined, by default and for convenience, the **targetPort** is set to the same value as the **port** field.
+
+```
+# Below command will fail when accessing the application, as service port (81) and container port (80) are different
+kubectl expose pod my-first-pod  --type=NodePort --port=81 --name=my-first-service2     
+
+# Expose Pod as a Service with Container Port (--taret-port)
+kubectl expose pod my-first-pod  --type=NodePort --port=81 --target-port=80 --name=my-first-service3
+
+# Get Service Info
+kubectl get service
+kubectl get svc
+
+# Get Public IP of Worker Nodes
+kubectl get nodes -o wide
+```
