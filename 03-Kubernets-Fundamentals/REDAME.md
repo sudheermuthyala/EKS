@@ -27,6 +27,7 @@
                 - **Node Controller :**
                 - **Replication Controller :**
                 - **Endpoints Controller:**
+                -
 
         - **CLoud ControlManager :**
     - **Worker Nodes**
