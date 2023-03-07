@@ -9,5 +9,5 @@
 NodePort Service 
 * To access our application outside of k8s cluster, we can use NodePort service. 
 * Exposes the Service on each Worker Node's IP at a static port (nothing but NodePort). 
-A ClusterIP Service, to which the NodePort Service routes, is automatically created. 
+* A ClusterIP Service, to which the NodePort Service routes, is automatically created. 
 Port Range 30000-32767
