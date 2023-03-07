@@ -6,3 +6,4 @@ PODs Introduction
 ### PODs Demo
 
 ## Get Worker Nodes Status
+- Verify if kubernetes worker nodes are ready.
