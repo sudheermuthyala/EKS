@@ -34,3 +34,4 @@ kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-p
 kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0
 ```
 
+## List Pods
