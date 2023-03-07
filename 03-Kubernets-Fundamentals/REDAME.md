@@ -14,7 +14,7 @@
     * **Master Node :**
         - **Container Runtime (Docker)**
         - **Etcd**
-        - **Kube**
+        - **Kube-Scheduler**
         - ****
         - ****
         - ****
