@@ -8,4 +8,5 @@
     * self-healing
     * Secret And Configuration management
 
-##  Kubernetes
+##  Kubernetes - Architecture
+
