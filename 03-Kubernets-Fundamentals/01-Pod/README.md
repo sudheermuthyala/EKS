@@ -17,4 +17,8 @@ kubectl get nodes -o wide
 
 ## Create a Pod Imperative way
 
-# Create a Pod
+- Create a Pod
+
+```t
+
+```
