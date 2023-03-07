@@ -52,7 +52,7 @@ http://<node1-public-ip>:<Node-Port>
 
 ```
 # Below command will fail when accessing the application, as service port (81) and container port (80) are different
-kubectl expose pod msn-c-pod  --type=NodePort --port=81 --name=my-first-service2     
+kubectl expose pod msn-c-pod  --type=NodePort --port=81 --name=msn-nodeport-service2     
 
 # Expose Pod as a Service with Container Port (--taret-port)
 kubectl expose pod msn-c-pod  --type=NodePort --port=81 --target-port=80 --name=my-first-service3
