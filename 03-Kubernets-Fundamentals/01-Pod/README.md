@@ -7,3 +7,10 @@ PODs Introduction
 
 ## Get Worker Nodes Status
 - Verify if kubernetes worker nodes are ready.
+```
+# Get Worker Node Status
+kubectl get nodes
+
+# Get Worker Node Status with wide option
+kubectl get nodes -o wide
+```
