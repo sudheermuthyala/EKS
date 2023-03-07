@@ -26,7 +26,7 @@ kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
 # Replace Pod Name, Container Image
 kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
 
-And then we also have additional tag named --generator is called to run-pod/vba.
+And then we also have additional tag named --generator is called to run-pod/v1 
 
 So this is required to create pod as a pod
 
