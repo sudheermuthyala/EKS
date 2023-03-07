@@ -12,7 +12,8 @@
 - **Master Node**
 - **Worker Nodes**
     * **Master Node :**
-        -  ****
-        - 
+        - ****
+        - ****
+        - ****
 
 
