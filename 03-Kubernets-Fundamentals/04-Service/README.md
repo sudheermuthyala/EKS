@@ -20,7 +20,7 @@
 - Expose pod with a service (NodePort Service) to access the application externally (from internet)
 - **Ports**
   - **port (Service port):** Port on which node port service listens in Kubernetes cluster internally
-  - **targetPort:** We define container port here on which our application is running.
+  - **targetPort (container):** We define container port here on which our application is running.
   - **NodePort:** Worker Node port on which we can access our application.
 ```t
 # Create  a Pod
