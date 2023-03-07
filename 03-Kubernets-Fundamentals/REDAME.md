@@ -44,7 +44,9 @@
             * We are using Docker, but we have other runtime options like rkt, container-d etc.
 
         - **Kubelet :** 
-            *
+            * Kubelet is the agent that runs on every node in the cluster
+            * This agent is responsible for making sure that containers are running in a Pod on a node.
+
         - **Kube-Proxy :**
 
 
