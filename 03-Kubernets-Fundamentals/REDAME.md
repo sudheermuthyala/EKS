@@ -79,3 +79,5 @@
         * A service is an abstraction for pods, providing a stable, so called virtual IP (VIP) address.
         * In simple terms, service sits Infront of a POD and acts as a load balancer. 
 
+### Kubernetes - Imperative & Declarative
+
