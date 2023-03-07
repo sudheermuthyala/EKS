@@ -20,6 +20,6 @@
         - **CLoud ControlManager**
     - **Worker Nodes**
         - **Container Runtime (Docker)**
-        - Kube
+        - Kubelet
 
 
