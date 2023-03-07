@@ -16,8 +16,8 @@
         - **Etcd :**
         - **Kube-Scheduler :**
         - **Kube-Apiserver :**
-        - **KubeControlManager**
-        - **CLoud ControlManager**
+        - **KubeControlManager :**
+        - **CLoud ControlManager :**
     - **Worker Nodes**
         - **Container Runtime (Docker)**
         - **Kubelet**
