@@ -59,3 +59,6 @@
 <p align="center">
     <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-12-09-23.png" />
       </p>
+
+
+### Kubernetes Fundamentals Pod, ReplicaSet, Deployment & Service
