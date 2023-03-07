@@ -13,8 +13,8 @@
 - **Worker Nodes**
     * **Master Node :**
         - **Container Runtime (Docker) :** 
-        - **Etcd**
-        - **Kube-Scheduler**
+        - **Etcd :**
+        - **Kube-Scheduler :**
         - **Kube-Apiserver**
         - **KubeControlManager**
         - **CLoud ControlManager**
