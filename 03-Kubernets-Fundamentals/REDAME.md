@@ -11,4 +11,5 @@
 ##  Kubernetes - Architecture 
 - **Master Node**
 - **Worker Nodes**
-    * **Master Node**
+    * **Master Node :**
+        -  
