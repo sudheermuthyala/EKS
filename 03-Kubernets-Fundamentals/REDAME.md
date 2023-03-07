@@ -65,5 +65,5 @@
 - **k8s Fundamentals**
     * **Pod :**
     * **ReplicaSet :**
-    * **Deployment** 
-    * **Service**
+    * **Deployment :** 
+    * **Service :**
