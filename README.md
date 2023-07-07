@@ -7,6 +7,7 @@
 - Why services creating acrose the nodes
 
 ### My Update 
+- on 07 uly 
 - Installed AWC CLI in Windows
 - Installed Kubectl in Windows
 - Installed Eksctl in Windows
