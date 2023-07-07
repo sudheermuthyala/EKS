@@ -7,4 +7,5 @@
 - Why services creating acrose the nodes
 
 ### My Update 
-- Installed AWC CLI
+- Installed AWC CLI in Windows
+- Installed AWC CLI in Windows
