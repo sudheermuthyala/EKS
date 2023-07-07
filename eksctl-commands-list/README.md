@@ -27,5 +27,6 @@ eksctl get cluster
 ```t
 eksctl create cluster --help
 eksctl create --help
+eksctl create nodegroup --help
 ```
 
