@@ -25,6 +25,7 @@ eksctl get cluster
 
 # Help
 ```t
-eksctl
+eksctl create cluster --help
+eksctl 
 ```
 
