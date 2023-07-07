@@ -1,6 +1,6 @@
 ## eksctl commands List 
 
-Create a cluster
+# Create a cluster
 - eksctl create cluster 
  
 ```t
