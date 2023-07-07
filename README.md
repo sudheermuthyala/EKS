@@ -5,7 +5,7 @@
 ## Doug
 
 - Why services creating acrose the nodes
-- what is managed and and unmanaged nodes
+- what is managed and unmanaged nodes
 
 ### My Update 
 - **on 07 July 2023**
