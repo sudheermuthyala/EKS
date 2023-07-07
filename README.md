@@ -8,4 +8,5 @@
 
 ### My Update 
 - Installed AWC CLI in Windows
-- Installed KU in Windows
+- Installed Kubectl in Windows
+- Installed AWC CLI in Windows
