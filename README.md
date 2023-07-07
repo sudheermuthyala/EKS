@@ -7,4 +7,4 @@
 - Why services creating acrose the nodes
 
 ### My Update 
-- Ins
+- Installed AWC CLI
