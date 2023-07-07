@@ -192,4 +192,4 @@ ssh -i kube-demo.pem ec2-user@<Public-IP-of-Worker-Node>
 - https://docs.aws.amazon.com/eks/latest/userguide/create-service-account-iam-policy-and-role.html
 
 
-## **NOTE :** Hear we are creating control plain and node group seperately 
+## **NOTE :** Hear we are creating control plain and node group separately  
