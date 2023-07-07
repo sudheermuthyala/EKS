@@ -8,6 +8,7 @@
 
 ### My Update 
 - on 07 July 2023
-- Installed AWC CLI in Windows
-- Installed Kubectl in Windows
-- Installed Eksctl in Windows
+
+  - Installed AWC CLI in Windows
+  - Installed Kubectl in Windows
+  - Installed Eksctl in Windows
