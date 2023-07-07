@@ -25,6 +25,6 @@ eksctl get cluster
 
 # Help
 ```t
-
+eksctl
 ```
 
