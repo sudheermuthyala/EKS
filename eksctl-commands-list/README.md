@@ -1,2 +1,3 @@
 ## eksctl commands List 
-- eks
+
+- eksctl create cluster 
