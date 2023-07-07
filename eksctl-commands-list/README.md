@@ -14,7 +14,7 @@ eksctl create cluster --name=mseks \
 # Delete a cluster
 ```t
 ## Example
-eksctl delete cluster <>
+eksctl delete cluster <Cluster-Name>
 eksctl delete cluster mseks
 
 # Get List of clusters
