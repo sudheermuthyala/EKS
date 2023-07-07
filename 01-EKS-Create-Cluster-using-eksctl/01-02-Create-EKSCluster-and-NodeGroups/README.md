@@ -53,7 +53,7 @@ It’s a managed service by AWS
 - **NOTE :** Hear I'm creating with out nodegroup
 
 ```t
-# Create Cluster
+# Create Cluster 
 eksctl create cluster --name=mseks \
                       --region=us-east-1 \
                       --zones=us-east-1a,us-east-1b \
