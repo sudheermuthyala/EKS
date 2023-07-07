@@ -192,4 +192,4 @@ ssh -i kube-demo.pem ec2-user@<Public-IP-of-Worker-Node>
 - https://docs.aws.amazon.com/eks/latest/userguide/create-service-account-iam-policy-and-role.html
 
 
-
+## ****
