@@ -22,3 +22,5 @@ eksctl delete cluster mseks
 ```t
 eksctl get cluster    
 ```
+
+# Help
