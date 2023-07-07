@@ -12,3 +12,5 @@ eksctl create cluster --name=mseks \
                       --without-nodegroup 
 
 ```
+Delete a cluster
+- eksctl delete cluster                         
