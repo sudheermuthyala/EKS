@@ -9,4 +9,4 @@
 ### My Update 
 - Installed AWC CLI in Windows
 - Installed Kubectl in Windows
-- Installed AWC CLI in Windows
+- Installed Eksctl in Windows
