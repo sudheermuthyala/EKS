@@ -52,8 +52,9 @@ It’s a managed service by AWS
 - It will take 15 to 20 minutes to create the Cluster Control Plane
 - **NOTE :** Hear I'm creating with out nodegroup
 
+## Control Plane
 ```t
-# Create Cluster Control Plane
+# Create Cluster 
 eksctl create cluster --name=mseks \
                       --region=us-east-1 \
                       --zones=us-east-1a,us-east-1b \
