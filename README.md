@@ -14,5 +14,5 @@
   - Installed Kubectl in Windows
   - Installed Eksctl in Windows
 
-### Lin
+### Link to Azure devops
 https://dev.azure.com/sudheerlikeu/kubernets00/_git/EKS.git
