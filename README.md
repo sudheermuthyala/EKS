@@ -6,6 +6,7 @@
 
 - Why services creating acrose the nodes
 - what is managed and unmanaged worker nodes
+- What is sideca
 
 ### My Update 
 - **on 07 July 2023**
