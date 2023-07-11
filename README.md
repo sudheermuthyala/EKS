@@ -6,7 +6,7 @@
 
 - Why services creating acrose the nodes
 - what is managed and unmanaged worker nodes
-- What is (side- car) 
+- What is helper Co(side- car) 
 
 ### My Update 
 - **on 07 July 2023**
