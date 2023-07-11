@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/" />
+    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-01-14-25-56.png" />
       </p>
 
 ## Doug
