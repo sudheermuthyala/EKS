@@ -18,4 +18,4 @@
 https://dev.azure.com/sudheerlikeu/kubernets00/_git/EKS.git
 
 ### image testing 
-![sample](https://github.com/sudheermuthyala/EKS/assets/34484660/cadf774d-2e81-426e-86fe-bdd31f92fffe))
+![sample](https://github.com/sudheermuthyala/EKS/assets/34484660/cadf774d-2e81-426e-86fe-bdd31f92fffe)
