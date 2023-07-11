@@ -15,7 +15,4 @@
   - Installed Eksctl in Windows
 
 ### image testing 
-![](2023-07-11-11-35-59.png)
-
-
-![](2023-07-11-11-58-12.png)
+https://dev.azure.com/sudheerlikeu/kubernets00/_git/EKS.git
