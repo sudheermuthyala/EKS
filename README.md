@@ -14,5 +14,5 @@
   - Installed Kubectl in Windows
   - Installed Eksctl in Windows
 
-### image testing 
+### Lin
 https://dev.azure.com/sudheerlikeu/kubernets00/_git/EKS.git
