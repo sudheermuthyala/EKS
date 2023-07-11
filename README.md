@@ -16,3 +16,6 @@
 
 ### Link to Kubernets in Azure devops 
 https://dev.azure.com/sudheerlikeu/kubernets00/_git/EKS.git
+
+### image testing 
+![sample](https://github.com/sudheermuthyala/EKS/blob/main/2023-07-11-11-35-59.png)
