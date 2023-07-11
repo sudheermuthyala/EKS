@@ -14,4 +14,5 @@
   - Installed Kubectl in Windows
   - Installed Eksctl in Windows
 
-### image
+### image testing 
+![](2023-07-11-11-35-59.png)
