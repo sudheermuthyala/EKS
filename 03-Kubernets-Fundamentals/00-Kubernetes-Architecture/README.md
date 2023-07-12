@@ -54,7 +54,7 @@
 
 Kubernetes - Architecture
 <p align="center">
-    <img src="" />
+    <img src="https://user-images.githubusercontent.com/34484660/252858216-02bed682-bf35-4456-812f-23f7c47d5800.png" />
 </p>
 
 
