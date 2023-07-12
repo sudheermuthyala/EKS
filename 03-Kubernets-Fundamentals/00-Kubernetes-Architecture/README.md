@@ -53,7 +53,7 @@
             * In short, these network rules allow network communication to your Pods from network sessions inside or outside of your cluster.
 
 <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-11-30-41.png" />
+    <img src="https://user-images.githubusercontent.com/34484660/252858221-ea0bdeb0-2656-49b1-9e54-343ea29f2bc7.png" />
       </p>
 
 <p align="center">
