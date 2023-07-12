@@ -56,10 +56,6 @@
     <img src="https://user-images.githubusercontent.com/34484660/252858221-ea0bdeb0-2656-49b1-9e54-343ea29f2bc7.png" />
       </p>
 
-<p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-12-09-23.png" />
-      </p>
-
 
 ### Kubernetes Fundamentals Pod, ReplicaSet, Deployment & Service
 - **k8s Fundamentals**
