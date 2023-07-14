@@ -74,5 +74,6 @@ kubectl get pods
 # Delete Pod
 kubectl delete pod <Pod-Name>
 kubectl delete pod my-first-pod
-
+```
 ## Interact with a Pod
+
