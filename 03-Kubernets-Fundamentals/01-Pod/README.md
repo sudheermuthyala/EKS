@@ -89,4 +89,4 @@ kubectl logs -f <pod-name>
 kubectl logs -f my-first-pod
 
 ```
-
+- Important Notes
