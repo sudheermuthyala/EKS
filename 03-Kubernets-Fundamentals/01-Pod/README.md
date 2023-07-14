@@ -81,5 +81,6 @@ kubectl delete pod my-first-pod
 kubectl get po
 
 kubectl log <pod-name>
+
 ```
 
