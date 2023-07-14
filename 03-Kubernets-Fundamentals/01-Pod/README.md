@@ -82,7 +82,7 @@ kubectl get po
 
 # Dump Pod logs
 kubectl logs <pod-name>
-kubectl logs myfirst
+kubectl logs my-first-
 
 ```
 
