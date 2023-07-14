@@ -84,5 +84,7 @@ kubectl get po
 kubectl logs <pod-name>
 kubectl logs my-first-pod
 
+#
+
 ```
 
