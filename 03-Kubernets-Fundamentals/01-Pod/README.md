@@ -90,3 +90,4 @@ kubectl logs -f my-first-pod
 
 ```
 - Important Notes
+
