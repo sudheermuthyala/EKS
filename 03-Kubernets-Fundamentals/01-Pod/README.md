@@ -97,6 +97,8 @@ kubectl logs -f my-first-pod
 Connect to Container in a POD
 - Connect to a Container in POD and execute commands
 ```t
+# Connect to Nginx Container in a POD
+kubectl exec -it <pod-name> -- /bin/bash
 
 ```
 
