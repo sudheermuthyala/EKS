@@ -80,7 +80,9 @@ kubectl delete pod my-first-pod
 # Get Pod Name
 kubectl get po
 
+# Dump Pod logs
 kubectl log <pod-name>
+
 
 ```
 
