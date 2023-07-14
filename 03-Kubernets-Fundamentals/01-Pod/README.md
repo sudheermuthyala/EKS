@@ -113,8 +113,12 @@ exit
 ## Running individual commands in a Container
 ```t
 kubectl exec -it <pod-name> env
-
+# Sample Commands
+kubectl exec -it my-first-pod env
+kubectl exec -it my-first-pod ls
+kubectl exec -it my-first-pod cat /usr/share/nginx/html/index.html
 ```
+
 
 
 
