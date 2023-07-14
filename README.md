@@ -15,3 +15,5 @@
   
 
 - 28. Step-03: Kubernetes NodePort Service Introduction
+- 31. Step-06: Delete Pod
+
