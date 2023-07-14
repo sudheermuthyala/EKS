@@ -85,7 +85,7 @@ kubectl logs <pod-name>
 kubectl logs my-first-pod
 
 # stream pod logs with -f option and access application to see logs
-kubectl logs -f mypod
+kubectl logs -f my-first-pod
 
 ```
 
