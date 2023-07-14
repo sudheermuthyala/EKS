@@ -96,7 +96,9 @@ kubectl logs -f my-first-pod
 
 Connect to Container in a POD
 - Connect to a Container in POD and execute commands
+```t
 
+```
 
 
 
