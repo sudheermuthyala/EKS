@@ -67,7 +67,7 @@ kubectl describe pod MSN-pod
 ```
 
 ### Delete Pod
-```
+```t
 # To get list of pod names
 kubectl get pods
 
@@ -76,4 +76,6 @@ kubectl delete pod <Pod-Name>
 kubectl delete pod my-first-pod
 ```
 ## Interact with a Pod
+
+
 
