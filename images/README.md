@@ -1,2 +1,2 @@
 ![](eks-kubernets.png)
-![](NodePort.png)
+![](NodePort-Service.png)
