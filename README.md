@@ -13,3 +13,5 @@
   - kubectl describe pod <pod-name>
   - check in Events 
   
+
+28. Step-03: Kubernetes NodePort Service Introduction
