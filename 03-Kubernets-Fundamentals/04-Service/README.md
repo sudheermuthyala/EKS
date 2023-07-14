@@ -14,7 +14,7 @@
 
  <p align="center">
     <img src="" />
-</p>
+ </p>
 
 ## Demo - Expose Pod with a Service
 - Expose pod with a service (NodePort Service) to access the application externally (from internet)
