@@ -99,6 +99,7 @@ Connect to Container in a POD
 ```t
 # Connect to Nginx Container in a POD
 kubectl exec -it <pod-name> -- /bin/bash
+kubectl exec -it my-first-pod -- /bin/bash
 
 ```
 
