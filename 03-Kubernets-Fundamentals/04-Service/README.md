@@ -13,8 +13,8 @@
   * Port Range 30000-32767
 
  <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/blob/main/Img/2023-03-07-16-17-58.png" />
-      </p>
+    <img src="" />
+</p>
 
 ## Demo - Expose Pod with a Service
 - Expose pod with a service (NodePort Service) to access the application externally (from internet)
