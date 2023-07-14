@@ -108,9 +108,10 @@ ls
 cd /usr/share/nginx/html
 cat index.html
 exit
-
-
 ```
+
+## Running individual commands in a Container
+
 
 
 
