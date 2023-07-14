@@ -128,6 +128,6 @@ kubectl get pod my-first-pod -o yaml
 # Get service definition YAML output
 kubectl get service my-first-service -o yaml
 ```
-
+## Clean-Up
 
 
