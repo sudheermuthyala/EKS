@@ -10,3 +10,4 @@
 - stateless applications.
 - How you can check which pod is alocated to which worker node 
     - kubectl describe pod <pod-name>
+    - check in Events 
