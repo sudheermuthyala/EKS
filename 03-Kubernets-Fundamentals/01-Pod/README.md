@@ -90,5 +90,5 @@ kubectl logs -f my-first-pod
 
 ```
 - Important Notes
-    - Refer below link and search for Interacting with running Pods for additional log options
+    - Refer below link and search for **Interacting with running Pods** for additional log options
 
