@@ -21,7 +21,7 @@
 - **Ports**
   - **ClusterIP (Service port):** Port on which node port service listens in Kubernetes cluster internally
   - **targetPort (container port):** We define container port here on which our application is running. This is Nothing but container port in a pod
-  - **NodePort (Randam port Range 30000-32767):** Worker Node port on which we can access our application. 
+  - **Worker NodePort (Randam port Range 30000-32767):** Worker Node port on which we can access our application. 
 - **NOTE :** Randam port Range 30000-32767 pick only when we use Imperative way 
 ```t
 # Create  a Pod
