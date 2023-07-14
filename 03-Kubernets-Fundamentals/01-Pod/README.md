@@ -92,6 +92,6 @@ kubectl logs -f my-first-pod
 - Important Notes
     - Refer below link and search for **Interacting with running Pods** for additional log options
     - Troubleshooting skills are very important. So please go through all logging options available and master them.
-    - **Reference :**
+    - **Reference :** 
 
 
