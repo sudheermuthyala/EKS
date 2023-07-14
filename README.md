@@ -14,4 +14,4 @@
   - check in Events 
   
 
-28. Step-03: Kubernetes NodePort Service Introduction
+- 28. Step-03: Kubernetes NodePort Service Introduction
