@@ -95,6 +95,8 @@ kubectl logs -f my-first-pod
     - **Reference :** https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 Connect to Container in a POD
+- Connect to a Container in POD and execute commands
+
 
 
 
