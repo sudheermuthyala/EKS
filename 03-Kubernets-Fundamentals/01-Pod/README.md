@@ -111,7 +111,10 @@ exit
 ```
 
 ## Running individual commands in a Container
+```t
+kubectl exec -it <pod-name> env
 
+```
 
 
 
