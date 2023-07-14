@@ -129,6 +129,20 @@ kubectl get pod my-first-pod -o yaml
 kubectl get service my-first-service -o yaml
 ```
 ## Clean-Up
-``````
+```t
+# Get all Objects in default namespace
+kubectl get all
+
+# Delete Services
+kubectl delete svc my-first-service
+kubectl delete svc my-first-service2
+kubectl delete svc my-first-service3
+
+# Delete Pod
+kubectl delete pod my-first-pod
+
+# Get all Objects in default namespace
+kubectl get all
+```
 
 
