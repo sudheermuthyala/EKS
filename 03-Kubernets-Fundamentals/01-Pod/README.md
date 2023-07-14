@@ -81,5 +81,5 @@ kubectl delete pod my-first-pod
 kubectl get po
 
 
-
+```
 
