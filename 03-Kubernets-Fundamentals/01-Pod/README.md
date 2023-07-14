@@ -84,7 +84,7 @@ kubectl get po
 kubectl logs <pod-name>
 kubectl logs my-first-pod
 
-# stream pod logs with -f option
+# stream pod logs with -f option and access
 
 ```
 
