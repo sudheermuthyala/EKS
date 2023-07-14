@@ -81,8 +81,8 @@ kubectl delete pod my-first-pod
 kubectl get po
 
 # Dump Pod logs
-kubectl log <pod-name>
-kubectl logs
+kubectl logs <pod-name>
+kubectl logs myfirst
 
 ```
 
