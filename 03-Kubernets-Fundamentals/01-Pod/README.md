@@ -94,4 +94,7 @@ kubectl logs -f my-first-pod
     - Troubleshooting skills are very important. So please go through all logging options available and master them.
     - **Reference :** https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
+Connect to Container in a POD
+
+
 
