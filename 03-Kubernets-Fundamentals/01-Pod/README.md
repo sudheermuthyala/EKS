@@ -24,16 +24,16 @@ kubectl get nodes -o wide
 kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
 
 # Replace Pod Name, Container Image
-kubectl run MSN-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
+kubectl run my-firest-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
 
 ```
 - **Important Note :** Without --generator=run-pod/v1 it will create a pod with a deployment
 - **Important Note :** With Kubernetes 1.18 version, there is lot clean-up to kubectl run command. The below will suffice to create a Pod as a pod without creating deployment. We dont need to add --generator=run-pod/v1
 
 ```
-kubectl run MSN-pod --image stacksimplify/kubenginx:1.0.0
+kubectl run my-firest-pod --image stacksimplify/kubenginx:1.0.0
 ```
-my-firest-pod
+
 ## List Pods
 * Get the list of pods
 ```t
@@ -63,7 +63,7 @@ kubectl get pods
 
 # Describe the Pod
 kubectl describe pod <Pod-Name>
-kubectl describe pod MSN-pod 
+kubectl describe pod my-firest-pod 
 ```
 
 ### Delete Pod
