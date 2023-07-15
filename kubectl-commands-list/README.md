@@ -95,6 +95,11 @@ kubectl get all
 kubectl delete svc my-first-service
 kubectl delete svc my-first-service2
 kubectl delete svc my-first-service3
+# Delete Pod
+kubectl delete pod my-first-pod
+
+# Get all Objects in default namespace
+kubectl get all
 ```
 
 ```t
