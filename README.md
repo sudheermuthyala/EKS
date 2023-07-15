@@ -17,6 +17,8 @@ Declarative with YAML
 Secrets
 Init Containers
 Probes
+Requests & Limits
+Namespaces
 
 
 ## Doug
