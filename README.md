@@ -16,6 +16,7 @@ kubectl - Imperative
 Declarative with YAML
 Secrets
 Init Containers
+Probes
 
 
 ## Doug
