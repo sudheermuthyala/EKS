@@ -146,5 +146,10 @@ spec:
 - Update the ReplicaSet
 
 ```t
+# Apply latest changes to ReplicaSet
+kubectl replace -f replicaset-demo.yml
 
+# Verify if new pods got created
+kubectl get pods -o wide
 ```
+## Delete ReplicaSet & Service
