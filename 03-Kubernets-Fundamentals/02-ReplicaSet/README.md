@@ -6,3 +6,7 @@ Introduction to ReplicaSets
 ## Create ReplicaSet
 Create ReplicaSet
 
+```t
+
+kubectl create -f replicaset-demo.yaml
+```
