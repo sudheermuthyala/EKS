@@ -36,3 +36,4 @@ kubectl get pods
 kubectl describe pod <Pod-Name>
 kubectl describe pod MSN-pod 
 ```
+Delete Pod
