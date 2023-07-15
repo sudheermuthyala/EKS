@@ -129,3 +129,5 @@ kubectl delete pod <Pod-Name>
 # Verify the new pod got created automatically
 kubectl get pods   (Verify Age and name of new pod)
 ```
+
+## Test ReplicaSet Scalability feature
