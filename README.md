@@ -3,7 +3,7 @@
 </p>
 
 ## Kubernetes Concepts<p align="center">
-                        <img src="" />
+                        <img src="https://user-images.githubusercontent.com/34484660/253772165-528ae82a-2727-44bb-886c-a2e7b69a5153.png" />
                       </p>
 https://user-images.githubusercontent.com/34484660/253772165-528ae82a-2727-44bb-886c-a2e7b69a5153.png
 - [Architecture](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/00-Kubernetes-Architecture/README.md#kubernetes---architecture)
