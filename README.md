@@ -8,7 +8,7 @@
 - [Deployments](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/README.md#deployments)
 - [Node Port Service](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/04-Service/README.md#nodeport-service-introduction)
 - [Cluster IP Service]()
-- [External Name Service]
+- [External Name Service]()
 - [Ingress Service]()
 - [Ingress SSL]()
 - [Ingress & External DNS]()
