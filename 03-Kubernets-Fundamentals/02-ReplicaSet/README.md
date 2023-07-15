@@ -7,6 +7,6 @@ Introduction to ReplicaSets
 Create ReplicaSet
 
 ```t
-
+## Create ReplicaSet
 kubectl create -f replicaset-demo.yaml
 ```
