@@ -167,3 +167,15 @@ kubectl delete rs my-helloworld-rs
 kubectl get rs
 ```
 Delete Service created for ReplicaSet
+```t
+# Delete Service
+kubectl delete svc <service-name>
+
+# Sample Commands
+kubectl delete svc my-helloworld-rs-service
+[or]
+kubectl delete svc/my-helloworld-rs-service
+
+# Verify if Service got deleted
+kubectl get svc
+```
