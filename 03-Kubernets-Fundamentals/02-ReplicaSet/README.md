@@ -10,7 +10,9 @@ Introduction to ReplicaSets
         - A ReplicaSet’s purpose is to maintain a stable set of replica Pods running at any given time
         - If our application crashes (any pod dies), replicaset will recreate the pod immediately to ensure the configured number of pods running at any given time.
     - **Scaling :**
+        - When load become too much for the number of existing pods, Kubernetes enables us to easily scale up our application, adding additional pods as needed.
         - 
+
     - Load Balancing
     - Labels & Selectors
 
