@@ -14,6 +14,8 @@ Ingress SSL
 Ingress & External DNS
 kubectl - Imperative
 Declarative with YAML
+Secrets
+Init Containers
 
 
 ## Doug
