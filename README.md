@@ -27,6 +27,8 @@ PVC
 Load Balancers
 Annotations
 Canary Deployments
+HPA
+VPA
 
 
 ## Doug
