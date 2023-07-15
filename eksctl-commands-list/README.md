@@ -19,6 +19,7 @@ eksctl utils associate-iam-oidc-provider \
     --cluster mseks \
     --approve
 
+# Create Public Node Group
 eksctl create nodegroup --cluster=mseks \
                        --region=us-east-1 \
                        --name=mseks-ng-public1 \
