@@ -154,3 +154,15 @@ kubectl get pods -o wide
 ```
 ## Delete ReplicaSet & Service
 Delete ReplicaSet
+```t
+# Delete ReplicaSet
+kubectl delete rs <ReplicaSet-Name>
+
+# Sample Commands
+kubectl delete rs/my-helloworld-rs
+[or]
+kubectl delete rs my-helloworld-rs
+
+# Verify if ReplicaSet got deleted
+kubectl get rs
+```
