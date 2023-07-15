@@ -22,8 +22,8 @@
 - [Limit Range]
 - [Resource Quota]
 - [Storage Classes]
-- [Persistent Volumes
-- [PVC
+- [Persistent Volumes]
+- [PVC]()
 - [Load Balancers
 - [Annotations
 - [Canary Deployments
