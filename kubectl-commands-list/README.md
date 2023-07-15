@@ -3,4 +3,4 @@ Get Worker Node Status
 kubectl get nodes
 
 ```
-# Get Worker Node Status with wide option
+Get Worker Node Status with wide option
