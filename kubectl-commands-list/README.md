@@ -144,7 +144,7 @@ kubectl get svc
 # Get Public IP of Worker Nodes
 kubectl get nodes -o wide
 ```
-
+Update the ReplicaSet
 ```t
 
 ```
