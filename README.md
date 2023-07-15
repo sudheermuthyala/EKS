@@ -15,8 +15,8 @@
 - [kubectl - Imperative]
 - [Declarative with YAML]
 - [Secrets]
-- [Init Containers]
-- [Probes
+- [Init Containers]()
+- [Probes]
 - [Requests & Limits
 - [Namespaces
 - [Limit Range
