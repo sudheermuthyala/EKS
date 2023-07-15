@@ -30,13 +30,13 @@ Introduction to ReplicaSets
 
 
 ## Create ReplicaSet
-Create ReplicaSet
+- Create ReplicaSet
 
 ```t
 ## Create ReplicaSet
 kubectl create -f replicaset-demo.yaml
 ```
-replicaset-demo.yml
+- replicaset-demo.yml
 ```t
 apiVersion: apps/v1
 kind: ReplicaSet
