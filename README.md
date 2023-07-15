@@ -28,8 +28,8 @@
 - [Annotations]()
 - [Canary Deployments]()
 - [HPA]()
-- [VPA
-- [DaemonSets
+- [VPA]()
+- [DaemonSets()
 - [Fluentd for logs
 - [ConfigMaps
 
