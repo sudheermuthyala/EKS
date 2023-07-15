@@ -65,3 +65,5 @@ List ReplicaSets
 kubectl get replicaset
 kubectl get rs
 ```
+Describe ReplicaSet
+- 
