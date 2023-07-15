@@ -2,7 +2,7 @@
     <img src="" />
 </p>
 
-- Architecture
+- [Architecture](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/00-Kubernetes-Architecture/README.md#kubernetes---architecture)
 - Pods
 - ReplicaSets
 - Deployments
