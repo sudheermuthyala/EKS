@@ -17,9 +17,9 @@
 - [Secrets]
 - [Init Containers]()
 - [Probes]
-- [Requests & Limits
-- [Namespaces
-- [Limit Range
+- [Requests & Limits]
+- [Namespaces]
+- [Limit Range]
 - [Resource Quota
 - [Storage Classes
 - [Persistent Volumes
