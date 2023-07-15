@@ -20,6 +20,7 @@ Introduction to ReplicaSets
 
 - How to scale the application 
     - First thing is go ahead and then update your ReplicaSets,number of replicas and decide number,how much you want, and then apply that.
+    - 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/34484660/253736877-549921cc-efe2-4579-9ab9-ffbe22775b18.png" />
 </p>
