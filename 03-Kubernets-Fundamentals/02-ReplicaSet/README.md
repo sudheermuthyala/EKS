@@ -61,3 +61,7 @@ spec:
 List ReplicaSets
 - Get list of ReplicaSets
 
+```t
+kubectl get replicaset
+kubectl get rs
+```
