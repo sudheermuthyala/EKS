@@ -2,4 +2,4 @@
 ![](NodePort-Service.png)
 ![](Kubernetes-ReplicaSets.png)
 ![](kubernets.png)
-![](Course Outline.png)
+![](CourseOutline.png)
