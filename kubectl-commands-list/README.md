@@ -166,8 +166,6 @@ kubectl delete rs my-helloworld-rs
 kubectl get rs
 ```
 Delete Service created for ReplicaSet
-
-
 ```t
 
 ```
