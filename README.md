@@ -7,31 +7,31 @@
 - [ReplicaSets](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/02-ReplicaSet/README.md#kubernetes---replicasets)
 - [Deployments](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/README.md#deployments)
 - [Node Port Service](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/04-Service/README.md#nodeport-service-introduction)
-- Cluster IP Service
-- External Name Service
-- Ingress Service
-- Ingress SSL
-- Ingress & External DNS
-- kubectl - Imperative
-- Declarative with YAML
-- Secrets
-- Init Containers
-- Probes
-- Requests & Limits
-- Namespaces
-- Limit Range
-- Resource Quota
-- Storage Classes
-- Persistent Volumes
-- PVC
-- Load Balancers
-- Annotations
-- Canary Deployments
-- HPA
-- VPA
-- DaemonSets
-- Fluentd for logs
-- ConfigMaps
+- [Cluster IP Service
+- [External Name Service
+- [Ingress Service
+- [Ingress SSL
+- [Ingress & External DNS
+- [kubectl - Imperative
+- [Declarative with YAML
+- [Secrets
+- [Init Containers
+- [Probes
+- [Requests & Limits
+- [Namespaces
+- [Limit Range
+- [Resource Quota
+- [Storage Classes
+- [Persistent Volumes
+- [PVC
+- [Load Balancers
+- [Annotations
+- [Canary Deployments
+- [HPA
+- [VPA
+- [DaemonSets
+- [Fluentd for logs
+- [ConfigMaps
 
 
 ## Doug
