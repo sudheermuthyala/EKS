@@ -77,3 +77,11 @@ kubectl describe rs my-helloworld-rs
 ```
 List of Pods
 - Get list of Pods
+```t
+#Get list of Pods
+kubectl get pods
+kubectl describe pod <pod-name>
+
+# Get list of Pods with Pod IP and Node in which it is running
+kubectl get pods -o wide
+```
