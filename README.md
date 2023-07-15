@@ -26,6 +26,7 @@ Persistent Volumes
 PVC
 Load Balancers
 Annotations
+Canary Deployments
 
 
 ## Doug
