@@ -14,7 +14,7 @@ Introduction to ReplicaSets
         - This is going to be seamless and super quick.
     - **Load Balancing :**
         - To avoid overloading of traffic to single pod we can use load balancing. 
-Kubernetes provides pod load balancing out of the box using Services  for the pods which are part of a ReplicaSet
+        - Kubernetes provides pod load balancing out of the box using Services  for the pods which are part of a ReplicaSet
 
     - Labels & Selectors
 
