@@ -131,3 +131,5 @@ kubectl get pods   (Verify Age and name of new pod)
 ```
 
 ## Test ReplicaSet Scalability feature
+- Test how scalability is going to seamless & quick
+- Update the replicas field in replicaset-demo.yml from 3 to 6.
