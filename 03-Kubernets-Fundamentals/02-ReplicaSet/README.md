@@ -85,3 +85,4 @@ kubectl describe pod <pod-name>
 # Get list of Pods with Pod IP and Node in which it is running
 kubectl get pods -o wide
 ```
+Verify the Owner of the Pod
