@@ -19,6 +19,9 @@ Init Containers
 Probes
 Requests & Limits
 Namespaces
+Limit Range
+Resource Quota
+Storage Classes
 
 
 ## Doug
