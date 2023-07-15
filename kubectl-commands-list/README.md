@@ -78,8 +78,7 @@ kubectl exec -it my-first-pod env
 kubectl exec -it my-first-pod ls
 kubectl exec -it my-first-pod cat /usr/share/nginx/html/index.html
 ```
-
-
+Get YAML Output of Pod & Service
 ```t
 
 ```
