@@ -25,6 +25,7 @@ Storage Classes
 Persistent Volumes
 PVC
 Load Balancers
+Annotations
 
 
 ## Doug
