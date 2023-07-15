@@ -101,7 +101,7 @@ kubectl delete pod my-first-pod
 # Get all Objects in default namespace
 kubectl get all
 ```
-
+Create ReplicaSet
 ```t
 
 ```
