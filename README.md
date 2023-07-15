@@ -11,6 +11,9 @@ Cluster IP Service
 External Name Service
 Ingress Service
 Ingress SSL
+Ingress & External DNS
+kubectl - Imperative
+Declarative with YAML
 
 
 ## Doug
