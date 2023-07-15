@@ -10,7 +10,7 @@ Introduction to ReplicaSets
 - High Availability or Reliability
 - Scaling
 - Load Balancing
-
+- Labels & Selectors
 
 ## Create ReplicaSet
 Create ReplicaSet
