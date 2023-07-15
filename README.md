@@ -4,8 +4,8 @@
 
 - [Architecture](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/00-Kubernetes-Architecture/README.md#kubernetes---architecture)
 - [Pods](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/01-Pod/README.md#kubernetes---pods)
-- ReplicaSets
-- Deployments
+- [ReplicaSets](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/02-ReplicaSet/README.md#kubernetes---replicasets)
+- [Deployments](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/README.md#deployments)
 - Node Port Service
 - Cluster IP Service
 - External Name Service
