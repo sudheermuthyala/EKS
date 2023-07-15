@@ -67,3 +67,4 @@ kubectl get rs
 ```
 Describe ReplicaSet
 - Describe the newly created ReplicaSet
+``````
