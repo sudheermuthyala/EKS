@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/34484660/253772165-528ae82a-2727-44bb-886c-a2e7b69a5153.png" />
+    <img src="https://user-images.githubusercontent.com/34484660/253774654-90e595e7-8041-410e-a405-bf7d21d130ff.png" />
 </p>
 
 ## Kubernetes Concepts
