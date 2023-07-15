@@ -22,6 +22,7 @@ Introduction to ReplicaSets
     - First thing is go ahead and then update your ReplicaSets,number of replicas and decide number,how much you want, and then apply that.
     - You can use kubectl scale to do that.
     -  you can even enable the HorizontalPodAutoscaler to auto scale the pods to achieve to support the amount of traffic spike at that point of time.
+    
 <p align="center">
     <img src="https://user-images.githubusercontent.com/34484660/253736877-549921cc-efe2-4579-9ab9-ffbe22775b18.png" />
 </p>
