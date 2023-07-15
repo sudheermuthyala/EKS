@@ -1,5 +1,6 @@
-Get Worker Node Status
+# Get Worker Node Status
 ```t
 kubectl get nodes
 
 ```
+# Get Worker Node Status with wide option
