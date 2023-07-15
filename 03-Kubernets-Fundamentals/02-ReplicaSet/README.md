@@ -143,3 +143,4 @@ spec:
 spec:
   replicas: 6
 ```
+- Update the ReplicaSet
