@@ -132,7 +132,16 @@ kubectl get pods my-helloworld-rs-c8rrj -o yaml
 ```
 Expose ReplicaSet as a Service
 ```t
+# Expose ReplicaSet as a Service
+kubectl expose rs <ReplicaSet-Name>  --type=NodePort --port=80 --target-port=8080 --name=<Service-Name-To-Be-Created>
+kubectl expose rs my-helloworld-rs  --type=NodePort --port=80 --target-port=8080 --name=my-helloworld-rs-service
 
+# Get Service Info
+kubectl get service
+kubectl get svc
+
+# Get Public IP of Worker Nodes
+kubectl get nodes -o wide
 ```
 
 ```t
