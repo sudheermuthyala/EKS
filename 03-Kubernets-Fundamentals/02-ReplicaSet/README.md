@@ -59,3 +59,4 @@ spec:
         image: stacksimplify/kube-helloworld:1.0.0
 ```
 List ReplicaSets
+- Get list of ReplicaSets
