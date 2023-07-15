@@ -114,4 +114,4 @@ kubectl get nodes -o wide
 http://<node1-public-ip>:<Node-Port>/hello
 
 ```
-
+## Test Replicaset Reliability or High Availability
