@@ -4,34 +4,34 @@
 
 - Architecture
 - Pods
-ReplicaSets
-Deployments
-Node Port Service
-Cluster IP Service
-External Name Service
-Ingress Service
-Ingress SSL
-Ingress & External DNS
-kubectl - Imperative
-Declarative with YAML
-Secrets
-Init Containers
-Probes
-Requests & Limits
-Namespaces
-Limit Range
-Resource Quota
-Storage Classes
-Persistent Volumes
-PVC
-Load Balancers
-Annotations
-Canary Deployments
-HPA
-VPA
-DaemonSets
-Fluentd for logs
-ConfigMaps
+- ReplicaSets
+- Deployments
+- Node Port Service
+- Cluster IP Service
+- External Name Service
+- Ingress Service
+- Ingress SSL
+- Ingress & External DNS
+- kubectl - Imperative
+- Declarative with YAML
+- Secrets
+- Init Containers
+- Probes
+- Requests & Limits
+- Namespaces
+- Limit Range
+- Resource Quota
+- Storage Classes
+- Persistent Volumes
+- PVC
+- Load Balancers
+- Annotations
+- Canary Deployments
+- HPA
+- VPA
+- DaemonSets
+- Fluentd for logs
+- ConfigMaps
 
 
 ## Doug
