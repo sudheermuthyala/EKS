@@ -30,7 +30,7 @@
 - [HPA]()
 - [VPA]()
 - [DaemonSets()
-- [Fluentd for logs
+- [Fluentd for logs]()
 - [ConfigMaps
 
 
