@@ -16,4 +16,6 @@
 
 - 28. Step-03: Kubernetes NodePort Service Introduction
 - 31. Step-06: Delete Pod
+- 34. Step-09: Kubernetes ReplicaSet - Expose and Test via Browser
+
 
