@@ -111,7 +111,7 @@ Get list of ReplicaSets
 kubectl get replicaset
 kubectl get rs
 ```
-
+Describe the newly created ReplicaSet
 ```t
 
 ```
