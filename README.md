@@ -53,7 +53,9 @@
 - 31. Step-06: Delete Pod
 - 34. Step-09: Kubernetes ReplicaSet - Expose and Test via Browser
 
-
+```
 <p align="center">
     <img src="" />
 </p>
+
+```
