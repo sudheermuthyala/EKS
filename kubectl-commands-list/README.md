@@ -59,3 +59,14 @@ kubectl logs -f <pod-name>
 kubectl logs -f my-first-pod
 ```
 Connect to Container in a POD
+```t
+# Connect to Nginx Container in a POD
+kubectl exec -it <pod-name> -- /bin/bash
+kubectl exec -it my-first-pod -- /bin/bash
+
+# Execute some commands in Nginx container
+ls
+cd /usr/share/nginx/html
+cat index.html
+exit
+```
