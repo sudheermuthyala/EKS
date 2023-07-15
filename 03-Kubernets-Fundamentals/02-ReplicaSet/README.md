@@ -110,3 +110,8 @@ kubectl get nodes -o wide
 ```
 - Access the Application using Public IP
 
+```t
+http://<node1-public-ip>:<Node-Port>/hello
+
+```
+
