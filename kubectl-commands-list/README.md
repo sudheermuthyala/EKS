@@ -106,7 +106,7 @@ Create ReplicaSet
 ## Create ReplicaSet
 kubectl create -f replicaset-demo.yaml
 ```
-
+Get list of ReplicaSets
 ```t
 
 ```
