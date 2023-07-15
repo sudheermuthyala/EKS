@@ -93,3 +93,4 @@ Verify the Owner of the Pod
 kubectl get pods <pod-name> -o yaml
 kubectl get pods my-helloworld-rs-c8rrj -o yaml 
 ```
+## Expose ReplicaSet as a Service
