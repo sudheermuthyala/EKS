@@ -8,7 +8,7 @@ Introduction to ReplicaSets
 - What is the advantage of using ReplicaSets?
     - **High Availability or Reliability :**
         - A ReplicaSet’s purpose is to maintain a stable set of replica Pods running at any given time
-        - 
+        - If our application crashes (any pod dies), replicaset will recreate the pod immediately to ensure the configured number of pods running at any given time.
     - Scaling
     - Load Balancing
     - Labels & Selectors
