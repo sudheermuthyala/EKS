@@ -12,7 +12,6 @@ Introduction to ReplicaSets
     - **Scaling :**
         - When load become too much for the number of existing pods, Kubernetes enables us to easily scale up our application, adding additional pods as needed.
         - This is going to be seamless and super quick.
-
     - Load Balancing
     - Labels & Selectors
 
