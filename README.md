@@ -20,8 +20,8 @@
 - [Requests & Limits]
 - [Namespaces]
 - [Limit Range]
-- [Resource Quota
-- [Storage Classes
+- [Resource Quota]
+- [Storage Classes]
 - [Persistent Volumes
 - [PVC
 - [Load Balancers
