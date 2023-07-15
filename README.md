@@ -25,9 +25,9 @@
 - [Persistent Volumes]
 - [PVC]()
 - [Load Balancers]()
-- [Annotations]
-- [Canary Deployments
-- [HPA
+- [Annotations]()
+- [Canary Deployments]()
+- [HPA]()
 - [VPA
 - [DaemonSets
 - [Fluentd for logs
