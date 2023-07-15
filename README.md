@@ -24,8 +24,8 @@
 - [Storage Classes]
 - [Persistent Volumes]
 - [PVC]()
-- [Load Balancers
-- [Annotations
+- [Load Balancers]()
+- [Annotations]
 - [Canary Deployments
 - [HPA
 - [VPA
