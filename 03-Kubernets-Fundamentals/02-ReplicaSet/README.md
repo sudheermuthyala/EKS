@@ -9,6 +9,8 @@ Introduction to ReplicaSets
 
 - High Availability or Reliability
 - Scaling
+- Load Balancing
+
 
 ## Create ReplicaSet
 Create ReplicaSet
