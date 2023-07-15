@@ -29,6 +29,7 @@ Annotations
 Canary Deployments
 HPA
 VPA
+DaemonSets
 
 
 ## Doug
