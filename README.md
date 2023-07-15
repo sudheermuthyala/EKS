@@ -3,7 +3,7 @@
 </p>
 
 - [Architecture](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/00-Kubernetes-Architecture/README.md#kubernetes---architecture)
-- Pods
+- [Pods](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/01-Pod/README.md#kubernetes---pods)
 - ReplicaSets
 - Deployments
 - Node Port Service
