@@ -58,3 +58,4 @@ kubectl logs my-first-pod
 kubectl logs -f <pod-name>
 kubectl logs -f my-first-pod
 ```
+Connect to Container in a POD
