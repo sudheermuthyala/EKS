@@ -22,6 +22,8 @@ Namespaces
 Limit Range
 Resource Quota
 Storage Classes
+Persistent Volumes
+PVC
 
 
 ## Doug
