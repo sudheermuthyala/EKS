@@ -54,3 +54,6 @@
 - 34. Step-09: Kubernetes ReplicaSet - Expose and Test via Browser
 
 
+<p align="center">
+    <img src="" />
+</p>
