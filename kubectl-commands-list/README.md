@@ -9,4 +9,6 @@ kubectl get nodes -o wide
 ```
 Create a Pod Imperative way
 ```t
+kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
+
 ```
