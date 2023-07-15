@@ -21,9 +21,7 @@ Introduction to ReplicaSets
 - How to scale the application 
     - First thing is go ahead and then update your ReplicaSets,number of replicas and decide number,how much you want, and then apply that.
     - You can use kubectl scale to do that.
-    -  you can even enable the HorizontalPodAutoscaler to auto scale the pods to achieve
-
-or to support the amount of traffic spike
+    -  you can even enable the HorizontalPodAutoscaler to auto scale the pods to achieve to support the amount of traffic spike
 
 at that point of time.
 <p align="center">
