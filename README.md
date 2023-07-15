@@ -17,7 +17,7 @@
 - [Secrets]
 - [Init Containers]()
 - [Probes]
-- [Requests & Limits]
+- [Requests & Limits]()
 - [Namespaces]
 - [Limit Range]()
 - [Resource Quota]()
