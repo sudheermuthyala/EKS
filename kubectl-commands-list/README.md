@@ -103,7 +103,8 @@ kubectl get all
 ```
 Create ReplicaSet
 ```t
-
+## Create ReplicaSet
+kubectl create -f replicaset-demo.yaml
 ```
 
 ```t
