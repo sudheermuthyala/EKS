@@ -179,3 +179,4 @@ kubectl delete svc/my-helloworld-rs-service
 # Verify if Service got deleted
 kubectl get svc
 ```
+Pending Concept in ReplicaSet
