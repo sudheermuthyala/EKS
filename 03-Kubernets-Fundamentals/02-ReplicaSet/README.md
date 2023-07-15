@@ -6,7 +6,7 @@ Introduction to ReplicaSets
 
 
 - What is the advantage of using ReplicaSets?
-    - High Availability or Reliability
+    - **High Availability or Reliability :**
     - Scaling
     - Load Balancing
     - Labels & Selectors
