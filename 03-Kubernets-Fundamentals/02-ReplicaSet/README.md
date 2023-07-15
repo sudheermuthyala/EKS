@@ -60,3 +60,4 @@ spec:
 ```
 List ReplicaSets
 - Get list of ReplicaSets
+
