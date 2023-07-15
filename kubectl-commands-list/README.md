@@ -127,8 +127,10 @@ kubectl describe pod <pod-name>
 
 # Get list of Pods with Pod IP and Node in which it is running
 kubectl get pods -o wide
+kubectl get pods <pod-name> -o yaml
+kubectl get pods my-helloworld-rs-c8rrj -o yaml 
 ```
-
+Expose ReplicaSet as a Service
 ```t
 
 ```
