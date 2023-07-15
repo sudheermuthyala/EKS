@@ -75,3 +75,5 @@ kubectl describe rs/my-helloworld-rs
 [or]
 kubectl describe rs my-helloworld-rs
 ```
+List of Pods
+- 
