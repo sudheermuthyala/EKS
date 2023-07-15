@@ -108,7 +108,8 @@ kubectl create -f replicaset-demo.yaml
 ```
 Get list of ReplicaSets
 ```t
-
+kubectl get replicaset
+kubectl get rs
 ```
 
 ```t
