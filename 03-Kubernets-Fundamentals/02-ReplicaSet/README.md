@@ -86,5 +86,5 @@ kubectl describe pod <pod-name>
 kubectl get pods -o wide
 ```
 Verify the Owner of the Pod
--Verify the owner reference of the pod.
+- Verify the owner reference of the pod.
 - Verify under "name" tag under "ownerReferences". We will find the replicaset name to which this pod belongs to
