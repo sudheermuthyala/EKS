@@ -24,6 +24,7 @@ Resource Quota
 Storage Classes
 Persistent Volumes
 PVC
+Load Balancers
 
 
 ## Doug
