@@ -8,7 +8,7 @@ Introduction to ReplicaSets
 </p>
 
 - High Availability or Reliability
-
+- Scaling
 
 ## Create ReplicaSet
 Create ReplicaSet
