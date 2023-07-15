@@ -19,19 +19,19 @@
 - [Probes]
 - [Requests & Limits]
 - [Namespaces]
-- [Limit Range]
-- [Resource Quota]
-- [Storage Classes]
-- [Persistent Volumes]
+- [Limit Range]()
+- [Resource Quota]()
+- [Storage Classes]()
+- [Persistent Volumes]()
 - [PVC]()
 - [Load Balancers]()
 - [Annotations]()
 - [Canary Deployments]()
 - [HPA]()
 - [VPA]()
-- [DaemonSets()
+- [DaemonSets]()
 - [Fluentd for logs]()
-- [ConfigMaps
+- [ConfigMaps]()
 
 
 ## Doug
