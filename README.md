@@ -5,6 +5,7 @@
 - Architecture
 - Pods
 ReplicaSets
+Deployments
 
 ## Doug
 
