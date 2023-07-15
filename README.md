@@ -30,6 +30,8 @@ Canary Deployments
 HPA
 VPA
 DaemonSets
+Fluentd for logs
+ConfigMaps
 
 
 ## Doug
