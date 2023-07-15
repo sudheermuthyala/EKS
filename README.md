@@ -6,6 +6,12 @@
 - Pods
 ReplicaSets
 Deployments
+Node Port Service
+Cluster IP Service
+External Name Service
+Ingress Service
+Ingress SSL
+
 
 ## Doug
 
