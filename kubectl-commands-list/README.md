@@ -15,3 +15,10 @@ kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
 kubectl run MSN-pod --image stacksimplify/kubenginx:1.0.0 --generator=run-pod/v1
 ```
 Get the list of pods
+```t
+# List Pods
+kubectl get pods
+
+# Alias name for pods is po
+kubectl get po
+```
