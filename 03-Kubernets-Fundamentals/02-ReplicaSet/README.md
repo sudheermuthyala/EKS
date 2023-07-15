@@ -67,6 +67,7 @@ kubectl get rs
 ```
 Describe ReplicaSet
 - Describe the newly created ReplicaSet
+
 ```t
 kubectl describe rs/<replicaset-name>
 
