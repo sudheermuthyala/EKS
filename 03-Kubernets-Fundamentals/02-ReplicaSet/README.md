@@ -153,3 +153,4 @@ kubectl replace -f replicaset-demo.yml
 kubectl get pods -o wide
 ```
 ## Delete ReplicaSet & Service
+Delete ReplicaSet
