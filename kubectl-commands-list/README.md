@@ -28,4 +28,11 @@ List Pods with wide option
 ## List pods with wide option which also provide Node information on which Pod is running
 kubectl get pods -o wide
 ```
-``````
+```t
+# To get list of pod names
+kubectl get pods
+
+# Describe the Pod
+kubectl describe pod <Pod-Name>
+kubectl describe pod MSN-pod 
+```
