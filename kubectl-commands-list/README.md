@@ -37,3 +37,11 @@ kubectl describe pod <Pod-Name>
 kubectl describe pod MSN-pod 
 ```
 Delete Pod
+```t
+# To get list of pod names
+kubectl get pods
+
+# Delete Pod
+kubectl delete pod <Pod-Name>
+kubectl delete pod my-first-pod
+```
