@@ -113,7 +113,11 @@ kubectl get rs
 ```
 Describe the newly created ReplicaSet
 ```t
+kubectl describe rs/<replicaset-name>
 
+kubectl describe rs/my-helloworld-rs
+[or]
+kubectl describe rs my-helloworld-rs
 ```
 
 ```t
