@@ -94,3 +94,4 @@ kubectl get pods <pod-name> -o yaml
 kubectl get pods my-helloworld-rs-c8rrj -o yaml 
 ```
 ## Expose ReplicaSet as a Service
+- Expose ReplicaSet with a service (NodePort Service) to access the application externally (from internet)
