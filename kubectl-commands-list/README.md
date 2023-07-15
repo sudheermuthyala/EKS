@@ -119,7 +119,7 @@ kubectl describe rs/my-helloworld-rs
 [or]
 kubectl describe rs my-helloworld-rs
 ```
-
+Get list of Pods
 ```t
 
 ```
