@@ -16,7 +16,7 @@ Introduction to ReplicaSets
         - To avoid overloading of traffic to single pod we can use `load balancing`. 
         - Kubernetes provides pod load balancing out of the box using Services  for the pods which are part of a ReplicaSet
     - **Labels & Selectors :**
-        - Labels & Selectors are the key items which ties all 3 together (Pod, ReplicaSet & Service), we will know in detail when we are writing YAML manifests for these objects
+        - `Labels & Selectors` are the key items which ties all 3 together (Pod, ReplicaSet & Service), we will know in detail when we are writing YAML manifests for these objects
 
 
 <p align="center">
