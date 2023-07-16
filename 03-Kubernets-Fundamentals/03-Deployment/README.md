@@ -1,5 +1,7 @@
 ## Kubernetes - Deployment
 
+https://user-images.githubusercontent.com/34484660/253813487-21329bef-245d-4d43-8148-60693132d3ae.png
+
 Deployments 
 - what are the deployment features available for us,
     - **Create a Deployment to rollout a ReplicaSet**
