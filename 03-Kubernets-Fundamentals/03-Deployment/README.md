@@ -13,8 +13,8 @@ Deployments
         - So now we will be also able to scale our deployments.So how we have done the scaling in replicasets,in the same way in deployment also, we'll have a tag of replicas where we can add the number of replicas.We can add it, or we can use kubectl scale to scale our deployment.
 
     - **Pausing and Resuming a Deployment**
+        - 
     - **Deployment Status**
-    
     - **Clean up Policy**
     - **Canary Deployments**
 
