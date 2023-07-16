@@ -1,10 +1,11 @@
 ## Kubernetes - Deployment
+- what are the deployment features available for us,
 <p align="center">
     <img src="https://user-images.githubusercontent.com/34484660/253813487-21329bef-245d-4d43-8148-60693132d3ae.png" />
 </p>
 
 Deployments 
-- what are the deployment features available for us,
+
     - **Create a Deployment to rollout a ReplicaSet**
         - So we can create a deployment to roll out a replicaset.By default, whenever we create a deployment,a replicaset it is rolled out.
     - **Updating the Deployment**
