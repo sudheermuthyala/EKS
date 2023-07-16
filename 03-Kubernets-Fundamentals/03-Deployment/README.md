@@ -8,6 +8,10 @@ Deployments
     - Scaling a Deployment
     - Pausing and Resuming a Deployment
     - Deployment Status
+    - Deployment Status
+    - Clean up Policy
+
+
 
 
 
