@@ -8,6 +8,7 @@ Deployments
         - And updating the deployment.So whenever we want to change our application version,update our application version,we can do the update of the deployment.When we do this, automatically our version,whatever we are going to update, it is going to be recorded.So now using that, 
 
     - Rolling Back a Deployment
+    
     - Scaling a Deployment
     - Pausing and Resuming a Deployment
     - Deployment Status
