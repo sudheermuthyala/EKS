@@ -14,7 +14,7 @@ Deployments
 
     - **Pausing and Resuming a Deployment**
     - **Deployment Status**
-    - **Deployment Status**
+    
     - **Clean up Policy**
     - **Canary Deployments**
 
