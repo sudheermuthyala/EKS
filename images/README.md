@@ -5,4 +5,4 @@
 ![](CourseOutline.png)
 ![](KubernetesDeployments.png)
 ![Alt text](KubernetesDeployments.png)
-![Alt text](image.png)
+![Alt text](Deployments.png)
