@@ -18,8 +18,7 @@ Deployments
         - you can even get the rollout status or deployment status.
 
     - **Clean up Policy**
-        - Cleanup policy is nothing but So whenever we do the updating of our deployments,it maintains the rollout version history.And by default, it maintains last 10 versions of our application.So we can go to that respective version using that. we will be able to add more number of versions by adding additional tag in our YAML manifest 
-under the spec of the deployment.
+        - Cleanup policy is nothing but So whenever we do the updating of our deployments,it maintains the rollout version history.And by default, it maintains last 10 versions of our application.So we can go to that respective version using that. we will be able to add more number of versions by adding additional tag in our YAML manifest under the spec of the deployment.
     - **Canary Deployments**
         - canary deployments.So if we want to add a new version of our application in the live production traffic,and the traffic should distribute with old version and the new version,still we'll be able to do it using canary deployments.So all these things are available for us with deployment.
 
