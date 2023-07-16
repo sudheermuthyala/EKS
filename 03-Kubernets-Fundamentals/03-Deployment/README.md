@@ -5,5 +5,7 @@ Deployments
     - Create a Deployment to rollout a ReplicaSet
     - Updating the Deployment
     - Rolling Back a Deployment
+    - Scaling a Deployment
+
 
 
