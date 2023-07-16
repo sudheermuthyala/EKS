@@ -13,7 +13,7 @@ Deployments
         - So now we will be also able to scale our deployments.So how we have done the scaling in replicasets,in the same way in deployment also, we'll have a tag of replicas where we can add the number of replicas.We can add it, or we can use kubectl scale to scale our deployment.
 
     - **Pausing and Resuming a Deployment**
-        - 
+        - And we can even pause and resume a deployment.So in deployment, the core thing here is, like whenever you apply a change to your deployment,immediately it will be applied to your pods.So that is the thing. So if you want to make multiple changes, then you really don't want the pods to be recreated,or terminated and recreated every second for every change. So you have 10 changes to make to your deployment.Then pause the deployment and make all the changes,and then resume the deployment so that all those changes will be applied to your deployment at a time. So like this, there are multiple things we can take an advantage using the deployment.So whenever you are doing the deployment, 
     - **Deployment Status**
     - **Clean up Policy**
     - **Canary Deployments**
