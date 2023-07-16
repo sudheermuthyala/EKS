@@ -6,4 +6,4 @@
 ![](KubernetesDeployments.png)
 ![Alt text](KubernetesDeployments.png)
 ![Alt text](Deployments.png)
-![](2023-07-16-20-25-08.png)
+![](Deploymentfeatures.png)
