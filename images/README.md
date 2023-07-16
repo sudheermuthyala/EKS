@@ -3,3 +3,4 @@
 ![](Kubernetes-ReplicaSets.png)
 ![](kubernets.png)
 ![](CourseOutline.png)
+![](KubernetesDeployments.png)
