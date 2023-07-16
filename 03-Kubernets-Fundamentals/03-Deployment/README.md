@@ -10,6 +10,8 @@ Deployments
     - Deployment Status
     - Deployment Status
     - Clean up Policy
+    - Canary Deployments
+
 
 
 
