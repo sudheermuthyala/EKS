@@ -4,6 +4,6 @@
 ![](kubernets.png)
 ![](CourseOutline.png)
 ![](KubernetesDeployments.png)
-![Alt text](KubernetesDeployments.png)
-![Alt text](Deployments.png)
+![](KubernetesDeployments.png)
+![](Deployments.png)
 ![](Deploymentfeatures.png)
