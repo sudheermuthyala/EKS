@@ -150,3 +150,5 @@ Describe Deployment
 - **Observation:**
     - Verify the Events and understand that Kubernetes by default do "Rolling Update" for new application releases.
     - With that said, we will not have downtime for our application.
+
+
