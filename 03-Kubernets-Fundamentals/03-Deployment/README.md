@@ -214,3 +214,7 @@ kubectl edit deployment/my-first-deployment --record=true
 ```
 Verify Rollout Status
 - **Observation**: Rollout happens in a rolling update model, so no downtime.
+```t
+# Verify Rollout Status 
+kubectl rollout status deployment/my-first-deployment
+```
