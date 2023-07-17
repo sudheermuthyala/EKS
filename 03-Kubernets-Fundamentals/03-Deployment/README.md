@@ -155,3 +155,5 @@ Describe Deployment
 # Descibe Deployment
 kubectl describe deployment my-first-deployment
 ```
+
+Verify ReplicaSet
