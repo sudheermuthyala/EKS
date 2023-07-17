@@ -213,3 +213,4 @@ kubectl edit deployment/my-first-deployment --record=true
       - image: stacksimplify/kubenginx:3.0.0
 ```
 Verify Rollout Status
+- **Observation**: Rollout happens in a rolling update model, so no downtime.
