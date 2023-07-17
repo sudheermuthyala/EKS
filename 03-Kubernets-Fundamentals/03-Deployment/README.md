@@ -225,3 +225,4 @@ Verify Replicasets
 kubectl get rs
 kubectl get po
 ```
+Verify Rollout History
