@@ -172,3 +172,4 @@ Verify Pods
 kubectl get po
 ```
 Verify Rollout History of a Deployment
+- Observation: We have the rollout history, so we can switch back to older revisions using revision history available to us.
