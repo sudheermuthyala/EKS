@@ -93,6 +93,7 @@ kubectl scale --replicas=10 deployment/my-first-deployment
 kubectl get deploy
 ```
 
-
+ Expose Deployment as a Service
+ - 
 
 
