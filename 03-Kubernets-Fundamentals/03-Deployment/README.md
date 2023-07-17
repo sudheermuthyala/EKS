@@ -33,8 +33,8 @@ what are the deployment features available for us,
 2. Scale the Deployment
 3. Expose Deployment as a Service
 4. Update Deployment
-5Rollback Deployment
-Rolling Restarts
+5. Rollback Deployment
+6. Rolling Restarts
 Pause & Resume Deployments
 Canary Deployments (Will be covered at Declarative section of Deployments)
 
