@@ -145,3 +145,5 @@ kubectl rollout status deployment/my-first-deployment
 # Verify Deployment
 kubectl get deploy
 ```
+
+Describe Deployment
