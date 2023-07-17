@@ -275,3 +275,4 @@ kubectl rollout undo deployment/my-first-deployment
 # List Deployment Rollout History
 kubectl rollout history deployment/my-first-deployment  
 ```
+Verify Deployment, Pods, ReplicaSets
