@@ -127,3 +127,11 @@ Kubernetes - Update Deployments Introduction
 Update Deployment
 - **Observation:** Please Check the container name in `spec.container.name` yaml output and make a note of it and replace in `kubectl set image` command
 
+```t
+# Get Container Name from current deployment
+kubectl get deployment my-first-deployment -o yaml
+
+# Update Deployment - SHOULD WORK NOW
+kubectl set image deployment/<Deployment-Name> <Container-Name>=<Container-Image> --record=true
+kubectl set image deployment/my-first-deployment kubenginx=stacksimplify/kubenginx:2.0.0 --record=true
+```
