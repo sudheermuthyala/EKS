@@ -196,3 +196,8 @@ http://<worker-node-public-ip>:<Node-Port>
 ## Update the Application from V2 to V3 using "Edit Deployment" Option
 Edit Deployment
 
+```t
+# Edit Deployment
+kubectl edit deployment/<Deployment-Name> --record=true
+kubectl edit deployment/my-first-deployment --record=true
+```
