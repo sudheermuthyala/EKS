@@ -171,3 +171,4 @@ Verify Pods
 # List Pods
 kubectl get po
 ```
+Verify Rollout History of a Deployment
