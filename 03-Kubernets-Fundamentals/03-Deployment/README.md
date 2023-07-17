@@ -157,3 +157,5 @@ kubectl describe deployment my-first-deployment
 ```
 
 Verify ReplicaSet
+- **Observation:** New ReplicaSet will be created for new version
+
