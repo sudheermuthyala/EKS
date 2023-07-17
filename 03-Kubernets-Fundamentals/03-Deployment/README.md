@@ -297,3 +297,4 @@ Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on
 http://<worker-node-public-ip>:<Node-Port>
 ```
 Rollback to `specific revision`
+- Observation: If we rollback, it will go back to revision-2 and its number increases to revision-4
