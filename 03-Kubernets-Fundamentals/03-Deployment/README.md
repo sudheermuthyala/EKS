@@ -194,3 +194,5 @@ Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on
 http://<worker-node-public-ip>:<Node-Port>
 ```
 ## Update the Application from V2 to V3 using "Edit Deployment" Option
+Edit Deployment
+
