@@ -72,6 +72,8 @@ kubectl get rs
 kubectl get po
 ```
 Scaling a Deployment
+- Scale the deployment to increase the number of replicas (pods)
+
 
 
 
