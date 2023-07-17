@@ -40,6 +40,7 @@ what are the deployment features available for us,
 8. Canary Deployments (Will be covered at Declarative section of Deployments)
 
 ## 01-CreateDeployment-Scaling-and-Expose-as-Service
+Introduction to Deployments
 
 
 
