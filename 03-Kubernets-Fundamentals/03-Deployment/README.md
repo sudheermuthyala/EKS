@@ -260,3 +260,9 @@ kubectl rollout history deployment/my-first-deployment
 ```
 Verify changes in each revision
 - **Observation:** Review the "Annotations" and "Image" tags for clear understanding about changes.
+```t
+# List Deployment History with revision information
+kubectl rollout history deployment/my-first-deployment --revision=1
+kubectl rollout history deployment/my-first-deployment --revision=2
+kubectl rollout history deployment/my-first-deployment --revision=3
+```
