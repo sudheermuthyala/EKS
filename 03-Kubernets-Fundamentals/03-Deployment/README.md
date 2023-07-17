@@ -138,3 +138,10 @@ kubectl set image deployment/my-first-deployment kubenginx=stacksimplify/kubengi
 
 Verify Rollout Status (Deployment Status)
 - **Observation:** By default, rollout happens in a rolling update model, so no downtime.
+```t
+# Verify Rollout Status 
+kubectl rollout status deployment/my-first-deployment
+
+# Verify Deployment
+kubectl get deploy
+```
