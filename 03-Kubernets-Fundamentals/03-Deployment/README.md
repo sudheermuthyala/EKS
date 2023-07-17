@@ -39,6 +39,8 @@ what are the deployment features available for us,
 7. Pause & Resume Deployments
 8. Canary Deployments (Will be covered at Declarative section of Deployments)
 
+## 
+
 
 
 
