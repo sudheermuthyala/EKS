@@ -179,3 +179,4 @@ Verify Rollout History of a Deployment
 kubectl rollout history deployment/<Deployment-Name>
 kubectl rollout history deployment/my-first-deployment  
 ```
+Access the Application using Public IP
