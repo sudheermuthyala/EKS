@@ -41,6 +41,11 @@ what are the deployment features available for us,
 
 ## 01-CreateDeployment-Scaling-and-Expose-as-Service
 Introduction to Deployments
+What is a Deployment?
+What all we can do using Deployment?
+Create a Deployment
+Scale the Deployment
+Expose the Deployment as a Service
 
 
 
