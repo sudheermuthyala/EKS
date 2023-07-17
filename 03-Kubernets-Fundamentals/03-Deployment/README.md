@@ -218,3 +218,4 @@ Verify Rollout Status
 # Verify Rollout Status 
 kubectl rollout status deployment/my-first-deployment
 ```
+Verify Replicasets
