@@ -298,3 +298,11 @@ http://<worker-node-public-ip>:<Node-Port>
 ```
 Rollback to `specific revision`
 - Observation: If we rollback, it will go back to revision-2 and its number increases to revision-4
+```t
+# Undo Deployment
+kubectl rollout undo deployment/my-first-deployment
+
+# List Deployment Rollout History
+kubectl rollout history deployment/my-first-deployment 
+```
+Verify Deployment, Pods, ReplicaSets
