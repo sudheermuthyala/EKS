@@ -111,5 +111,4 @@ Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on
 ```
 
 
-Access the Application using Public IP
-- 
+- Access the Application using Public IP
