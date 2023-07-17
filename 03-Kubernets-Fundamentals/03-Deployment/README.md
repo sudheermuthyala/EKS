@@ -46,6 +46,7 @@ Introduction to Deployments
 - Create a Deployment
 - Scale the Deployment
 - Expose the Deployment as a Service
+Create Deployment
 
 
 
