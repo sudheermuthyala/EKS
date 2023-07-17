@@ -123,4 +123,7 @@ Kubernetes - Update Deployments Introduction
 - We can update deployments using two options
     - Set Image
     - Edit Deployment
+## Updating Application version V1 to V2 using "Set Image" Option
+Update Deployment
+
 
