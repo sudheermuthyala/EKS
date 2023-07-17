@@ -259,4 +259,4 @@ kubectl rollout history deployment/<Deployment-Name>
 kubectl rollout history deployment/my-first-deployment  
 ```
 Verify changes in each revision
-- Observation: Review the "Annotations" and "Image" tags for clear understanding about changes.
+- **Observation:** Review the "Annotations" and "Image" tags for clear understanding about changes.
