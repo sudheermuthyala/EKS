@@ -47,7 +47,9 @@ Introduction to Deployments
 - Scale the Deployment
 - Expose the Deployment as a Service
 Create Deployment
-
+Create Deployment to rollout a ReplicaSet
+Verify Deployment, ReplicaSet & Pods
+Docker Image Location: https://hub.docker.com/repository/docker/stacksimplify/kubenginx
 
 
 
