@@ -165,4 +165,4 @@ kubectl get rs
 ```
 
 Verify Pods
-- 
+- **Observation:** Pod template hash label of new replicaset should be present for PODs letting us know these pods belong to new ReplicaSet.
