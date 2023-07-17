@@ -125,5 +125,5 @@ Kubernetes - Update Deployments Introduction
     - Edit Deployment
 ## Updating Application version V1 to V2 using "Set Image" Option
 Update Deployment
-- Observation: Please Check the container name in spec.container.name yaml output and make a note of it and replace in kubectl set image command
+- **Observation:** Please Check the container name in spec.container.name yaml output and make a note of it and replace in kubectl set image command
 
