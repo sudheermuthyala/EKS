@@ -266,3 +266,5 @@ kubectl rollout history deployment/my-first-deployment --revision=1
 kubectl rollout history deployment/my-first-deployment --revision=2
 kubectl rollout history deployment/my-first-deployment --revision=3
 ```
+Rollback to previous version
+- 
