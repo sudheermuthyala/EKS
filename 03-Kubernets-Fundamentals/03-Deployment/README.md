@@ -201,3 +201,14 @@ Edit Deployment
 kubectl edit deployment/<Deployment-Name> --record=true
 kubectl edit deployment/my-first-deployment --record=true
 ```
+```t
+# Change From 2.0.0
+    spec:
+      containers:
+      - image: stacksimplify/kubenginx:2.0.0
+
+# Change To 3.0.0
+    spec:
+      containers:
+      - image: stacksimplify/kubenginx:3.0.0
+```
