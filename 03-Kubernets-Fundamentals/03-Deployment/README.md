@@ -30,7 +30,7 @@ what are the deployment features available for us,
 
 ## Kubernetes - Deployment Topics
 1. Create Deployment
-Scale the Deployment
+2. Scale the Deployment
 Expose Deployment as a Service
 Update Deployment
 Rollback Deployment
