@@ -165,3 +165,4 @@ kubectl get rs
 ```
 
 Verify Pods
+- 
