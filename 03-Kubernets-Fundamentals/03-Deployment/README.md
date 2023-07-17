@@ -136,3 +136,5 @@ kubectl set image deployment/<Deployment-Name> <Container-Name>=<Container-Image
 kubectl set image deployment/my-first-deployment kubenginx=stacksimplify/kubenginx:2.0.0 --record=true
 ```
 
+Verify Rollout Status (Deployment Status)
+- **Observation:** By default, rollout happens in a rolling update model, so no downtime.
