@@ -121,5 +121,6 @@ http://<worker-node-public-ip>:<Node-Port>
 ## 02-Update-Deployment
 Kubernetes - Update Deployments Introduction
 - We can update deployments using two options
-
+    Set Image
+Edit Deployment
 
