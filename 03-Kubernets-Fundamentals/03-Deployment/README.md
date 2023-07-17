@@ -29,6 +29,14 @@ what are the deployment features available for us,
         - canary deployments.So if we want to add a new version of our application in the live production traffic,and the traffic should distribute with old version and the new version,still we'll be able to do it using canary deployments.So all these things are available for us with deployment.
 
 ## Kubernetes - Deployment Topics
+1. Create Deployment
+Scale the Deployment
+Expose Deployment as a Service
+Update Deployment
+Rollback Deployment
+Rolling Restarts
+Pause & Resume Deployments
+Canary Deployments (Will be covered at Declarative section of Deployments)
 
 
 
