@@ -147,3 +147,4 @@ kubectl get deploy
 ```
 
 Describe Deployment
+- **Observation:**
