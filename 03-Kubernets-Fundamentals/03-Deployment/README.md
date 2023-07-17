@@ -219,4 +219,4 @@ Verify Rollout Status
 kubectl rollout status deployment/my-first-deployment
 ```
 Verify Replicasets
-- ****
+- Observation: We should see 3 ReplicaSets now, as we have updated our application to 3rd version 3.0.0
