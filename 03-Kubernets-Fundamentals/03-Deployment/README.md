@@ -71,7 +71,7 @@ kubectl get rs
 # Verify Pod
 kubectl get po
 ```
-
+Scaling a Deployment
 
 
 
