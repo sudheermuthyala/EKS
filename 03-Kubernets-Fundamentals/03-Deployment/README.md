@@ -94,6 +94,7 @@ kubectl get deploy
 ```
 
  Expose Deployment as a Service
- - 
+ - Expose Deployment with a service (NodePort Service) to access the application externally (from internet)
+
 
 
