@@ -135,3 +135,4 @@ kubectl get deployment my-first-deployment -o yaml
 kubectl set image deployment/<Deployment-Name> <Container-Name>=<Container-Image> --record=true
 kubectl set image deployment/my-first-deployment kubenginx=stacksimplify/kubenginx:2.0.0 --record=true
 ```
+
