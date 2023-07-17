@@ -35,8 +35,8 @@ what are the deployment features available for us,
 4. Update Deployment
 5. Rollback Deployment
 6. Rolling Restarts
-Pause & Resume Deployments
-Canary Deployments (Will be covered at Declarative section of Deployments)
+7. Pause & Resume Deployments
+8. Canary Deployments (Will be covered at Declarative section of Deployments)
 
 
 
