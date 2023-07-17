@@ -312,3 +312,4 @@ kubectl get rs
 kubectl get po
 kubectl describe deploy my-first-deployment
 ```
+Access the Application using Public IP
