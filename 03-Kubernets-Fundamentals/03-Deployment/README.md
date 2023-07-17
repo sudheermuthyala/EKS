@@ -163,3 +163,5 @@ Verify ReplicaSet
 # Verify ReplicaSet
 kubectl get rs
 ```
+
+Verify Pods
