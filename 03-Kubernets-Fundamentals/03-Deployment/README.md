@@ -212,3 +212,4 @@ kubectl edit deployment/my-first-deployment --record=true
       containers:
       - image: stacksimplify/kubenginx:3.0.0
 ```
+Verify Rollout Status
