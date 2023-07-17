@@ -73,8 +73,24 @@ kubectl get po
 ```
 Scaling a Deployment
 - Scale the deployment to increase the number of replicas (pods)
-```t
 
+```t
+# Scale Up the Deployment
+kubectl scale --replicas=20 deployment/<Deployment-Name>
+kubectl scale --replicas=20 deployment/my-first-deployment 
+
+# Verify Deployment
+kubectl get deploy
+
+# Verify ReplicaSet
+kubectl get rs
+
+# Verify Pods
+kubectl get po
+
+# Scale Down the Deployment
+kubectl scale --replicas=10 deployment/my-first-deployment 
+kubectl get deploy
 ```
 
 
