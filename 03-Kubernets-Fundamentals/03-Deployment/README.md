@@ -52,6 +52,25 @@ Create Deployment
 - Verify Deployment, ReplicaSet & Pods
 - Docker Image Location: https://hub.docker.com/repository/docker/stacksimplify/kubenginx
 
+```t
+# Create Deployment
+kubectl create deployment <Deplyment-Name> --image=<Container-Image>
+kubectl create deployment my-first-deployment --image=stacksimplify/kubenginx:1.0.0 
+
+# Verify Deployment
+kubectl get deployments
+kubectl get deploy 
+
+# Describe Deployment
+kubectl describe deployment <deployment-name>
+kubectl describe deployment my-first-deployment
+
+# Verify ReplicaSet
+kubectl get rs
+
+# Verify Pod
+kubectl get po
+```
 
 
 
