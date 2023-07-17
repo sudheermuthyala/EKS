@@ -173,3 +173,9 @@ kubectl get po
 ```
 Verify Rollout History of a Deployment
 - **Observation:** We have the rollout history, so we can switch back to older revisions using revision history available to us.
+
+```t
+# Check the Rollout History of a Deployment
+kubectl rollout history deployment/<Deployment-Name>
+kubectl rollout history deployment/my-first-deployment  
+```
