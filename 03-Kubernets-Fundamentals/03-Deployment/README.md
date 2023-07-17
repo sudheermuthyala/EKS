@@ -97,7 +97,17 @@ kubectl get deploy
  - Expose Deployment with a service (NodePort Service) to access the application externally (from internet)
 
 ```t
+# Expose Deployment as a Service
+kubectl expose deployment <Deployment-Name>  --type=NodePort --port=80 --target-port=80 --name=<Service-Name-To-Be-Created>
+kubectl expose deployment my-first-deployment --type=NodePort --port=80 --target-port=80 --name=my-first-deployment-service
 
+# Get Service Info
+kubectl get svc
+Observation: Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
+
+# Get Public IP of Worker Nodes
+kubectl get nodes -o wide
+Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on AWS EKS.
 ```
 
 
