@@ -283,7 +283,7 @@ kubectl get po
 kubectl describe deploy my-first-deployment
 ```
 Access the Application using Public IP
-- We should see Application Version:V2 whenever we access the application in browser
+- We should see `Application Version:V2` whenever we access the application in browser
 ```t
 # Get NodePort
 kubectl get svc
