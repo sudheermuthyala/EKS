@@ -355,3 +355,6 @@ kubectl rollout history deployment/my-first-deployment
 ```
 # Access the Application using Public IP
 - We should see `Application Version:V3` whenever we access the application in browser
+```
+
+```
