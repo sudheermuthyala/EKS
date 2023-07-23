@@ -322,7 +322,7 @@ We should see `Application Version:V3` whenever we access the application in bro
 ```
 # Get NodePort
 kubectl get svc
-- **Observation:** Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
+*Observation:* Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
 
 # Get Public IP of Worker Nodes
 kubectl get nodes -o wide
