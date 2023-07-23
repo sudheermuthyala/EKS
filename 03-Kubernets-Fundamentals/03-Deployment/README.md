@@ -298,3 +298,8 @@ http://<worker-node-public-ip>:<Node-Port>
 ```
 # Rollback to `specific revision`
 Check the Rollout History of a Deployment
+```
+# List Deployment Rollout History
+kubectl rollout history deployment/<Deployment-Name>
+kubectl rollout history deployment/my-first-deployment 
+```
