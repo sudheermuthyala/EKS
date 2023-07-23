@@ -440,3 +440,13 @@ Observation: You should see Application V4 version
 ```
 
 ## Clean-Up
+```
+# Delete Deployment
+kubectl delete deployment my-first-deployment
+
+# Delete Service
+kubectl delete svc my-first-deployment-service
+
+# Get all Objects from Kubernetes default namespace
+kubectl get all
+```
