@@ -378,3 +378,4 @@ kubectl rollout restart deployment/my-first-deployment
 kubectl get po
 ```
 ## Pause & Resume Deployments
+# Introduction
