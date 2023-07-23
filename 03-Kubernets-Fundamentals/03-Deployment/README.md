@@ -118,7 +118,7 @@ http://<worker-node-public-ip>:<Node-Port>
 
 ```
 
-#####################################
+## ---------------------------------------------------- 
 
 ## 02-Update-Deployment
 Kubernetes - Update Deployments Introduction
