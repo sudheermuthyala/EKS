@@ -385,3 +385,16 @@ kubectl get po
 
 ## Pausing & Resuming Deployments
 # Check current State of Deployment & Application
+```
+# Check the Rollout History of a Deployment
+kubectl rollout history deployment/my-first-deployment  
+Observation: Make a note of last version number
+
+# Get list of ReplicaSets
+kubectl get rs
+Observation: Make a note of number of replicaSets present.
+
+# Access the Application 
+http://<worker-node-ip>:<Node-Port>
+Observation: Make a note of application version
+```
