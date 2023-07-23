@@ -201,7 +201,7 @@ Edit Deployment
 kubectl edit deployment/<Deployment-Name> --record=true
 kubectl edit deployment/my-first-deployment --record=true
 ```
-```t
+```yml
 # Change From 2.0.0
     spec:
       containers:
