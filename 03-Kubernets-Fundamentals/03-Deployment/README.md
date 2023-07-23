@@ -249,7 +249,7 @@ Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on
 http://<worker-node-public-ip>:<Node-Port>
 ```
 
-
+####################
 ### 03-Rollback-Deployment Introduction
 - We can rollback a deployment in two ways.
     - **Previous Version**
