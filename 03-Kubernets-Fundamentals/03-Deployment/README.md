@@ -354,3 +354,4 @@ kubectl rollout undo deployment/my-first-deployment --to-revision=3
 kubectl rollout history deployment/my-first-deployment  
 ```
 # Access the Application using Public IP
+- We should see Application Version:V3 whenever we access the application in browser
