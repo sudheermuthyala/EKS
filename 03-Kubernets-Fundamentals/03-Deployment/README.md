@@ -368,3 +368,12 @@ Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on
 http://<worker-node-public-ip>:<Node-Port>
 ```
 # Rolling Restarts of Application
+- Rolling restarts will kill the existing pods and recreate new pods in a rolling fashion.
+```
+# Rolling Restarts
+kubectl rollout restart deployment/<Deployment-Name>
+kubectl rollout restart deployment/my-first-deployment
+
+# Get list of Pods
+kubectl get po
+```
