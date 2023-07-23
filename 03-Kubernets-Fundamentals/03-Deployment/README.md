@@ -438,3 +438,5 @@ Observation: You should see new ReplicaSet.
 http://<node1-public-ip>:<Node-Port>
 Observation: You should see Application V4 version
 ```
+
+## Clean-Up
