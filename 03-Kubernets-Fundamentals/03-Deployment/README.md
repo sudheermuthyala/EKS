@@ -318,3 +318,16 @@ kubectl rollout history deployment/my-first-deployment
 ```
 # Access the Application using Public IP
 We should see `Application Version:V3` whenever we access the application in browser
+
+```
+# Get NodePort
+kubectl get svc
+Observation: Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
+
+# Get Public IP of Worker Nodes
+kubectl get nodes -o wide
+Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on AWS EKS.
+
+# Application URL
+http://<worker-node-public-ip>:<Node-Port>
+```
