@@ -297,34 +297,3 @@ Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on
 http://<worker-node-public-ip>:<Node-Port>
 ```
 Rollback to `specific revision`
-
-- Observation: If we rollback, it will go back to revision-2 and its number increases to revision-4
-```t
-# Undo Deployment
-kubectl rollout undo deployment/my-first-deployment
-
-# List Deployment Rollout History
-kubectl rollout history deployment/my-first-deployment 
-```
-Verify Deployment, Pods, ReplicaSets
-```t
-kubectl get deploy
-kubectl get rs
-kubectl get po
-kubectl describe deploy my-first-deployment
-```
-Access the Application using Public IP
-- We should see `Application Version:V2` whenever we access the application in browser
-
-```t
-# Get NodePort
-kubectl get svc
-Observation: Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
-
-# Get Public IP of Worker Nodes
-kubectl get nodes -o wide
-Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on AWS EKS.
-
-# Application URL
-http://<worker-node-public-ip>:<Node-Port>
-```
