@@ -347,3 +347,4 @@ kubectl rollout undo deployment/my-first-deployment --to-revision=3
 ```
 
 # List Deployment History
+- **Observation:** If we rollback to revision 3, it will go back to revision-3 and its number increases to revision-5 in rollout history
