@@ -382,6 +382,7 @@ kubectl rollout restart deployment/my-first-deployment
 # Get list of Pods
 kubectl get po
 ```
+
 ## Pause & Resume Deployments
 # Introduction
 - Why do we need Pausing & Resuming Deployments?
