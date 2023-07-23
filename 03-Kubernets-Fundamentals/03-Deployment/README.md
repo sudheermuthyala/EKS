@@ -432,3 +432,7 @@ Observation: You should see a new version got created
 kubectl get rs
 Observation: You should see new ReplicaSet.
 ```
+## Access Application
+```
+
+```
