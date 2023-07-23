@@ -418,4 +418,4 @@ Observation: No new replicaSet created. We should have same number of replicaSet
 # Make one more change: set limits to our container
 kubectl set resources deployment/my-first-deployment -c=kubenginx --limits=cpu=20m,memory=30Mi
 ```
-Resume Deployment
+# Resume Deployment
