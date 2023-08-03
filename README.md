@@ -45,6 +45,7 @@
 - What is helper Containers or (side- car) 
 - stateless applications.
 - How you can check which pod is alocated to which worker node 
+
 **Ans:**
   - kubectl describe pod <pod-name>
   - check in Events 
