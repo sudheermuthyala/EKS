@@ -60,3 +60,5 @@
 </p>
 
 ```
+
+Imperative way
