@@ -4,7 +4,7 @@ kubectl get nodes
 # Get Worker Node Status with wide option
 kubectl get nodes -o wide
 
-# Template
+# Create a Pod Imperative way
 kubectl run <desired-pod-name> --image <Container-Image> --generator=run-pod/v1
 
 # Replace Pod Name, Container Image
