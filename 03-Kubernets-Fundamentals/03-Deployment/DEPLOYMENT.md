@@ -3,3 +3,4 @@
 - kubectl get deploment
 - kubectl get deploy
 - kubectl get replicasets
+- kubectl ge
