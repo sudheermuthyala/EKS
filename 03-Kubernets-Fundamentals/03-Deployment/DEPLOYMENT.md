@@ -4,4 +4,5 @@
 - kubectl get deploy
 - kubectl get replicasets
 - kubectl get rs
-- 
+- kubectl get pods
+- kubectl get po
