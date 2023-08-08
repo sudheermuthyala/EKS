@@ -21,4 +21,4 @@
 - kubectl rollout undo deployment <deployment-name>
 - kubectl rollout undo deployment <deploymemt-name> --to-revision=<number>
 - kubectl rollout restart deployment <deploy-name>
-- kubectl rollout pause
+- kubectl rollout pause deployment <>
