@@ -1,4 +1,4 @@
 # Deployment 
 - kubectl create deployment my-first-deployment --image=stacksimplify/kubenginx:1.0.0
 - kubectl get deploment
-- 
+- kubectl get deploy
