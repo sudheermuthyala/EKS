@@ -24,4 +24,4 @@
 - kubectl rollout pause deployment <deployment-name>
 - kubectl set image deployment <deploy-name> <container-name>=<image-name> --record=true
 - kubectl set resources deployment <deploy-name> -c <container-name> --limits=cpu=20m,memory=30Mi
-- kubectl rollout resume deployment 
+- kubectl rollout resume deployment <de>
