@@ -17,4 +17,5 @@
 - kubectl describe replicaset <replicaset-namen>
 - kubectl edit deployment <deployment-name> --record=true
 - kubectl rollout status deployment <my-frist-deployment>
-- kubectl rollout history deployments <deployment->
+- kubectl rollout history deployments <deployment-Name>
+- 
