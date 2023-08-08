@@ -19,4 +19,4 @@
 - kubectl rollout status deployment <my-frist-deployment>
 - kubectl rollout history deployments <deployment-Name>
 - kubectl rollout undo deployment <deployment-name>
-- 
+- kubectl rollout undo deployment <>
