@@ -14,3 +14,4 @@
 - kubectl rollout history deployment
 - kubectl rollout history deployments <deployment-name> --revision=<Number>
 - kubectl rollout undo deployments <deployment-name> --to-revision=<Number>
+- kubec
