@@ -1,3 +1,6 @@
+
+create { 
+
 eksctl create cluster --name=myeks \
                       --region=us-east-1 \
                       --zones=us-east-1a,us-east-1b \
@@ -26,3 +29,13 @@ eksctl create nodegroup --cluster=myeks \
                        --full-ecr-access \
                        --appmesh-access \
                        --alb-ingress-access 
+
+}
+
+
+delete {
+eksctl delete clusture --name myeks
+
+}
+
+$1 
