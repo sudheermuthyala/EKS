@@ -6,4 +6,4 @@
 - kubectl get rs
 - kubectl get pods
 - kubectl get po
-- kubectl expose deployment my-first-deployment --type=NodePort --port=80 --target-port=80 --name=my-first-deployment-node
+- kubectl expose deployment my-first-deployment --type=NodePort --port=80 --target-port=80 --name=my-first-deployment-np-service
