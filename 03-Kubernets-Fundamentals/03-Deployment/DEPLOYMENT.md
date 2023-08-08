@@ -15,4 +15,4 @@
 - kubectl rollout history deployments <deployment-name> --revision=<Number>
 - kubectl rollout undo deployments <deployment-name> --to-revision=<Number>
 - kubectl describe replicaset <replicaset-namen>
-- kubectl describe
+- kubectl edit deployment <deployment>
