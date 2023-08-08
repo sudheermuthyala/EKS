@@ -66,5 +66,5 @@ Imperative way
 
 ## create commands 
 
-[Create ReplicaSet]{https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/02-ReplicaSet/README.md#create-replicaset}
+[Create ReplicaSet]()
 - kubectl create -f replicaset-demo.yaml
