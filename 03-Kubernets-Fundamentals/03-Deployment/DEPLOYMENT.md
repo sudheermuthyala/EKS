@@ -13,4 +13,4 @@
 - kubectl set image deployment <deployment-name> <container-name>=<container-image>=record=true
 - kubectl rollout history deployment
 - kubectl rollout history deployments <deployment-name> --revision=<Number>
-- kubectl rollout undo deployments <>
+- kubectl rollout undo deployments <deployment-name>
