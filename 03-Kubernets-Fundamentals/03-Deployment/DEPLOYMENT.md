@@ -1,2 +1,2 @@
 # Deployment 
-- kubectl create 
+- kubectl create deployment my-first-deployment --image
