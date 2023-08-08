@@ -1,4 +1,6 @@
 ## Kubernetes - Deployment
+
+
 - Deployment is going to be superset of replicaset.Which means replicaset can provide a few features.And when we call deployment as a superset,it can provide many, many features for us,in addition to what replicaset provides.So that's about the deployment advantage we have.and there is no difference in accessing the applications hosted via replicaset or deployment.
     what are the deployment features available for us,
 
