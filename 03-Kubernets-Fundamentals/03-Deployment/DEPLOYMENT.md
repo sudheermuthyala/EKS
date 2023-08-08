@@ -6,4 +6,4 @@
 - kubectl get rs
 - kubectl get pods
 - kubectl get po
-- kubectl expose
+- kubectl expose deployment my-
