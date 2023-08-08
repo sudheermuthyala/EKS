@@ -1,1 +1,2 @@
 # Deployment 
+- kubectl create 
