@@ -65,4 +65,4 @@ Imperative way
 
 
 ## create commands 
-- 
+- kubectl create -f replicaset-demo.yaml
