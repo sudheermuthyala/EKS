@@ -10,4 +10,4 @@
 - kubectl scale deployment --replicas=20 my-first-deployment 
 - kubectl get svc
 - kubectl get deployment <deployment-name> -o yaml
-- kubectl set image deployment 
+- kubectl set image deployment <deployment>
