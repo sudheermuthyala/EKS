@@ -23,4 +23,4 @@
 - kubectl rollout restart deployment <deploy-name>
 - kubectl rollout pause deployment <deployment-name>
 - kubectl set image deployment <deploy-name> <container-name>=<image-name> --record=true
-- kubectl 
+- kubectl set resources deployment <deploy>
