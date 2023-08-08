@@ -16,4 +16,4 @@
 - kubectl rollout undo deployments <deployment-name> --to-revision=<Number>
 - kubectl describe replicaset <replicaset-namen>
 - kubectl edit deployment <deployment-name> --record=true
-- kubectl rollout status deployment <my-frist>
+- kubectl rollout status deployment <my-frist-deployment>
