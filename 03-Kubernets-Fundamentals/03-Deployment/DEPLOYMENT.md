@@ -22,4 +22,4 @@
 - kubectl rollout undo deployment <deploymemt-name> --to-revision=<number>
 - kubectl rollout restart deployment <deploy-name>
 - kubectl rollout pause deployment <deployment-name>
-- kubectl set image deployment <deploy-name> <>
+- kubectl set image deployment <deploy-name> <container-name>
