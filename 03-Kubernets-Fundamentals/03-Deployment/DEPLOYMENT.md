@@ -12,3 +12,4 @@
 - kubectl get deployment <deployment-name> -o yaml
 - kubectl set image deployment <deployment-name> <container-name>=<container-image>=record=true
 - kubectl rollout history deployment
+- kubectl rollout 
