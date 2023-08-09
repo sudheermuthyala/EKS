@@ -1,5 +1,5 @@
 
-create { 
+#create { 
 
 eksctl create cluster --name=myeks \
                       --region=us-east-1 \
@@ -30,7 +30,7 @@ eksctl create nodegroup --cluster=myeks \
                        --appmesh-access \
                        --alb-ingress-access 
 
-}
+#}
 
 
 delete {
