@@ -258,7 +258,9 @@ http://<worker-node-public-ip>:<Node-Port>
     - **Specific Version**
 
 # Rollback a Deployment to `previous version`
-- Check the Rollout History of a Deployment
+
+Check the Rollout History of a Deployment
+
 ```t
 # List Deployment Rollout History
 kubectl rollout history deployment/<Deployment-Name>
