@@ -339,7 +339,7 @@ kubectl rollout history deployment/my-first-deployment
 
 - We should see `Application Version:V3` whenever we access the application in browser
 
-```
+```t
 # Get NodePort
 kubectl get svc
 *Observation:* Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
