@@ -353,8 +353,10 @@ http://<worker-node-public-ip>:<Node-Port>
 
 ```
 # Rolling Restarts of Application
+
 Check the Rollout History of a Deployment
-```
+
+```t
 # List Deployment Rollout History
 kubectl rollout history deployment/<Deployment-Name>
 kubectl rollout history deployment/my-first-deployment 
