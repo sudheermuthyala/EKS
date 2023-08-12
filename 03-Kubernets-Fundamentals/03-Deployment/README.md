@@ -380,7 +380,7 @@ kubectl get po
 # Check current State of Deployment & Application
 
 ```
-
+```t 
 # Check the Rollout History of a Deployment
 kubectl rollout history deployment/my-first-deployment  
 Observation: Make a note of last version number
