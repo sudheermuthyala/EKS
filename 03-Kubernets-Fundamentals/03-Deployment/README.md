@@ -392,6 +392,7 @@ Observation: Make a note of application version
 
 ```
 
+# =====================================
 
 ## 04-Pause Deployment and Two Changes
 # Step-00: Introduction
