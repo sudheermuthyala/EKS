@@ -257,7 +257,7 @@ http://<worker-node-public-ip>:<Node-Port>
     - **Previous Version**
     - **Specific Version**
 
-Rollback a Deployment to `previous version`
+# Rollback a Deployment to `previous version`
 - Check the Rollout History of a Deployment
 ```t
 # List Deployment Rollout History
