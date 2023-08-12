@@ -402,6 +402,9 @@ Observation: Make a note of application version
 
 ## Step-01: Pausing & Resuming Deployments
 
+Check current State of Deployment & Application
+
+
 ```t
 # Pause the Deployment
 kubectl rollout pause deployment/<Deployment-Name>
