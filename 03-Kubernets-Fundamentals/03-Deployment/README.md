@@ -403,6 +403,7 @@ Observation: Make a note of application version
 ## Step-01: Pausing & Resuming Deployments
 
 Check current State of Deployment & Application
+
 ```t
 # Check the Rollout History of a Deployment
 kubectl rollout history deployment/my-first-deployment  
