@@ -392,7 +392,8 @@ Observation: Make a note of application version
 
 ```
 # Pause Deployment and Two Changes
-```
+
+```t
 # Pause the Deployment
 kubectl rollout pause deployment/<Deployment-Name>
 kubectl rollout pause deployment/my-first-deployment
