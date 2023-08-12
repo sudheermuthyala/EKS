@@ -318,6 +318,7 @@ Check the Rollout History of a Deployment
 kubectl rollout history deployment/<Deployment-Name>
 kubectl rollout history deployment/my-first-deployment 
 ```
+
 Rollback to specific revision
 ```
 # Rollback Deployment to Specific Revision
