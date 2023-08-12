@@ -10,7 +10,8 @@
 - [ReplicaSets](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/02-ReplicaSet/README.md#kubernetes---replicasets)
 - [Deployments](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/README.md#deployments)
     - [01-CreateDeployment-Scaling-and-Expose-as-Service](https://github.com/sudheermuthyala/EKS/tree/main/03-Kubernets-Fundamentals/03-Deployment#01-createdeployment-scaling-and-expose-as-service)
-    - [02-Update-Deployment]()
+    - [02-Update-Deployment](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/02-Update-Deployment/README.md#02-update-deployment)
+    
 - [Node Port Service](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/04-Service/README.md#nodeport-service-introduction)
 - [Cluster IP Service]()
 - [External Name Service]()
