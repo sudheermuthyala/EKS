@@ -1,5 +1,5 @@
-
 ## 04-Pause Deployment and Two Changes
+
 # Step-00: Introduction
 
 - Why do we need Pausing & Resuming Deployments?
