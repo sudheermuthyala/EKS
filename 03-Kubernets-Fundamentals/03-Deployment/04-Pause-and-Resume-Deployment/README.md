@@ -1,6 +1,6 @@
 ## 04-Pause Deployment and Two Changes
 
-# Step-00: Introduction
+## Step-00: Introduction
 
 - Why do we need Pausing & Resuming Deployments?
     - If we want to make multiple changes to our Deployment, we can pause the deployment make all changes and resume it.
