@@ -439,7 +439,7 @@ Observation: You should see Application V4 version
 ```
 
 ## Clean-Up
-```
+```t
 # Delete Deployment
 kubectl delete deployment my-first-deployment
 
