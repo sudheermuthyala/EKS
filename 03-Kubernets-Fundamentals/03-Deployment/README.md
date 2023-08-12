@@ -465,7 +465,7 @@ http://<node1-public-ip>:<Node-Port>
 Observation: You should see Application V4 version
 ```
 
-## Clean-Up
+## Step-02: Clean-Up
 ```t
 # Delete Deployment
 kubectl delete deployment my-first-deployment
