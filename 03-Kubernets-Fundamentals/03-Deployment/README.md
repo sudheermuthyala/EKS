@@ -378,6 +378,7 @@ kubectl get po
 
 ## Pausing & Resuming Deployments
 # Check current State of Deployment & Application
+
 ```
 # Check the Rollout History of a Deployment
 kubectl rollout history deployment/my-first-deployment  
