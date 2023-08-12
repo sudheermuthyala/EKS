@@ -397,6 +397,8 @@ Observation: Make a note of application version
 # Introduction
 - Why do we need Pausing & Resuming Deployments?
     - If we want to make multiple changes to our Deployment, we can pause the deployment make all changes and resume it.
+- We are going to update our Application Version from **V3** to **V4** as part of learning "Pause and Resume Deployments"
+
 
 ```t
 # Pause the Deployment
