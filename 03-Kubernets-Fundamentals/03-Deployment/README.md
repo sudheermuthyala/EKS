@@ -391,10 +391,10 @@ http://<worker-node-ip>:<Node-Port>
 Observation: Make a note of application version
 
 ```
-### Pause & Resume Deployments
+
 
 ## 04-Pause Deployment and Two Changes
-
+# Introduction
 ```t
 # Pause the Deployment
 kubectl rollout pause deployment/<Deployment-Name>
