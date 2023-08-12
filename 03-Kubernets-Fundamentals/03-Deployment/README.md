@@ -395,6 +395,8 @@ Observation: Make a note of application version
 
 ## 04-Pause Deployment and Two Changes
 # Introduction
+- Why do we need Pausing & Resuming Deployments?
+
 ```t
 # Pause the Deployment
 kubectl rollout pause deployment/<Deployment-Name>
