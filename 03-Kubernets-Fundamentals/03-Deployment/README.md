@@ -416,7 +416,7 @@ kubectl set resources deployment/my-first-deployment -c=kubenginx --limits=cpu=2
 
 # Resume Deployment
 
-```
+```t
 # Resume the Deployment
 kubectl rollout resume deployment/my-first-deployment
 
