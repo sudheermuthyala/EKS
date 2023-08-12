@@ -330,10 +330,11 @@ List Deployment History
 
 **Observation:** If we rollback to revision 3, it will go back to revision-3 and its number increases to revision-5 in rollout history
 
-```
+```t
 # List Deployment Rollout History
 kubectl rollout history deployment/my-first-deployment  
 ```
+
 # Access the Application using Public IP
 - We should see `Application Version:V3` whenever we access the application in browser
 
