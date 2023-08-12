@@ -361,6 +361,9 @@ Check the Rollout History of a Deployment
 kubectl rollout history deployment/<Deployment-Name>
 kubectl rollout history deployment/my-first-deployment 
 
+# Get list of Pods
+kubectl get po
+
 ```
 
 # Rollback to specific revision
