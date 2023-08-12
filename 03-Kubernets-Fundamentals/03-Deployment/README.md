@@ -391,6 +391,7 @@ http://<worker-node-ip>:<Node-Port>
 Observation: Make a note of application version
 
 ```
+### Pause & Resume Deployments
 
 ## 04-Pause Deployment and Two Changes
 
