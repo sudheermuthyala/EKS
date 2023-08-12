@@ -68,4 +68,4 @@ Imperative way
 
 - [Create ReplicaSet](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/02-ReplicaSet/README.md#create-replicaset)  : kubectl create -f replicaset-demo.yaml
 
-- [create Deployment](https://github.com/sudheermuthyala/EKS/tree/main/03-Kubernets-Fundamentals/03-Deployment#01-createdeployment-scaling-and-expose-as-service) : kubectl create deployment my-first-deployment --image=
+- [create Deployment](https://github.com/sudheermuthyala/EKS/tree/main/03-Kubernets-Fundamentals/03-Deployment#01-createdeployment-scaling-and-expose-as-service) : kubectl create deployment my-first-deployment --image=stacksimplify/kubenginx:1.0.0
