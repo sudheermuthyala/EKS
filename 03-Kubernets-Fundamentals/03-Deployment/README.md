@@ -320,7 +320,8 @@ kubectl rollout history deployment/my-first-deployment
 ```
 
 Rollback to specific revision
-```
+
+```t
 # Rollback Deployment to Specific Revision
 kubectl rollout undo deployment/my-first-deployment --to-revision=3
 ```
