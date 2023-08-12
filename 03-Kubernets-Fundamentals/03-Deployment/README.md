@@ -418,6 +418,7 @@ http://<worker-node-ip>:<Node-Port>
 Observation: Make a note of application version
 ```
 
+
 ```t
 # Pause the Deployment
 kubectl rollout pause deployment/<Deployment-Name>
