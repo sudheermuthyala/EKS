@@ -1,4 +1,30 @@
+
 ## 04-Pause Deployment and Two Changes
+# Step-00: Introduction
+
+- Why do we need Pausing & Resuming Deployments?
+    - If we want to make multiple changes to our Deployment, we can pause the deployment make all changes and resume it.
+- We are going to update our Application Version from **V3** to **V4** as part of learning "Pause and Resume Deployments"
+
+## Step-01: Pausing & Resuming Deployments
+
+Check current State of Deployment & Application
+
+```t
+# Check the Rollout History of a Deployment
+kubectl rollout history deployment/my-first-deployment  
+Observation: Make a note of last version number
+
+# Get list of ReplicaSets
+kubectl get rs
+Observation: Make a note of number of replicaSets present.
+
+# Access the Application 
+http://<worker-node-ip>:<Node-Port>
+Observation: Make a note of application version
+```
+
+Pause Deployment and Two Changes
 
 ```t
 # Pause the Deployment
@@ -45,7 +71,7 @@ http://<node1-public-ip>:<Node-Port>
 Observation: You should see Application V4 version
 ```
 
-## Clean-Up
+## Step-02: Clean-Up
 ```t
 # Delete Deployment
 kubectl delete deployment my-first-deployment
