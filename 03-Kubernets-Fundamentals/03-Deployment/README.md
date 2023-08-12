@@ -367,44 +367,8 @@ kubectl get po
 ```
 # =========================================================
 
-# Rollback to specific revision
 
-```
-# Rollback Deployment to Specific Revision
-kubectl rollout undo deployment/my-first-deployment --to-revision=3
-```
-
-# List Deployment History
-- **Observation:** If we rollback to revision 3, it will go back to revision-3 and its number increases to revision-5 in rollout history
-
-```
-# List Deployment Rollout History
-kubectl rollout history deployment/my-first-deployment  
-```
-# Access the Application using Public IP
-- We should see `Application Version:V3` whenever we access the application in browser
-```
-# Get NodePort
-kubectl get svc
-Observation: Make a note of port which starts with 3 (Example: 80:3xxxx/TCP). Capture the port 3xxxx and use it in application URL below. 
-
-# Get Public IP of Worker Nodes
-kubectl get nodes -o wide
-Observation: Make a note of "EXTERNAL-IP" if your Kubernetes cluster is setup on AWS EKS.
-
-# Application URL
-http://<worker-node-public-ip>:<Node-Port>
-```
-# Rolling Restarts of Application
-- Rolling restarts will kill the existing pods and recreate new pods in a rolling fashion.
-```
-# Rolling Restarts
-kubectl rollout restart deployment/<Deployment-Name>
-kubectl rollout restart deployment/my-first-deployment
-
-# Get list of Pods
-kubectl get po
-```
+```t
 
 ## Pause & Resume Deployments
 # Introduction
