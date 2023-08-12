@@ -368,8 +368,6 @@ kubectl get po
 # =========================================================
 
 
-```t
-
 ## Pause & Resume Deployments
 # Introduction
 - Why do we need Pausing & Resuming Deployments?
