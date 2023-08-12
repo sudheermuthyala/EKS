@@ -1,4 +1,4 @@
-## 04-Pause Deployment and Two Changes
+# 04-Pause Deployment and Two Changes
 
 ## Step-00: Introduction
 
