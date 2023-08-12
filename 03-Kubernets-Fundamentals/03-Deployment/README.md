@@ -429,8 +429,10 @@ kubectl get rs
 Observation: You should see new ReplicaSet.
 
 ```
+
 ## Access Application
-```
+
+```t
 # Access the Application 
 http://<node1-public-ip>:<Node-Port>
 Observation: You should see Application V4 version
