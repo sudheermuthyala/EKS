@@ -365,7 +365,7 @@ kubectl rollout history deployment/my-first-deployment
 kubectl get po
 
 ```
-
+# =========================================================
 # Rollback to specific revision
 
 ```
