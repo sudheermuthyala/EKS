@@ -392,7 +392,7 @@ Observation: Make a note of application version
 
 ```
 
-# Pause Deployment and Two Changes
+# 04-Pause Deployment and Two Changes
 
 ```t
 # Pause the Deployment
