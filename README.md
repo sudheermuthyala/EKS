@@ -12,8 +12,9 @@
     - [01-CreateDeployment-Scaling-and-Expose-as-Service](https://github.com/sudheermuthyala/EKS/tree/main/03-Kubernets-Fundamentals/03-Deployment#01-createdeployment-scaling-and-expose-as-service)
     - [02-Update-Deployment](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/02-Update-Deployment/README.md#02-update-deployment)
     - [03-Rollback-Deployment Introduction](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/03-Rollback-Deployment/README.md#03-rollback-deployment-introduction)
+    - [](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/03-Deployment/04-Pause-and-Resume-Deployment/README.md#04-pause-deployment-and-two-changes)
 
-    
+
 - [Node Port Service](https://github.com/sudheermuthyala/EKS/blob/main/03-Kubernets-Fundamentals/04-Service/README.md#nodeport-service-introduction)
 - [Cluster IP Service]()
 - [External Name Service]()
