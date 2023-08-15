@@ -66,4 +66,9 @@ person: # Dictionary
       age: 25            
 
 ```
+# Sample Pod Tempalte for Reference
 
+
+```yml
+
+```
