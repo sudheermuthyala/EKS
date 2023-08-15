@@ -88,4 +88,4 @@ spec:
 ```
 
 ## Document seperator
-- `---` This symbol denotes doc seperator 
+- `---` This symbol denotes doc seperator # YAML Document Separator
