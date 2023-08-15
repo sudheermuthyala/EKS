@@ -8,3 +8,12 @@
 - We can define YAML files with two different extensions
     - abc.yml
     - abc.yaml
+
+
+YAML Comments
+YAML Key Value Pairs
+YAML Dictionary or Map
+YAML Array / Lists
+YAML Spaces
+YAML Document Separator
+
