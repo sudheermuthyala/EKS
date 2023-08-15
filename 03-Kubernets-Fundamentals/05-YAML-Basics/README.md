@@ -87,5 +87,5 @@ spec:
           protocol: "TCP"
 ```
 
-## Document seperator # YAML Document Separator
+## YAML Document Separator
 - `---` This symbol denotes doc seperator # YAML Document Separator
