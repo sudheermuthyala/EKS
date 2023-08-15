@@ -33,10 +33,4 @@ person:
   city: Hyderabad
 ```
 
-
-
-- YAML Dictionary or Map
-- YAML Array / Lists
-- YAML Spaces
-- YAML Document Separator
-
+#  Array / Lists
