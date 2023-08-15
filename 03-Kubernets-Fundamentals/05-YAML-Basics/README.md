@@ -44,4 +44,4 @@ person: # Dictionary
     - cycling
     - cookines
   hobbies: [cycling, cooking]   # List with a differnt notation  
-  
+```
