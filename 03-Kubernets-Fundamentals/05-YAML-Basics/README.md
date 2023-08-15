@@ -88,4 +88,4 @@ spec:
 ```
 
 ## Docment seperator
-- `---` This 
+- `---` This symbol denotes 
