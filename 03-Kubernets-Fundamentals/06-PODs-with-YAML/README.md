@@ -10,4 +10,4 @@ metadata:
   
 spec:
 ```
-- **Pod API Objects Reference:** [](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#pod-v1-core)
+- **Pod API Objects Reference:** [Pod v1 core](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#pod-v1-core)
