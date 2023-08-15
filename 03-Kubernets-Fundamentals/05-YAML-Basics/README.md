@@ -22,8 +22,6 @@ age: 23
 city: Hyderabad
 
 ```
-
-- YAML Key Value Pairs
 - YAML Dictionary or Map
 - YAML Array / Lists
 - YAML Spaces
