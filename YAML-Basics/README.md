@@ -7,4 +7,4 @@
 - YAML is designed to be clean and easy to read
 - We can define YAML files with two different extensions
     - abc.yml
-abc.yaml
+    - abc.yaml
