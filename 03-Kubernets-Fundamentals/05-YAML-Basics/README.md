@@ -27,7 +27,7 @@ city: Hyderabad
 - Equal amount of blank space required for all the items under a dictionary
 
 ```yml
-person:
+person: # 
   name: kalyan
   age: 23
   city: Hyderabad
@@ -35,3 +35,12 @@ person:
 
 #  Array / Lists
 
+```yml```
+person: # Dictionary
+  name: kalyan
+  age: 23
+  city: Hyderabad
+  hobbies: # List  
+    - cycling
+    - cookines
+  hobbies: [cycling, cooking]   # List with a differnt notation  
