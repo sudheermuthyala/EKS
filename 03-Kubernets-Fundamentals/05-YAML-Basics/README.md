@@ -87,5 +87,5 @@ spec:
           protocol: "TCP"
 ```
 
-## Docment seperator
+## Document seperator
 - `---` This symbol denotes doc seperator 
