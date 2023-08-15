@@ -34,7 +34,7 @@ eksctl create nodegroup --cluster=myeks \
 
 
 # delete {
-eksctl delete clusture --name myeks
+#eksctl delete clusture --name myeks
 
 #}
 
