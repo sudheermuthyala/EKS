@@ -35,7 +35,7 @@ person: #
 
 #  Array / Lists
 
-```yml```
+```yml
 person: # Dictionary
   name: kalyan
   age: 23
@@ -44,3 +44,4 @@ person: # Dictionary
     - cycling
     - cookines
   hobbies: [cycling, cooking]   # List with a differnt notation  
+  
