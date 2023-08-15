@@ -6,5 +6,5 @@
 - YAML primarily focuses on readability and user friendliness
 - YAML is designed to be clean and easy to read
 - We can define YAML files with two different extensions
-abc.yml
+    - abc.yml
 abc.yaml
