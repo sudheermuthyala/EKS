@@ -13,7 +13,8 @@
 # YAML Comments
 Comments & Key Value Pairs
 - Space after colon is mandatory to differentiate key and value
-```y
+
+```yml
 # Defining simple key value pairs
 name: kalyan
 age: 23
