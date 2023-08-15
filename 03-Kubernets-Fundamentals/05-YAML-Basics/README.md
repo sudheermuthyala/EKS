@@ -22,6 +22,8 @@ age: 23
 city: Hyderabad
 
 ```
+# Dictionary / Map
+
 - YAML Dictionary or Map
 - YAML Array / Lists
 - YAML Spaces
