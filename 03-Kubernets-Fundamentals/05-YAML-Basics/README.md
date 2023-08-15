@@ -34,6 +34,7 @@ person: # Dictionary / Map
 ```
 
 #  Array / Lists
+- Dash indicates an element of an array
 
 ```yml
 person: # Dictionary
@@ -47,4 +48,21 @@ person: # Dictionary
 ```
 
 # Multiple Lists
-```yml```
+
+- Dash indicates an element of an array
+```yml
+person: # Dictionary
+  name: kalyan
+  age: 23
+  city: Hyderabad
+  hobbies: # List  
+    - cycling
+    - cooking
+  hobbies: [cycling, cooking]   # List with a differnt notation  
+  friends: # 
+    - name: friend1
+      age: 22
+    - name: friend2
+      age: 25            
+
+```
