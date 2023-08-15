@@ -40,8 +40,9 @@ person: # Dictionary
   name: kalyan
   age: 23
   city: Hyderabad
-  hobbies: # List  
+  hobbies: # Array / Lists
     - cycling
     - cookines
   hobbies: [cycling, cooking]   # List with a differnt notation  
 ```
+
