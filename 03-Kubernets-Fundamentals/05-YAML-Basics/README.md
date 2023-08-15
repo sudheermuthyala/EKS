@@ -27,7 +27,7 @@ city: Hyderabad
 - Equal amount of blank space required for all the items under a dictionary
 
 ```yml
-person: # 
+person: # Dictionary / Map
   name: kalyan
   age: 23
   city: Hyderabad
