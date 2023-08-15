@@ -12,6 +12,7 @@
 
 # YAML Comments
 Comments & Key Value Pairs
+- Space after colon is mandatory to differentiate key and value
 
 
 - YAML Key Value Pairs
