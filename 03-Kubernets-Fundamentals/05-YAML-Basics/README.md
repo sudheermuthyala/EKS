@@ -26,6 +26,7 @@ city: Hyderabad
 - Set of properties grouped together after an item
 - Equal amount of blank space required for all the items under a dictionary
 
+``````
 
 
 
