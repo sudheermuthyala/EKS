@@ -18,7 +18,7 @@ spec:
 
 ```yml
 apiVersion: v1
-kind:
+kind: Pod
 metadata:
   
 spec:
