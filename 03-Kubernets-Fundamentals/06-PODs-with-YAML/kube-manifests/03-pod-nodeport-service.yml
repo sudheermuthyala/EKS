@@ -9,4 +9,4 @@ spec:
   ports:
    - name: Http
      port: <Port>
-    targetPort: <Target Port>
+     targetPort: <Target Port>
