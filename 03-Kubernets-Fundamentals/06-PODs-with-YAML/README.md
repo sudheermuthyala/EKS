@@ -56,7 +56,7 @@ spec:
   selector:   # Loadbalance traffic across Pods matching this label selector
     app: myapp
   ports:
-    - name: Http
+    - name: http
       port: 80 # Service Port
       targetPort: 80 # Container Port
       nodePort: 30000 # NodePort
