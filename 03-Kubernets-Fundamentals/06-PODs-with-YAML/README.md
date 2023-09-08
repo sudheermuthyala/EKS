@@ -16,6 +16,7 @@ spec:
 - We are going to create a very basic pod definition
 - 02-pod-definition.yml
 
-```yaml
+```yml
+
 
 ```
