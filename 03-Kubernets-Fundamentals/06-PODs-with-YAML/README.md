@@ -21,7 +21,8 @@ apiVersion: v1 #String
 kind: Pod  # String
 metadata: # Dictionary
   name: myapp-pod
-  lab
+  labels: # Dictionary
+  
   
 spec:
 
