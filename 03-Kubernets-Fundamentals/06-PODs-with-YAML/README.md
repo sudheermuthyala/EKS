@@ -65,4 +65,17 @@ spec:
 
 - Create NodePort Service for Pod
 
-``````
+```t
+# Create Service
+kubectl apply -f 03-pod-nodeport-service.yml
+
+# List Service
+kubectl get svc
+
+# Get Public IP
+kubectl get nodes -o wide
+
+# Access Application
+http://<WorkerNode-Public-IP>:<NodePort>
+http://<WorkerNode-Public-IP>:31231
+```
