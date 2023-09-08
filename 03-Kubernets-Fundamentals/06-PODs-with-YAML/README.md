@@ -45,3 +45,22 @@ kubectl apply -f 02-pod-definition.yml
 kubectl get pods
 ```
 ## 03: Create a NodePort Service
+
+```yml
+apiVersion: v1
+kind: Service
+metadata:
+  name:  myapp-pod-nodeport-service  # Name of the Service
+spec:
+  type: NodePort
+  selector:   # Loadbalance traffic across Pods matching this label selector
+    app: myapp
+  ports:
+    - name: Http
+      port: 80 # Service Port
+      targetPort: 80 # Container Port
+      nodePort: 30000 # NodePort
+
+```
+
+- Create NodePort Service for Pod
