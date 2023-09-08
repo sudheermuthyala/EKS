@@ -7,5 +7,6 @@ spec:
   selector:   # Loadbalance traffic across Pods matching this label selector
     app: myapp
   ports:
+  
   - port: <Port>
     targetPort: <Target Port>
