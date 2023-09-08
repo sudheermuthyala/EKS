@@ -12,7 +12,7 @@ spec:
 ```
 - **Pod API Objects Reference:** [Pod v1 core](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#pod-v1-core)
 
-## Create Simple Pod Definition using YAML
+## 02: Create Simple Pod Definition using YAML
 - We are going to create a very basic pod definition
 - 02-pod-definition.yml
 
@@ -44,3 +44,4 @@ kubectl apply -f 02-pod-definition.yml
 # List Pods
 kubectl get pods
 ```
+## 03: Create a NodePort Service
