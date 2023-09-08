@@ -22,7 +22,7 @@ kind: Pod  # String
 metadata: # Dictionary
   name: myapp-pod
   labels: # Dictionary
-    app: 
+    app: myapp
   
 spec:
 
