@@ -4,7 +4,7 @@ metadata:
   name:  myapp-pod-nodeport-service  # Name of the Service
 spec:
   type: NodePort
-  selector:
+  selector:   # Loadbalance traffic across Pods matching this label selector
     app: myapp
   ports:
   - port: <Port>
