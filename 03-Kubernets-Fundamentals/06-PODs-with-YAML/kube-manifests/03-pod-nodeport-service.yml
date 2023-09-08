@@ -9,5 +9,5 @@ spec:
   ports:
     - name: Http
       port: 80 # Service Port
-      targetPort: 80 
-      nodePort:
+      targetPort: 80 # Container Port
+      nodePort: 
