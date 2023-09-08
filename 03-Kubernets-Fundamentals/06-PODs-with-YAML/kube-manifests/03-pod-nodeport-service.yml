@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name:  myapp-pod-nodeport-service  # Name of the Service
 spec:
-
+  type: NodePort
   selector:
     app: myapp
   ports:
