@@ -34,4 +34,13 @@ spec:
 
 ```
 - Create Pod
-``````
+
+```t
+# Create Pod
+kubectl create -f 02-pod-definition.yml
+[or]
+kubectl apply -f 02-pod-definition.yml
+
+# List Pods
+kubectl get pods
+```
