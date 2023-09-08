@@ -77,5 +77,5 @@ kubectl get nodes -o wide
 
 # Access Application
 http://<WorkerNode-Public-IP>:<NodePort>
-http://<WorkerNode-Public-IP>:31231
+http://<WorkerNode-Public-IP>:30000
 ```
