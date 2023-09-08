@@ -25,5 +25,6 @@ metadata: # Dictionary
     app: myapp
   
 spec:
+  containers
 
 ```
