@@ -10,4 +10,4 @@ spec:
     - name: Http
       port: 80 # Service Port
       targetPort: 80 # Container Port
-      nodePort: 
+      nodePort: # NodePort
