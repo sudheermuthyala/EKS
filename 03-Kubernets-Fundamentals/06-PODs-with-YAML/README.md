@@ -26,6 +26,7 @@ metadata: # Dictionary
   
 spec:
   containers: # List
-    - n
+    - name: myapp
+      image: 
 
 ```
