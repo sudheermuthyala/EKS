@@ -19,7 +19,8 @@ spec:
 ```yml
 apiVersion: v1 #String
 kind: Pod  # String
-metadata:
+metadata: # Dictionary
+    name
   
 spec:
 
