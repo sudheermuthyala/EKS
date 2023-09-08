@@ -27,6 +27,6 @@ metadata: # Dictionary
 spec:
   containers: # List
     - name: myapp
-      image: 
+      image: stacksimplify/kubenginx:1.0.0
 
 ```
