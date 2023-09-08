@@ -9,4 +9,5 @@ spec:
   ports:
     - name: Http
       port: 80
-      targetPort: <Target Port>
+      targetPort: 80
+      
