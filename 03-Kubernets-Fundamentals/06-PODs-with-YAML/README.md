@@ -13,3 +13,4 @@ spec:
 - **Pod API Objects Reference:** [Pod v1 core](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#pod-v1-core)
 
 ## Create Simple Pod Definition using YAML
+- We are going to create a very basic pod definition
