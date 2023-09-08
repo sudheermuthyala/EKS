@@ -17,8 +17,8 @@ spec:
 - 02-pod-definition.yml
 
 ```yml
-apiVersion: v1
-kind: Pod
+apiVersion: v1 #String
+kind: Pod  # String
 metadata:
   
 spec:
