@@ -17,6 +17,7 @@ spec:
 - 02-pod-definition.yml
 
 ```yml
+
 apiVersion: v1 #String
 kind: Pod  # String
 metadata: # Dictionary
@@ -29,6 +30,7 @@ spec:
     - name: myapp
       image: stacksimplify/kubenginx:1.0.0
       ports: 
-        - containerPort
+        - containerPort: 80
 
 ```
+- Create Pod
