@@ -8,5 +8,5 @@ spec:
     app: myapp
   ports:
     - name: Http
-      port: <Port>
+      port: 80
       targetPort: <Target Port>
