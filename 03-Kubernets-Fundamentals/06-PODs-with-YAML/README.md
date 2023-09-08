@@ -15,3 +15,7 @@ spec:
 ## Create Simple Pod Definition using YAML
 - We are going to create a very basic pod definition
 - 02-pod-definition.yml
+
+```yaml
+
+```
