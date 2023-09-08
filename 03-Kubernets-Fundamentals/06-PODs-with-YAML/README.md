@@ -28,5 +28,7 @@ spec:
   containers: # List
     - name: myapp
       image: stacksimplify/kubenginx:1.0.0
+      ports: 
+      
 
 ```
