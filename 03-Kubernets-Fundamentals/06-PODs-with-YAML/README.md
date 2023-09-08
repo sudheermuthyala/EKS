@@ -20,7 +20,7 @@ spec:
 apiVersion: v1 #String
 kind: Pod  # String
 metadata: # Dictionary
-  name: 
+  name: myapp-pod
   
 spec:
 
