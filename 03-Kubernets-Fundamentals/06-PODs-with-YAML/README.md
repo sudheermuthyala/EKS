@@ -82,4 +82,4 @@ http://<WorkerNode-Public-IP>:30000
 ```
 
 ## API Object References
-- **Pod:**
+- **Pod :** (Pod)
