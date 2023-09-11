@@ -80,3 +80,5 @@ kubectl get nodes -o wide
 http://<WorkerNode-Public-IP>:<NodePort>
 http://<WorkerNode-Public-IP>:30000
 ```
+
+## API Object References
