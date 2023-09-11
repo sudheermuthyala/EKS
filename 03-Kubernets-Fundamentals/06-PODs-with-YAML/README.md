@@ -84,7 +84,7 @@ http://<WorkerNode-Public-IP>:30000
 ## API Object References
 - **Pod :** [API References](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#pod-v1-core)
 - **Service :** [API References](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#service-v1-core)
-## Note: API Version: v1.26.0
+Note: API Version: v1.26.0
 
 ## Updated API Object References
 - **Pod:** https://kubernetes.io/docs/reference/kubernetes-api/workload-resources/pod-v1/
