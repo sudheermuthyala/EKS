@@ -81,4 +81,4 @@ http://<Worker-Node-Public-IP>:31232
 ```
 
 ## API References
-- **ReplicaSet :** 
+- **ReplicaSet :**  https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.26/#replicaset-v1-apps
