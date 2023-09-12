@@ -26,3 +26,11 @@ spec:
 ```
 ## 02: Create ReplicaSet
 - Create ReplicaSet with 3 Replicas
+
+```t
+# Create ReplicaSet
+kubectl apply -f 02-replicaset-definition.yml
+
+# List Replicasets
+kubectl get rs
+```
