@@ -34,3 +34,4 @@ kubectl apply -f 02-replicaset-definition.yml
 # List Replicasets
 kubectl get rs
 ```
+- Delete a pod
