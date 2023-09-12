@@ -63,3 +63,19 @@ spec:
       nodePort: 31232  
 ```
 - Create NodePort Service for ReplicaSet & Test
+
+```t
+# Create NodePort Service
+kubectl apply -f 03-replicaset-nodeport-servie.yml
+
+# List NodePort Service
+kubectl get svc
+
+# Get Public IP
+kubectl get nodes -o wide
+
+# Access Application
+http://<Worker-Node-Public-IP>:<NodePort>
+http://<Worker-Node-Public-IP>:31232
+
+```
