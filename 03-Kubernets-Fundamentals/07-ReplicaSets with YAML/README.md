@@ -62,3 +62,4 @@ spec:
       targetPort: 80
       nodePort: 31232  
 ```
+- Create NodePort Service for ReplicaSet & Test
