@@ -35,3 +35,12 @@ kubectl apply -f 02-replicaset-definition.yml
 kubectl get rs
 ```
 - Delete a pod
+- ReplicaSet immediately creates the pod.
+
+```t
+# List Pods
+kubectl get pods
+
+# Delete Pod
+kubectl delete pod <Pod-Name>
+```
