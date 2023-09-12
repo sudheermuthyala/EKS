@@ -48,5 +48,17 @@ kubectl delete pod <Pod-Name>
 ## 03: Create NodePort Service for ReplicaSet
 
 ```yml
-
+apiVersion: v1
+kind: Service
+metadata:
+  name: replicaset-nodeport-service
+spec:
+  type: NodePort
+  selector:
+    app: myapp2
+  ports:
+    - name: http
+      port: 80
+      targetPort: 80
+      nodePort: 31232  
 ```
