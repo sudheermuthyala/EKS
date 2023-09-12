@@ -44,3 +44,9 @@ kubectl get pods
 # Delete Pod
 kubectl delete pod <Pod-Name>
 ```
+
+## 03: Create NodePort Service for ReplicaSet
+
+```yml
+
+```
