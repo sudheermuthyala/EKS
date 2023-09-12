@@ -24,3 +24,5 @@ spec:
         ports:
           - containerPort: 80
 ```
+## 02: Create ReplicaSet
+- Create ReplicaSet with 3 Replicas
