@@ -1,7 +1,7 @@
 
 #create { 
 
-eksctl create cluster --name=myeks \
+eksctl create cluster --name=mseks \
                       --region=us-east-1 \
                       --zones=us-east-1a,us-east-1b \
                       --without-nodegroup 
@@ -9,11 +9,11 @@ eksctl create cluster --name=myeks \
 
 eksctl utils associate-iam-oidc-provider \
     --region us-east-1 \
-    --cluster myeks \
+    --cluster mseks \
     --approve 
 
 
-eksctl create nodegroup --cluster=myeks \
+eksctl create nodegroup --cluster=mseks \
                        --region=us-east-1 \
                        --name=mseks-ng-public1 \
                        --node-type=t3.medium \
