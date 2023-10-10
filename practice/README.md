@@ -1,3 +1,3 @@
 ## work out hear in this folder 
 - pod-defination.yml
-- nodeport
+- nodeport-defination.yml
