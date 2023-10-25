@@ -2,7 +2,7 @@ apiVersion:
 kind:
 metadata:
   
-spec: ## Hear spec is a Dictionary Object 
+spec: ## Hear spec is a Dictionary Object Under the spec we have a 3-types of properties under it 
   replicas: 
   selector: 
   template:
