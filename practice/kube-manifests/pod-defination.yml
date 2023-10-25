@@ -12,6 +12,7 @@ spec:
     image: stacksimplify/kubenginx:1.0.0
     resources:
       limits:
+        
   ports: 
     - containerPort: 80
 
