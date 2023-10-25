@@ -9,7 +9,7 @@ spec:
       app: myapp2
   template:
     metadata: # Dictionary
-        name: myapp2-pod-in
+        name: myapp2-pod-in-replicaset
         labels: # Dictionary 
           app: myapp2         
     spec:
