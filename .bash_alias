@@ -1,4 +1,7 @@
 alias g="git add . ;git commit -m 'auto commiting' ; git push"
 alias k="kubectl"
 alias d='eksctl delete cluster mseks'
+alias 3='cd ../../../'
+alias 2='cd ../../'
+alias 1='cd ../'
 
