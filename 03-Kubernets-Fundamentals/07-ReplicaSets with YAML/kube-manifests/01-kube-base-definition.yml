@@ -3,4 +3,6 @@ kind:
 metadata:
   
 spec:
-  replicas
+  replicas: 
+  selector: 
+  template:
