@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: myapp2
+  name: nodeport-service-
 spec:
   selector:
-    app: myapp
+    app: myapp2
   ports:
   - port: <Port>
     targetPort: <Target Port>
