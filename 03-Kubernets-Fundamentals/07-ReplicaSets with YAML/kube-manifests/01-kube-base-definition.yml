@@ -2,7 +2,7 @@ apiVersion:
 kind:
 metadata:
   
-spec:
+spec: ## Hear spec is a Dictionary Object 
   replicas: 
   selector: 
   template:
