@@ -1,3 +1,6 @@
 apiVersion: apps/v1
 kind: replicaset
 metadata:
+  app: myapp-replicaset
+spec:
+  replicas: 3
