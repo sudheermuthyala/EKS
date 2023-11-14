@@ -23,4 +23,5 @@ apiVersion: apps/v1
 kind: Deployment 
 metadata:
   name: myapp3-deployment
-spec:
+spec: 
+  replicas: 0
