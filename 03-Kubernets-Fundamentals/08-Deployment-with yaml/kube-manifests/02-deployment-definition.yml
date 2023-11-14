@@ -36,7 +36,7 @@ spec:
     spec: 
       containers:
       - name: myapp3-containers 
-        image: nginx:1.14.2
+        image: #stacksimplify/kubenginx:3.0.0
         ports: 
         - containerPort: 80
 
