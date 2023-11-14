@@ -28,3 +28,4 @@ spec:
   selector: 
     matchLabels:
       app: myapp3
+  template:
