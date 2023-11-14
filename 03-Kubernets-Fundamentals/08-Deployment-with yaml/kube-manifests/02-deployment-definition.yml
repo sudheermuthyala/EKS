@@ -33,4 +33,4 @@ spec:
       name: myapp3-pod
       labels: 
       app: myapp3
-    s
+    spec: 
