@@ -31,4 +31,4 @@ spec:
   template:
     metadata:
       name: myapp3-pod
-      lable
+      labels:
