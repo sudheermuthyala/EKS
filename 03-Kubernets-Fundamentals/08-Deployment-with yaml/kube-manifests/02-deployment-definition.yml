@@ -30,7 +30,6 @@ spec:
       app: myapp3
   template:
     metadata:
-      
       labels: 
         app: myapp3
     spec: 
