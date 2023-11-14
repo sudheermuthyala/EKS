@@ -22,4 +22,5 @@
 apiVersion: apps/v1
 kind: Deployment 
 metadata:
-  name: 
+  name: myapp3-deployment
+spec:
