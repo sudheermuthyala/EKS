@@ -39,5 +39,4 @@ spec:
           image: stacksimplify/kubenginx:3.0.0
           ports: 
           - containerPort: 
-            
 
