@@ -32,4 +32,5 @@ spec:
     metadata:
       name: myapp3-pod
       labels: 
-      app: myapp
+      app: myapp3
+    s
