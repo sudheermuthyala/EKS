@@ -14,7 +14,7 @@ spec:
         app: myapp3         
     spec:
       containers: # List
-        - name: myapp3-container
-          image: stacksimplify/kubenginx:3.0.0
-          ports:
-            - containerPort: 80
+      - name: myapp3-container
+        image: stacksimplify/kubenginx:3.0.0
+        ports:
+          - containerPort: 80
