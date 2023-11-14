@@ -29,3 +29,5 @@ spec:
     matchLabels:
       app: myapp3
   template:
+    metadata:
+      na
