@@ -30,4 +30,5 @@ spec:
       app: myapp3
   template:
     metadata:
-      name: myapp
+      name: myapp3-pod
+      lable
