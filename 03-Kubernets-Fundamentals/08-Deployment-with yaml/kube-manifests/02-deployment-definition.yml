@@ -35,5 +35,6 @@ spec:
         app: myapp3
     spec: 
       containers:
-        - name: myapp3-containers
+        - name: myapp3-containers 
+          image: 
 
