@@ -26,4 +26,5 @@ metadata:
 spec: 
   replicas: 3
   selector: 
-    matc
+    matchLabels:
+      app: 
