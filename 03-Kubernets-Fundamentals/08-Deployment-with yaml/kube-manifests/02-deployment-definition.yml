@@ -1,20 +1,23 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: ReplicaSet
 metadata:
-  name: myapp3-deployment
+  name: myapp2-rs  
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: myapp3
+      app: myapp2
   template: 
     metadata: # Dictionary
-      name: myapp3-pod
+      name: myapp2-pod
       labels: # Dictionary 
-        app: myapp3         
+        app: myapp2         
     spec:
       containers: # List
-        - name: myapp3-container
-          image: stacksimplify/kubenginx:3.0.0
+        - name: myapp2-container
+          image: stacksimplify/kubenginx:2.0.0
           ports:
             - containerPort: 80
+
+
+    
