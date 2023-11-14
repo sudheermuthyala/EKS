@@ -37,4 +37,5 @@ spec:
       containers:
         - name: myapp3-containers 
           image: stacksimplify/kubenginx:3.0.0
+          po
 
