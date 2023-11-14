@@ -35,4 +35,4 @@ spec:
       app: myapp3
     spec: 
       containers:
-        - name: 
+        - name: my
