@@ -30,4 +30,4 @@ spec:
       app: myapp3
   template:
     metadata:
-      na
+      name: myapp
