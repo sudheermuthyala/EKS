@@ -6,4 +6,4 @@ Step-01: Introduction to Services
     - ClusterIP Service
 
 Step-02: Create Backend Deployment & ClusterIP Service
-- Write the Deployment template for the Backent REST Application 
+- Write the Deployment template for the backent REST Application 
