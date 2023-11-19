@@ -1,1 +1,1 @@
-## Create Deployment and Cluster IP
+## Create Deployment and ClusterIP
