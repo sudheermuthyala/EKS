@@ -3,3 +3,4 @@ kind: Deployment
 metadata:
   name: backend restapp
   labels: 
+    app: b
