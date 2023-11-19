@@ -1,6 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: backend restapp
+  name: backend-restapp
   labels: 
-    app: b
+    app: backend-restapp
+    tier: backend
