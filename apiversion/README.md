@@ -1,2 +1,2 @@
 ## versining
-- Deploymen
+- Deployment
