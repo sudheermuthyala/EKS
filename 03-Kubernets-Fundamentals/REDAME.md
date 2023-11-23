@@ -1,2 +1,5 @@
 ## 03-Kubernets-Fundamentals
-check ing
+
+# Hi The room
+
+https://github.com/sudheermuthyala/EKS.git
