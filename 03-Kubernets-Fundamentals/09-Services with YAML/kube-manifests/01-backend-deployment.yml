@@ -1,9 +1,0 @@
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: backend-restapp
-  labels: 
-    app: backend-restapp
-    tier: backend
-spec:
-  replicas: 
