@@ -7,4 +7,4 @@ metadata:
     tier: backend
 spec:
   type: ClusterIP is a default service 
-  service
+  service:
