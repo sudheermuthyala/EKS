@@ -23,7 +23,8 @@ spec:
           ports:
             - containerPort: 8080
 
-
+## for Deployment
+apiVersion:
 spec:
   replicas:
   selector:
