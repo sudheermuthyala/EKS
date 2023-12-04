@@ -3,3 +3,5 @@ kind: Deployent
 metadata:
   name: backend-restapp
   labels:
+    app: backend-restapp
+    tier: 
