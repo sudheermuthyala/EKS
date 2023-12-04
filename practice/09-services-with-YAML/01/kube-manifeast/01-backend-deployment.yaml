@@ -33,6 +33,6 @@ metadata:
   labels: 
     app: backend-restapp
     tier: backend
-spec: 
+spec:
   replicas: 3
 
