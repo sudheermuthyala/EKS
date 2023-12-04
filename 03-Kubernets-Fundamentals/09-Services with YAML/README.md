@@ -31,4 +31,11 @@ kubectl get all
 kubectl apply -f 03-frontend-deployment.yml -f 04-frontend-nodeport-service.yml
 kubectl get all
 ```
+# Access REST Application
+```t
+# Get External IP of nodes using
+kubectl get nodes -o wide
 
+# Access REST Application  (Port is static 31234 configured in frontend service template)
+http://<node1-public-ip>:31234/hello
+```
