@@ -17,7 +17,7 @@
 
 
 apiVersion: v1
-kind: Sevice
+kind: Service
 metadata: 
   name: my-backed-service
   labels:
