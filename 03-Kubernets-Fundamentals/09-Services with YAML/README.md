@@ -48,6 +48,7 @@ kubectl get all
 ```
 
 # Recreate Objects using YAML files in a folder
+
 cd <Course-Repo>\kubernetes-fundamentals\09-Services-with-YAML
 kubectl apply -f kube-manifests/
 kubectl get all
