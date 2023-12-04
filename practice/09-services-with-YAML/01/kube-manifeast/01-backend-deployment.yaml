@@ -25,4 +25,7 @@ spec:
 
 
 spec:
-  
+  replicas:
+  selector:
+    matchLabels:
+  template:
