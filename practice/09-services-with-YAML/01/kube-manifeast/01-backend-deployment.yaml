@@ -24,6 +24,7 @@ spec:
             - containerPort: 8080
 
 ## for Deployment
+
 apiVersion: apps/v1
 kind: Deployment 
 metadata:
