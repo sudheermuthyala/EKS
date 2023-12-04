@@ -15,5 +15,4 @@ spec:
       labels:
         app: backend-restapp
         tier: backend
-
         
