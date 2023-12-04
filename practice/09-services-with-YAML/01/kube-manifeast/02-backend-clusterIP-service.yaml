@@ -6,4 +6,5 @@ metadata:
     app: backend-restapp
     tier: backend
 spec:
-  # type: ClusterIP is a default service 
+  type: ClusterIP is a default service 
+  
