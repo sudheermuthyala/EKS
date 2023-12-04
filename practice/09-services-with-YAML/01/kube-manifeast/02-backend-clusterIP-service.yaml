@@ -8,4 +8,5 @@ metadata:
 spec:
   type: ClusterIP is a default service 
   selector: 
+    app: backend-restapp
   ports:
