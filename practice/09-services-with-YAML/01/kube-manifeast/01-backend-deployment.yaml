@@ -12,6 +12,7 @@ spec:
       app: backend-restapp
   template: 
     metadata:
+      name
       labels:
         app: backend-restapp
         tier: backend
