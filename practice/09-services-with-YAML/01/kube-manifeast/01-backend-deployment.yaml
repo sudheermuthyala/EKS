@@ -25,7 +25,9 @@ spec:
 
 ## for Deployment
 apiVersion: apps/v1
-kind: Deployment
+kind: Deployment 
+metadata:
+  
 spec:
   replicas:
   selector:
