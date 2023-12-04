@@ -8,4 +8,5 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    app: backend-restappa
+    app: backend-restapp
+  
