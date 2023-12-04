@@ -4,4 +4,5 @@ metadata:
   name: backend-restapp
   labels:
     app: backend-restapp
-    tier: 
+    tier: backend
+spec:
