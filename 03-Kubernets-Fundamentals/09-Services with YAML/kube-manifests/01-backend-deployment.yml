@@ -17,4 +17,5 @@ spec:
         tier: backend
     spec:
       - name: backend-restapp
-        image: 
+        image: stacksimplify/kube-helloworld:1.0.0
+        
