@@ -9,4 +9,4 @@ spec:
   type: ClusterIP
   selector:
     app: backend-restapp
-  
+  ports
