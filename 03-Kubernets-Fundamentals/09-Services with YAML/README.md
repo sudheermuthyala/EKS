@@ -46,3 +46,5 @@ Delete Objects (file by file)
 kubectl delete -f 01-backend-deployment.yml -f 02-backend-clusterip-service.yml -f 03-frontend-deployment.yml -f 04-frontend-nodeport-service.yml
 kubectl get all
 ```
+
+# Recreate Objects using YAML files in a folder
