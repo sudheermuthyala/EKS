@@ -63,4 +63,5 @@ spec:
     spec:
       containers:
         - name: backend-restapp
-          image: 
+          image: stacksimplify/kube-helloworld:1.0.0 
+          ports:
