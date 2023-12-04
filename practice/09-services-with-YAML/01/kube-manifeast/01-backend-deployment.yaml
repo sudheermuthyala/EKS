@@ -46,4 +46,7 @@
 apiVersion: apps/v1
 kind: Deployment 
 metadata:
-  name: bac
+  name: backend-restapp
+  labels:
+    app: backend-restapp
+    tier: 
