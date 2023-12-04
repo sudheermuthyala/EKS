@@ -11,4 +11,6 @@ spec:
     matchLabels:
       app: backend-restapp
   template:
-    
+    metadata:
+      labels:
+        
