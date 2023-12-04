@@ -24,7 +24,8 @@ spec:
             - containerPort: 8080
 
 ## for Deployment
-apiVersion:
+apiVersion: apps/v1
+kind:
 spec:
   replicas:
   selector:
