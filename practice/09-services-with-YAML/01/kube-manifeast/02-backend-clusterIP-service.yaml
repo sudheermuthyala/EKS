@@ -26,5 +26,7 @@ metadata:
 spec:
   #type: Cliuset IP is Default Service
   selector: 
-    app: ba
+    app: backend-restapp
   ports:
+    - name: http
+      
