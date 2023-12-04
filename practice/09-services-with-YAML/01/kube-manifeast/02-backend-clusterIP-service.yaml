@@ -16,4 +16,6 @@ spec:
         app: backend-restapp
         tier: backend
     spec:
+      containers:
+        - name: backend-restapp
       
