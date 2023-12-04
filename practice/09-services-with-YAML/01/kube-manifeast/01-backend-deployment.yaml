@@ -44,4 +44,4 @@
 #             - containerPort:
 
 apiVersion: apps/v1
-kin
+kind: 
