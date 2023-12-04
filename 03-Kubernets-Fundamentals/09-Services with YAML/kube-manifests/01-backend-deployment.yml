@@ -16,4 +16,4 @@ spec:
         app: backend-restapp
         tier: backend
     spec:
-      -
+      - name: bac
