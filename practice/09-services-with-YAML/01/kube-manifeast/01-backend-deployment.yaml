@@ -25,19 +25,20 @@ spec:
 
 ## for Deployment
 
-apiVersion: apps/v1
-kind: Deployment 
-metadata:
-  name:
-  labels:
-spec:
-  replicas:
-  selector:
-    matchLabels:
-  template:
-    metadata:
-    spec:
-      containers:
-        - name:
-          image:
-          
+# apiVersion: apps/v1
+# kind: Deployment 
+# metadata:
+#   name:
+#   labels:
+# spec:
+#   replicas:
+#   selector:
+#     matchLabels:
+#   template:
+#     metadata:
+#     spec:
+#       containers:
+#         - name:
+#           image:
+#           ports:
+#             - containerPort:
