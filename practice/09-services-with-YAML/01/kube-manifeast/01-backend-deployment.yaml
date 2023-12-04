@@ -25,4 +25,4 @@ spec:
 
 
 ---
-a
+apiVersion: apps/v1
