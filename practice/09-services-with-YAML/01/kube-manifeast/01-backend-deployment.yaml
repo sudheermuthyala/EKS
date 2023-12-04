@@ -30,4 +30,4 @@ kind: Deployment
 metadata:
   name: backend-restapp
   labels: 
-  app: bac
+    app: backend-restapp
