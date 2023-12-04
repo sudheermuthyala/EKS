@@ -22,4 +22,6 @@ kubectl get all
 
 ```
 # Step-03: Create Frontend Deployment & NodePort Service
+- Write the Deployment template for frontend Nginx Application
+
 
