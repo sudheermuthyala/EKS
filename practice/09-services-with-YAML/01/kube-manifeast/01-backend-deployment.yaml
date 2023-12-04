@@ -1,4 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: backen
+  name: backend-restapp
+  labels:
+    app: backend-restapp
+    
