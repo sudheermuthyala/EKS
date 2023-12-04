@@ -3,4 +3,5 @@ kind: Service
 metadata:
   name: my-backed-service 
   labels:
-    app: 
+    app: backend-restapp
+    tier: 
