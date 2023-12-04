@@ -6,4 +6,4 @@ metadata:
     app: backend-restapp
     tier: backend
 spec:
-  type: 
+  type: ClusterIP is a de
