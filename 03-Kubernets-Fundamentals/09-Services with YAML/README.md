@@ -26,7 +26,7 @@ kubectl get all
 - Write the NodePort service template for frontend Nginx Application
 
 ```t
-cd <Course-Repo>\kubernetes-fundamentals\10-Services-with-YAML\kube-manifests
+cd <Course-Repo>\kubernetes-fundamentals\-Services-with-YAML\kube-manifests
 kubectl get all
 kubectl apply -f 03-frontend-deployment.yml -f 04-frontend-nodeport-service.yml
 kubectl get all
