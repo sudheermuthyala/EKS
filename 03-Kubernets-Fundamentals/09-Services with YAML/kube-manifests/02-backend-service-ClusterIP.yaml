@@ -1,2 +1,4 @@
 apiVersion: v1
-kin
+kind: Service
+metadata:
+  name: 
