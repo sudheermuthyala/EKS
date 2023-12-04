@@ -21,3 +21,5 @@ kubectl apply -f 01-backend-deployment.yml -f 02-backend-clusterip-service.yml
 kubectl get all
 
 ```
+Step-03: Create Frontend Deployment & NodePort Service
+
