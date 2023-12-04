@@ -11,4 +11,4 @@ spec:
     app: backend-restapp
   ports:
     - name: http
-      po
+      port:
