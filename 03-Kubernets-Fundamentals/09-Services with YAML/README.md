@@ -39,3 +39,4 @@ kubectl get nodes -o wide
 # Access REST Application  (Port is static 31234 configured in frontend service template)
 http://<node1-public-ip>:31234/hello
 ```
+# Step-04: Delete & Recreate Objects using kubectl apply
