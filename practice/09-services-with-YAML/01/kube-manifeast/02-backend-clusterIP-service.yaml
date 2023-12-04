@@ -25,4 +25,5 @@ metadata:
     tier: backend
 spec:
   type:
-  
+  selector:
+  ports:
