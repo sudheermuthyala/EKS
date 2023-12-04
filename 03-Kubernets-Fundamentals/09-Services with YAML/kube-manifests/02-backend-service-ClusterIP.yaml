@@ -9,4 +9,7 @@ spec:
   type: ClusterIP
   selector:
     app: backend-restapp
-  ports
+  ports:
+    - name: httpd
+      port: 8080
+      tar
