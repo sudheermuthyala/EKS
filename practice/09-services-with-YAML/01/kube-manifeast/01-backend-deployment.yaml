@@ -63,4 +63,4 @@ spec:
     spec:
       containers:
         - name: backend-restapp
-          
+          image: 
