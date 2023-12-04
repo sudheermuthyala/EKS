@@ -40,3 +40,9 @@ kubectl get nodes -o wide
 http://<node1-public-ip>:31234/hello
 ```
 # Step-04: Delete & Recreate Objects using kubectl apply
+Delete Objects (file by file)
+
+```t
+kubectl delete -f 01-backend-deployment.yml -f 02-backend-clusterip-service.yml -f 03-frontend-deployment.yml -f 04-frontend-nodeport-service.yml
+kubectl get all
+```
