@@ -55,4 +55,4 @@ kubectl get all
 
 # Additional References - Use Label Selectors for get and delete
 - https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#using-labels-effectively
-- https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/#label-selectors
+- https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/#label-selectors 
