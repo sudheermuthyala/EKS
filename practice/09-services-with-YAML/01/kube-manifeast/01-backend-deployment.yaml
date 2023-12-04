@@ -59,4 +59,7 @@ spec:
     metadata:
       labels:
         app: backend-restapp
-        tier
+        tier: backend
+    spec:
+      containers:
+        - name: 
