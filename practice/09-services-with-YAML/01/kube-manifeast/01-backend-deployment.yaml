@@ -13,4 +13,5 @@ spec:
   template:
     metadata:
       labels:
-        app: backe
+        app: backend-restapp
+        
