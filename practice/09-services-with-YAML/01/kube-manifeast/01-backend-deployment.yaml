@@ -7,4 +7,4 @@ metadata:
     tier: backend
 spec:
   replicas: 3
-  
+  selector:
