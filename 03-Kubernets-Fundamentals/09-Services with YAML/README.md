@@ -14,7 +14,7 @@ Step-02: Create Backend Deployment & ClusterIP Service
 
 ```t
 
-cd <Course-Repo>\kubernetes-fundamentals\10-Services-with-YAML\kube-manifests
+cd <Course-Repo>\kubernetes-fundamentals\09-Services with YAML\kube-manifests
 kubectl get all
 kubectl apply -f 01-backend-deployment.yml -f 02-backend-clusterip-service.yml
 kubectl get all
