@@ -5,3 +5,6 @@ metadata:
   labels:
     app: frontend-nginexapp
     tier: frontend
+spec:
+  replicas: 1
+  
