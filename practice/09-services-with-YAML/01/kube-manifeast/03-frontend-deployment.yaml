@@ -11,4 +11,7 @@ spec:
     matchLabels:
       app: frontend-nginxapp
   template:
-    la
+    metadata:
+      labels:
+        app: frontend-nginxapp
+        
