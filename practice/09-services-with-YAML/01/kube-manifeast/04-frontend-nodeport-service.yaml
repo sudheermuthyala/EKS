@@ -8,5 +8,6 @@ metadata:
 spec: 
   type: NodePort
   selector: 
-    
+    matchLabels:
+      app: frontend
   
