@@ -4,4 +4,4 @@ metadata:
   name: frontend-nginexapp
   labels:
     app: frontend-nginexapp
-    tier: 
+    tier: frontend
