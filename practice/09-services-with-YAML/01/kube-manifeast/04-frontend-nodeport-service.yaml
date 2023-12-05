@@ -3,6 +3,6 @@ kind: Service
 metadata:
   - name: my-frontend-nodeport-service
     labels:
-    app: frontend-nginxapp
-    tier: frontend
+      app: frontend-nginxapp
+      tier: frontend
   
