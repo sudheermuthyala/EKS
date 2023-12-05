@@ -10,4 +10,8 @@ spec:
   selector:
     matchLabels:
       app: backend-restapp
-      ti
+  template:
+    metadata:
+      labels:
+        app: backend-restapp
+        tier:
