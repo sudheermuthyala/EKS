@@ -7,7 +7,6 @@ metadata:
       tier: frontend
 spec: 
   type: NodePort
-  selector: 
-    matchLabels:
-      app: frontend
+  selector:
+    
   
