@@ -17,4 +17,5 @@ spec:
         tier: backend
     spec:
       containers:
-        - name: backend-restapp
+        - name: backend-restapp-container-name
+          image: stacksimplify/kube-helloworld:1.0.0
