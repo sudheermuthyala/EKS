@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  - name: my-frontend-nodeport-service
+  - name: frontend-nginxapp-nodeport-service
     labels:
       app: frontend-nginxapp
       tier: frontend
