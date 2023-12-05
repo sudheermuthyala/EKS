@@ -4,4 +4,5 @@ metadata:
   name: frontend-nginxapp-nodeport-service 
   labels:
     app: frontend-nginxapp
+    tier: frontend
     
