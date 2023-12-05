@@ -11,4 +11,5 @@ spec:
     app: frontend-nginxapp
   ports:
     - name: http
+      port/
   
