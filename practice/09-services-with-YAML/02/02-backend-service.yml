@@ -10,5 +10,6 @@ spec:
   selector:
     app: backend-restapp
   ports:
-    
+    - name: http
+      
     
