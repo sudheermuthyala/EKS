@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  - name: frontend-nginxapp-nodeport-service
-    labels:
-      app: frontend-nginxapp
-      tier: frontend
+  name: frontend-nginxapp-nodeport-service
+  labels:
+    app: frontend-nginxapp
+    tier: frontend
 spec: 
   type: NodePort
   selector:
