@@ -8,4 +8,5 @@ metadata:
 spec: 
   type: NodePort
   selector:
+    app: frontend-nginxapp
   
