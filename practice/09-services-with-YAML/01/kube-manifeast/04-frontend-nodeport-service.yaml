@@ -7,3 +7,5 @@ metadata:
     tier: frontend
 spec: 
   type: NodePort
+  selector:
+  
