@@ -8,6 +8,5 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    matchLabels:
-      app: backend-restapp
-      
+    app: backend-restapp
+    
