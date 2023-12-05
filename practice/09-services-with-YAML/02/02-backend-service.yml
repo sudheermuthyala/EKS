@@ -8,4 +8,5 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    mat
+    matchLabels:
+      app: 
