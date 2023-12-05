@@ -5,4 +5,5 @@ metadata:
   labels:
     app: frontend-nginxapp
     tier: frontend
-spec:
+spec: 
+  type: NodePort
