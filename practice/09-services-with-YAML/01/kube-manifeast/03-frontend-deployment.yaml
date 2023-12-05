@@ -7,4 +7,5 @@ metadata:
     tier: frontend
 spec:
   replicas: 1
-  
+  selector:
+    
