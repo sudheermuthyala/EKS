@@ -5,4 +5,4 @@ metadata:
   labels:
     app: frontend-nginxapp
     tier: frontend
-    
+spec:
