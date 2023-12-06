@@ -13,5 +13,6 @@ spec:
   template:
     metadata:
       labels:
-        
+        app: frontend-nginxapp
+        tier: 
   
