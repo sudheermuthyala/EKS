@@ -12,9 +12,10 @@
 </p>
 
 
+# AWS Elastic Block Store - Introduction
 
-EBS provides block level storage volumes for use with EC2 & Container instances.
-We can mount these volumes as devices on our EC2 & Container instances. 
+- EBS provides block level storage volumes for use with EC2 & Container instances.
+- We can mount these volumes as devices on our EC2 & Container instances. 
 EBS volumes that are attached to an instance are exposed as storage volumes that persist independently from the life of the EC2 or Container instance.
 We can dynamically change the configuration of a volume attached to an instance.
 AWS recommends EBS for data that must be quickly accessible and requires long-term persistence. 
