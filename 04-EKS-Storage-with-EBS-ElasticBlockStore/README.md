@@ -30,6 +30,10 @@
     <img src="https://github.com/sudheermuthyala/EKS/issues/2#issuecomment-1842656572" />
 </p>
 
+<p align="center">
+    <img src="https://github.com/sudheermuthyala/EKS/issues/2#issuecomment-1842656572" />
+</p>
+
 
 ## AWS EBS CSI Driver
 - We are going to use EBS CSI Driver and use EBS Volumes for persistence storage to MySQL Database
