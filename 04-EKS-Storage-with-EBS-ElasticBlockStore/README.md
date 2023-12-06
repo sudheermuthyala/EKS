@@ -1,5 +1,7 @@
 # AWS EKS Storage
-
+<p align="center">
+    <img src="" />
+</p>
 ## AWS EBS CSI Driver
 - We are going to use EBS CSI Driver and use EBS Volumes for persistence storage to MySQL Database
 
