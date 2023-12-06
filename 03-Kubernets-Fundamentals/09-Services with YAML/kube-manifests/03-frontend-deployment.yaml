@@ -10,4 +10,5 @@ spec:
   selector: 
     matchLabels:
       app: frontend-nginxapp
-      tier: 
+      tier: frontend
+    spec:
