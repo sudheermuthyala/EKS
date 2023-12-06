@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/issues/2#issuecomment-1842656572" />
+    <img src="" />
 </p>
 
 
