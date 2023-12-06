@@ -12,3 +12,4 @@ spec:
     tier: frontend
   ports:
     - name: http
+      po
