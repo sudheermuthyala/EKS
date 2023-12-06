@@ -12,5 +12,6 @@ spec:
       app: frontend-nginxapp
   template:
     metadata:
-      
+      labels:
+        
   
