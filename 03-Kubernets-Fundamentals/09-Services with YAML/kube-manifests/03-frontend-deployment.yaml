@@ -10,4 +10,6 @@ spec:
   selector: 
     matchLabels:
       app: frontend-nginxapp
+  template:
+    
   
