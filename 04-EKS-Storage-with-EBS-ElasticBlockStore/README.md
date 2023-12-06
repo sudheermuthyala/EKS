@@ -12,6 +12,14 @@
 </p>
 
 
+
+EBS provides block level storage volumes for use with EC2 & Container instances.
+We can mount these volumes as devices on our EC2 & Container instances. 
+EBS volumes that are attached to an instance are exposed as storage volumes that persist independently from the life of the EC2 or Container instance.
+We can dynamically change the configuration of a volume attached to an instance.
+AWS recommends EBS for data that must be quickly accessible and requires long-term persistence. 
+EBS is well suited to both database-style applications that rely on random reads and writes, and to throughput-intensive applications that perform long, continuous reads and writes.
+
 <p align="center">
     <img src="https://private-user-images.githubusercontent.com/34484660/288381766-370d4b92-d37f-42c7-9b6c-de3fa91f975a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE4NjA0NzcsIm5iZiI6MTcwMTg2MDE3NywicGF0aCI6Ii8zNDQ4NDY2MC8yODgzODE3NjYtMzcwZDRiOTItZDM3Zi00MmM3LTliNmMtZGUzZmE5MWY5NzVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA2VDEwNTYxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxYTk2YzE3MDlmNmU1YTExY2NkYWNkZDE5NzAwZWU5NGJlNWY5ODgwNTNkMzY5Y2U3YzFlODAwZTAwMjZmYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gcsLvRmCdUgQ02AwOcTNG0Y8wGOxuSpcWXUUcIDzkzw" />
 </p>
