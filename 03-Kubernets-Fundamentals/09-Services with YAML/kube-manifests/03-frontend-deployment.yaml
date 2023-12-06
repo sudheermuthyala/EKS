@@ -17,5 +17,7 @@ spec:
         tier: frontend
     spec: 
       containers:
-        - name: fron
+        - name: frontend-nginxapp
+          image: stacksimplify/kubenginx:4.0.0
+          cont
   
