@@ -48,10 +48,11 @@ kubectl get all
 ```
 
 # Recreate Objects using YAML files in a folder
-
+```t
 cd <Course-Repo>\kubernetes-fundamentals\09-Services-with-YAML
 kubectl apply -f kube-manifests/
 kubectl get all
+```
 
 # Additional References - Use Label Selectors for get and delete
 - https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#using-labels-effectively
