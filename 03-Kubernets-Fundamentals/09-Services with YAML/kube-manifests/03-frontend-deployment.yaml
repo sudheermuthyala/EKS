@@ -13,4 +13,4 @@ spec:
       tier: frontend
     spec:
       containers:
-        
+        - name: frontend-nginxapp
