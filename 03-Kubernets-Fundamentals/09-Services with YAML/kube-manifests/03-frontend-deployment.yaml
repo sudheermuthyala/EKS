@@ -16,4 +16,4 @@ spec:
         - name: frontend-nginxapp
           image: stacksimplify/kubenginx:4.0.0
           ports:
-            containerPort:
+            - containerPort: 80 
