@@ -1,3 +1,4 @@
 ## apiVersion
 - Deployment: apps/v1
-- Service: 
+- Service: v1
+
