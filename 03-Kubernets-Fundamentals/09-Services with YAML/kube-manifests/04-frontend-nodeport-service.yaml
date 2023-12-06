@@ -12,4 +12,5 @@ spec:
     tier: frontend
   ports:
     - name: http
-      port: 
+      port: 80
+      
