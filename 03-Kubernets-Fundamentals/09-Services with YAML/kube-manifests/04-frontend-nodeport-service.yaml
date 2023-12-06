@@ -3,4 +3,5 @@ kind: Service
 metadata: 
   name: my-frontend-nodeport-service
   labels: 
-    app: 
+    app: frontend-nginxapp
+    
