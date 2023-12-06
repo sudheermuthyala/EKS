@@ -10,4 +10,5 @@ spec:
   selector:
     app: frontend-nginxapp
     tier: frontend
-  
+  ports:
+    - name: 
