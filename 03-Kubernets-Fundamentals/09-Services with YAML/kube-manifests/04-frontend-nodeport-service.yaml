@@ -11,4 +11,4 @@ spec:
     app: frontend-nginxapp
     tier: frontend
   ports:
-    
+    - name: http
