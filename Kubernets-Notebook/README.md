@@ -1,2 +1,3 @@
 # What is Kubernets ?
-- kubernets is also known as "K8s" is an open-source container orchestration 
+- kubernets is also known as "K8s" is an open-source container orchestration platform developed by Google 
+- 
