@@ -4,4 +4,4 @@
 - kubernets provides consistent and reliable way to manage Applications, regardless whether they running on-premises, in the cloud , or in Hybrid environments.
 
 # What is Microservices ?
-- Microservices is Software architecture pattern that structurs applications as a collection of small independent
+- Microservices is Software architecture pattern that structurs applications as a collection of small independently deployable services.
