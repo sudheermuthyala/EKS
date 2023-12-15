@@ -5,4 +5,4 @@
 
 # What is Microservices ?
 - Microservices is Software architecture pattern that structurs applications as a collection of small independently deployable services.
-- Each microservice is desined to perform 
+- Each microservice is desined to perform a specific function of business Capability and communication 
