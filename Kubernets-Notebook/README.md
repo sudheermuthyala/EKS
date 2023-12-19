@@ -9,4 +9,4 @@
 
 # Persistent Volumes ?
 - In Kubernets persistance volume is piece of storage provisined in a cluster that can be allocated and managed by administrator 
-- persistance volumes provide a way to decouple storage from the lifecycle of pod 
+- persistance volumes provide a way to decouple storage from the lifecycle of pod and allow data to persist beyo
