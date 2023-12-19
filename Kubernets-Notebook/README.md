@@ -8,4 +8,4 @@
 - Each microservice is desined to perform a specific function of business Capability and communicates with other services over well defined  APIs of Protocols.
 
 # Persistent Volumes ?
-- In Kubernets 
+- In Kubernets persistance volume is piece of storage provisined in a cluster 
