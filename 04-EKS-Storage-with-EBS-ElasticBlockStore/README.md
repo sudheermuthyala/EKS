@@ -11,6 +11,7 @@
 - AWS recommends EBS for data that must be quickly accessible and requires long-term persistence. 
 - EBS is well suited to both database-style applications that rely on random reads and writes, and to throughput-intensive applications that perform long, continuous reads and writes.
 
+![image](https://github.com/sudheermuthyala/EKS/assets/34484660/a8d2547d-d970-4eb8-b439-bb6d95766c34)
 
 
 <p align="center">
