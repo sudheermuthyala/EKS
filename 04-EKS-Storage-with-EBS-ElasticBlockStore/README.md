@@ -1,12 +1,6 @@
 # AWS EKS Storage EBS CSI Driver
 
 
-## Try again now
-
-## 
-![](2024-01-03-12-33-25.png)
-## check 23
-## 3
 # AWS Elastic Block Store - Introduction
 
 - EBS provides block level storage volumes for use with EC2 & Container instances.
