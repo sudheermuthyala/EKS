@@ -36,6 +36,6 @@
 ```
 - Review the same in Visual Editor
 - Click on **Review Policy**
-- Name: Amazon_EBS_CSI_Driver
+- **Name:** Amazon_EBS_CSI_Driver
 
 
