@@ -12,7 +12,8 @@
 <p align="center">
     <img src="![image](https://github.com/sudheermuthyala/EKS/assets/34484660/1ed7846a-b56f-4f62-82dc-f94a45959358)" />
 </p>
-## Try again
+
+## Try again now
 
 ## 
 ![](2024-01-03-12-33-25.png)
