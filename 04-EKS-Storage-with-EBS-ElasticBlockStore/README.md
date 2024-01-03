@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/issues/2#issue-2028114178" />
+    <img src="![image](https://github.com/sudheermuthyala/EKS/assets/34484660/1ed7846a-b56f-4f62-82dc-f94a45959358)" />
 </p>
 ## Try again
 
