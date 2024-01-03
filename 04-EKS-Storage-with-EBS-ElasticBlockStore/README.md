@@ -10,11 +10,11 @@
 
 
 <p align="center">
-    <img src="https://github.com/sudheermuthyala/EKS/issues/2#issuecomment-1842621873" />
+    <img src="https://github.com/sudheermuthyala/EKS/blob/main/images/Deploymentfeatures.png" />
 </p>
 
 
-## check 2
+## check 23
 # AWS Elastic Block Store - Introduction
 
 - EBS provides block level storage volumes for use with EC2 & Container instances.
