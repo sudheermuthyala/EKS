@@ -2,7 +2,7 @@
 1. Introduction
 2. Create IAM policyy
 3. Get the IAM role Worker Nodes using and Associate this policy to that role
-
+4. Deploy Amazon EBS CSI Driver
 
 ##  Step-01: Introduction
 - Create IAM Policy for EBS
