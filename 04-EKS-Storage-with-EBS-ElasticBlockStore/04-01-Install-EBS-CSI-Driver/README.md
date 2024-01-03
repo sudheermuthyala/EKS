@@ -1,6 +1,7 @@
 # EKS Storage with EBS - Elastic Block Store
 1. Introduction
 2. Create IAM policyy
+3. Get the IAM role Worker Nodes using and Associate this policy to that role
 
 
 ##  Step-01: Introduction
