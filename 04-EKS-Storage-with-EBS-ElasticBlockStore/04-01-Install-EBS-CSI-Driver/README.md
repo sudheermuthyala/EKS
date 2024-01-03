@@ -54,3 +54,4 @@ rolearn: arn:aws:iam::180789647333:role/eksctl-eksdemo1-nodegroup-eksdemo-NodeIn
 - Click on **Attach Policies**
 - Search for **Amazon_EBS_CSI_Driver** and click on **Attach Policy**
 
+Step-04: Deploy Amazon EBS CSI Driver
