@@ -37,7 +37,7 @@
 - Review the same in Visual Editor
 - Click on **Review Policy**
 - **Name:** Amazon_EBS_CSI_Driver
-- Description: Policy for EC2 Instances to access Elastic Block Store
+- **Description:** Policy for EC2 Instances to access Elastic Block Store
 - Click on Create Policy
 
 
