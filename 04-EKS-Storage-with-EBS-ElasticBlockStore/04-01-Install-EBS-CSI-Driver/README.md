@@ -35,4 +35,5 @@
 }
 ```
 - Review the same in Visual Editor
+- Click on Review Policy
 
