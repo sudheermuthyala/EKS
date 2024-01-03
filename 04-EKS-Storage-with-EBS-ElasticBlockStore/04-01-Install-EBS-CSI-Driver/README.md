@@ -48,3 +48,8 @@ kubectl -n kube-system describe configmap aws-auth
 # from output check rolearn
 rolearn: arn:aws:iam::180789647333:role/eksctl-eksdemo1-nodegroup-eksdemo-NodeInstanceRole-IJN07ZKXAWNN
 ```
+- Go to Services -> IAM -> Roles
+- Search for role with name eksctl-eksdemo1-nodegroup and open it
+- Click on Permissions tab
+- Click on Attach Policies
+- Search for Amazon_EBS_CSI_Driver and click on Attach Policy
