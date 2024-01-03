@@ -4,3 +4,5 @@
 - Associate IAM Policy to Worker Node IAM Role
 - Install EBS CSI Driver
 ## Step-02: Create IAM policyy
+- Go to Services -> IAM
+- Create a Policy
