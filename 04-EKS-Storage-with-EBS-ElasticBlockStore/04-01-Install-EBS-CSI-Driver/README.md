@@ -7,3 +7,5 @@
 - Go to Services -> IAM
 - Create a Policy
     - Select JSON tab and copy paste the below JSON
+
+``````
