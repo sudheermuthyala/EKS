@@ -1,4 +1,5 @@
 # AWS EKS Storage EBS CSI Driver
+![image](https://github.com/sudheermuthyala/EKS/assets/34484660/45ded0c7-1e8b-4f1f-ba3a-5413626adc2b)
 
 
 # AWS Elastic Block Store - Introduction
