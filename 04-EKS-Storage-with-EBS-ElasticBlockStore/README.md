@@ -12,7 +12,7 @@
 <p align="center">
     <img src="https://github.com/sudheermuthyala/EKS/issues/2#issue-2028114178" />
 </p>
-## Tr
+## Try again
 
 ## 
 ![](2024-01-03-12-33-25.png)
