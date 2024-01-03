@@ -1,5 +1,6 @@
 # EKS Storage with EBS - Elastic Block Store
 1. Introduction
+2. Create IAM policyy
 
 ##  Step-01: Introduction
 - Create IAM Policy for EBS
