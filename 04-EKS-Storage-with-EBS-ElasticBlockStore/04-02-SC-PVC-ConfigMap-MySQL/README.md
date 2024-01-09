@@ -59,3 +59,12 @@ kubectl get pods
 # List pods based on  label name
 kubectl get pods -l app=mysql
 ```
+
+## Step-04: Connect to MySQL Database
+```t
+# Connect to MYSQL Database
+kubectl run -it --rm --image=mysql:5.6 --restart=Never mysql-client -- mysql -h mysql -pdbpassword11
+
+# Verify usermgmt schema got created which we provided in ConfigMap
+mysql> show schemas;
+```
