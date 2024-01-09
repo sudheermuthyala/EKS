@@ -1,6 +1,6 @@
 # EKS Storage - Storage Classes, Persistent Volume Claims
 
-
+Step-02: Create following Kubernetes manifests
 Step-03: Create MySQL Database with all above manifests
 Step-04: Connect to MySQL Database
 Step-05: References
