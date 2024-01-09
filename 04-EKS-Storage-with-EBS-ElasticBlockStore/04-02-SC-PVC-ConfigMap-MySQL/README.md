@@ -11,3 +11,6 @@
 | ClusterIP Service  | 05-mysql-clusterip-service.yml  |
 
 ## Step-02: Create following Kubernetes manifests
+
+# Create Storage Class manifest
+
