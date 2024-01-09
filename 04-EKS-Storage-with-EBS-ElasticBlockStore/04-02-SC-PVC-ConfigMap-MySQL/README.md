@@ -17,9 +17,9 @@
 | Deployment, Environment Variables, Volumes, VolumeMounts  | 04-mysql-deployment.yml  |
 | ClusterIP Service  | 05-mysql-clusterip-service.yml  |
 
-## Step-02: Create following Kubernetes manifests
+# Step-02: Create following Kubernetes manifests
 
-# Create Storage Class manifest
+## Create Storage Class manifest
 - https://kubernetes.io/docs/concepts/storage/storage-classes/#volume-binding-mode
 - **Important Note:** Wait For `FirstConsumer` mode will delay the volume binding and provisioning of a PersistentVolume until a Pod using the PersistentVolumeClaim is created.
 
