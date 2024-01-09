@@ -13,4 +13,5 @@
 ## Step-02: Create following Kubernetes manifests
 
 # Create Storage Class manifest
+- https://kubernetes.io/docs/concepts/storage/storage-classes/#volume-binding-mode
 
