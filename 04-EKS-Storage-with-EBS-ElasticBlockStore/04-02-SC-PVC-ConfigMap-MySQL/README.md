@@ -17,3 +17,16 @@
 - **Important Note:** Wait For `FirstConsumer` mode will delay the volume binding and provisioning of a PersistentVolume until a Pod using the PersistentVolumeClaim is created.
 
 # Create Persistent Volume Claims manifest
+```t
+# Create Storage Class & PVC
+kubectl apply -f kube-manifests/
+
+# List Storage Classes
+kubectl get sc
+
+# List PVC
+kubectl get pvc 
+
+# List PV
+kubectl get pv
+```
