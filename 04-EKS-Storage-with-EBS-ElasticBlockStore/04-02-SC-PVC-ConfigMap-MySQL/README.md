@@ -31,3 +31,4 @@ kubectl get pvc
 kubectl get pv
 ```
 # Create ConfigMap manifest
+- We are going to create a usermgmt database schema during the mysql pod creation time which we will leverage when we deploy User Management Microservice.
