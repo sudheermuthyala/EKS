@@ -40,3 +40,22 @@ kubectl get pv
 - At any point of time we are going to have only one mysql pod in this design so `ClusterIP: None` will use the `Pod IP Address` instead of creating or allocating a separate IP for `MySQL Cluster IP service`.
 
 ## Step-03: Create MySQL Database with all above manifests
+```t
+# Create MySQL Database
+kubectl apply -f kube-manifests/
+
+# List Storage Classes
+kubectl get sc
+
+# List PVC
+kubectl get pvc 
+
+# List PV
+kubectl get pv
+
+# List pods
+kubectl get pods 
+
+# List pods based on  label name
+kubectl get pods -l app=mysql
+```
