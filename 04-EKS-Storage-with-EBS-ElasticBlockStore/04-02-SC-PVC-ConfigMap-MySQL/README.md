@@ -23,7 +23,7 @@
 - https://kubernetes.io/docs/concepts/storage/storage-classes/#volume-binding-mode
 - **Important Note:** Wait For `FirstConsumer` mode will delay the volume binding and provisioning of a PersistentVolume until a Pod using the PersistentVolumeClaim is created.
 
-# Create Persistent Volume Claims manifest
+## Create Persistent Volume Claims manifest
 ```t
 # Create Storage Class & PVC
 kubectl apply -f kube-manifests/
