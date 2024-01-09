@@ -39,4 +39,4 @@ kubectl get pv
 # Create MySQL ClusterIP Service manifest
 - At any point of time we are going to have only one mysql pod in this design so `ClusterIP: None` will use the `Pod IP Address` instead of creating or allocating a separate IP for `MySQL Cluster IP service`.
 
-## 
+## Step-03: Create MySQL Database with all above manifests
