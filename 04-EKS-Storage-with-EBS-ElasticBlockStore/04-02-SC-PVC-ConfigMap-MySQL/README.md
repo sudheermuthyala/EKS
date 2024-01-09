@@ -10,4 +10,4 @@
 | Deployment, Environment Variables, Volumes, VolumeMounts  | 04-mysql-deployment.yml  |
 | ClusterIP Service  | 05-mysql-clusterip-service.yml  |
 
-##Step-02: Create following Kubernetes manifests
+## Step-02: Create following Kubernetes manifests
