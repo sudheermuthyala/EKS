@@ -36,3 +36,4 @@ kubectl get pv
 - Environment Variables
 - Volumes
 - Volume Mounts
+# Create MySQL ClusterIP Service manifest
