@@ -30,3 +30,4 @@ kubectl get pvc
 # List PV
 kubectl get pv
 ```
+# Create ConfigMap manifest
