@@ -6,7 +6,7 @@
 - Step-04: Connect to MySQL Database
 - Step-05: References
 
-## Step-01: Introduction
+# Step-01: Introduction
 - We are going to create a MySQL Database with persistence storage using AWS EBS Volumes
 
 | Kubernetes Object  | YAML File |
