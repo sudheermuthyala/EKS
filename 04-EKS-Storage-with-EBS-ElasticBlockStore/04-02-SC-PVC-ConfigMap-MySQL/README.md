@@ -39,14 +39,14 @@ kubectl get pv
 ```
 ## Create ConfigMap manifest
 - We are going to create a usermgmt database schema during the mysql pod creation time which we will leverage when we deploy User Management Microservice.
-# Create MySQL Deployment manifest
+## Create MySQL Deployment manifest
 - Environment Variables
 - Volumes
 - Volume Mounts
-# Create MySQL ClusterIP Service manifest
+## Create MySQL ClusterIP Service manifest
 - At any point of time we are going to have only one mysql pod in this design so `ClusterIP: None` will use the `Pod IP Address` instead of creating or allocating a separate IP for `MySQL Cluster IP service`.
 
-## Step-03: Create MySQL Database with all above manifests
+# Step-03: Create MySQL Database with all above manifests
 ```t
 # Create MySQL Database
 kubectl apply -f kube-manifests/
@@ -67,7 +67,7 @@ kubectl get pods
 kubectl get pods -l app=mysql
 ```
 
-## Step-04: Connect to MySQL Database
+# Step-04: Connect to MySQL Database
 ```t
 # Connect to MYSQL Database
 kubectl run -it --rm --image=mysql:5.6 --restart=Never mysql-client -- mysql -h mysql -pdbpassword11
@@ -75,7 +75,7 @@ kubectl run -it --rm --image=mysql:5.6 --restart=Never mysql-client -- mysql -h 
 # Verify usermgmt schema got created which we provided in ConfigMap
 mysql> show schemas;
 ```
-## Step-05: References
+# Step-05: References
 
 - We need to discuss references exclusively here.
 - These will help you in writing effective templates based on need in your environments.
