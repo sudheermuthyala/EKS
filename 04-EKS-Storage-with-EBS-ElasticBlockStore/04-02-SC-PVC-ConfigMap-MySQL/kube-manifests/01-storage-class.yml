@@ -3,4 +3,4 @@ kind: StorageClass
 metadata:
   name: ebs-sc
 provisioner: ebs.csi.aws.com
-VolumeBindingMode: 
+VolumeBindingMode: waitfor
