@@ -5,11 +5,7 @@ metadata:
 provisioner: ebs.csi.aws.com
 VolumeBindingMode: WaitForFirstConsumer
 
-for first consumer mode will delay the volume binding
-
-and provisioning of the persistent volume
-
-until a pod using the persistent volume claim is created.
+WaitForFirstConsumer mode will delay the volume binding and provisioning of the persistent volume until a pod using the persistent volume claim is created.
 
 So what happens is like whenever the storage class
 
