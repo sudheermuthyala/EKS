@@ -45,6 +45,7 @@
 - **Description:** Policy for EC2 Instances to access Elastic Block Store
 - Click on **Create Policy**
 
+
 ## Step-03: Get the IAM role Worker Nodes using and Associate this policy to that role
 ```t
 # Get Worker node IAM Role ARN
