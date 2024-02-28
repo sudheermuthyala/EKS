@@ -44,7 +44,7 @@
 - **Name:** Amazon_EBS_CSI_Driver
 - **Description:** Policy for EC2 Instances to access Elastic Block Store
 - Click on **Create Policy**
-
+**NOTE :** 
 
 ## Step-03: Get the IAM role Worker Nodes using and Associate this policy to that role
 ```t
