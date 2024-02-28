@@ -59,6 +59,7 @@ the Kubernetes will be able to access
 that respective EBS services from the Kubernetes cluster.
 
 ```
+
 ## Step-03: Get the IAM role Worker Nodes using and Associate this policy to that role
 ```t
 # Get Worker node IAM Role ARN
