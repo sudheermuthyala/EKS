@@ -45,6 +45,19 @@
 - **Description:** Policy for EC2 Instances to access Elastic Block Store
 - Click on **Create Policy**
 **NOTE :** 
+```
+So once we create this role
+
+and then associate it to our EBS EC2 instances,
+
+things like EKS EC2 instances worker node IAM role,
+
+which means like the pods inside
+
+the Kubernetes will be able to access
+
+that respective EBS services from the Kubernetes cluster.
+
 
 ## Step-03: Get the IAM role Worker Nodes using and Associate this policy to that role
 ```t
