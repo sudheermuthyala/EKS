@@ -87,6 +87,7 @@ mysql> show schemas;
 
 
 ## 01-Storage-class.yml
+
 ```t
 apiVersion: storage.k8s.io/v1
 kind: StorageClass
