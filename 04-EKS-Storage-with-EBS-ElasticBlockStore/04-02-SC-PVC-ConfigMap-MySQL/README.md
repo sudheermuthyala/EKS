@@ -87,3 +87,11 @@ mysql> show schemas;
 
 
 ## 01-Storage-class.yml
+```t
+
+```
+
+**NOTE :**
+ WaitForFirstConsumer mode will delay the volume binding and provisioning of the persistent volume until a pod using the persistent volume claim is created.So what happens is like whenever the storage class you create it and then whenever you create your persistent volume claim. So if you don't add this volume binding mode to WaitForFirstConsumer then it is going to immediately dynamically provision and then mount your volume.So means like it is going to provision your volume there.So in which availability zone we really don't know,it is dynamic, whappen So it can be in available zone one or means like US-East-1 here or US-East-1 we really don't know.
+And whenever you go ahead and then later you go and then create the pod what happens is like if your volume is mounted in US-East-1 here and your pod got scheduled
+or created in US-East-1 B, then you have the issue, right? So considering all those things there is a new option provided here WaitForFirstConsumer So what happens in this case is like whenever you create the pod at that time only it'll provision the equivalent volume for you.So what happens at that time is both will get created in the same topology which is nothing but in the same a availability zone.So that is one key important thing.So that's the reason whenever we are usingWaitForFirstConsumer
