@@ -44,15 +44,10 @@
 - **Name:** Amazon_EBS_CSI_Driver
 - **Description:** Policy for EC2 Instances to access Elastic Block Store
 - Click on **Create Policy**
+
 **NOTE :** 
 ```
-So once we create this role
-
-and then associate it to our EBS EC2 instances,
-
-things like EKS EC2 instances worker node IAM role,
-
-which means like the pods inside
+So once we create this role and then associate it to our EBS EC2 instances,things like EKS EC2 instances worker node IAM role,which means like the pods inside
 
 the Kubernetes will be able to access
 
