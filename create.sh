@@ -1,5 +1,5 @@
 
-#create { 
+#cre () { 
 
 eksctl create cluster --name=mseks \
                       --region=us-east-1 \
@@ -33,9 +33,10 @@ eksctl create nodegroup --cluster=mseks \
 #}
 
 
-# delete {
-#eksctl delete clusture --name myeks
+#del () {
+#eksctl delete cluster --name mseks
 
 #}
 
+$1 
 
